@@ -1,5 +1,4 @@
 body {
-    max-width: 1098px;
 }
 
 
@@ -17,17 +16,25 @@ body {
     margin: 0;
 }
 
+.sjrk-header-stripes {
+    background-image: url("../assets/sjrk-cropped-stroke.png");
+    background-size: 4em auto;
+    background-repeat: repeat-x;
+    height: 4em;
+}
+
 .sjrk-header .sjrk-left-col {
-    padding-top: 40px;
-    padding-left: 40px;
+    /*padding-top: 40px;
+    padding-left: 40px;*/
 }
 
 .sjrk-header .sjrk-right-col {
-    background-image: url("../assets/sjrk-cropped-stroke.png");
-    background-size: 50px 42px;
-    background-repeat: repeat-x;
-    padding-top: 50px;
+    background-image: url("../assets/sjrk-codesign-icon.png");
+    background-size: 4em auto;
+    background-repeat: no-repeat;
+    background-position: right;
 }
+
 
 .sjrk-codesign-link {
     color: #FFF;
@@ -37,14 +44,15 @@ body {
 .sjrk-content-top {
     height: 152px;
     background-image: url("../assets/paperbg-top.png");
+    
 }
 
 .sjrk-wikiLinkContainer-outer {
     background-image: url("../assets/sjrk-black-blob.png");
     color: #FFF;
-    width: 157px;
-    height: 140px;
-    background-size: 157px 140px;
+    width: 10em;
+    height: 9em;
+    background-size: 10em auto;
     background-repeat: no-repeat;
 }
 
@@ -62,9 +70,20 @@ body {
 
 }
 
+.sjrk-hands-and-globes {
+    background-image: url("../assets/sjrk-hands-and-globe.png");
+    width: 100%;
+    height: 7em;
+    background-size: auto 7em;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
 .sjrk-content-bottom {
     height: 152px;
     background-image: url("../assets/paperbg.png");
+    background-position: 75%;
 }
 
 .sjrk-footer {
