@@ -1,0 +1,46 @@
+body {
+    max-width: 1098px;
+}
+
+.sjrk-header {
+    background-color: rgb(255, 194, 74);
+}
+
+.sjrk-caps {
+    text-transform: uppercase;
+}
+
+.sjrk-header h1 {
+    color: #FFF;
+}
+
+.sjrk-header .sjrk-left-col {
+    text-align: center;
+}
+
+.sjrk-header .sjrk-right-col {
+
+}
+
+.sjrk-codesign-link {
+    color: #FFF;
+}
+
+.sjrk-content-top {
+    height: 152px;
+    background-image: url("../assets/paperbg-top.png");
+}
+
+.sjrk-content {
+
+}
+
+.sjrk-content-bottom {
+    height: 152px;
+    background-image: url("../assets/paperbg.png");
+}
+
+.sjrk-footer {
+    text-align: center;
+    background-color: rgb(255, 194, 74);
+}
