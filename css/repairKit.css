@@ -24,8 +24,15 @@ body {
 }
 
 .sjrk-header .sjrk-left-col {
-    /*padding-top: 40px;
-    padding-left: 40px;*/
+    margin-top: -3em;
+    padding-left: 3em;
+}
+
+/* turn off the negative margin on small screens where everything is collapsed into one column */
+@media screen and (max-width: 64em) {
+    .sjrk-header .sjrk-left-col {
+        margin-top: 0em;
+    }
 }
 
 .sjrk-header .sjrk-right-col {
@@ -44,7 +51,6 @@ body {
 .sjrk-content-top {
     height: 152px;
     background-image: url("../assets/paperbg-top.png");
-    
 }
 
 .sjrk-wikiLinkContainer-outer {
@@ -89,4 +95,12 @@ body {
 .sjrk-footer {
     text-align: center;
     background-color: rgb(255, 194, 74);
+}
+
+.sjrk-img-oak-foundation-logo {
+    width: 100%;
+}
+
+.sjrk-img-idrc-logo {
+    width: 100%;
 }
