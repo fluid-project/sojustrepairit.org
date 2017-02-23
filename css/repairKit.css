@@ -13,11 +13,13 @@ body {
 
 .sjrk-header-stripes {
     height: 50px;
-    background-image: url("../assets/stripesbg.png");    
+    background-image: url("../assets/stripesbg.png");
 }
 
 .sjrk-header h1 {
     color: #FFF;
+    font-size: 3em;
+    margin: 0;
 }
 
 .sjrk-header .sjrk-left-col {
@@ -30,11 +32,29 @@ body {
 
 .sjrk-codesign-link {
     color: #FFF;
+    text-decoration: none;
 }
 
 .sjrk-content-top {
     height: 152px;
     background-image: url("../assets/paperbg-top.png");
+}
+
+.sjrk-wikiLinkContainer-outer {
+    background-image: url("../assets/blobbg.png");
+    color: #FFF;
+    width: 157px;
+    height: 140px;
+}
+
+.sjrk-wikiLinkContainer-inner {
+    padding: 25%;
+}
+
+.sjrk-wikiLink {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 0.8em;
 }
 
 .sjrk-content {
