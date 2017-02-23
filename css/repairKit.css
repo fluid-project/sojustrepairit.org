@@ -72,8 +72,12 @@ body {
     font-size: 0.8em;
 }
 
-.sjrk-content {
+.sjrk-content .sjrk-left-col {
+    padding: 0 2em 0 2em;
+}
 
+.sjrk-content .sjrk-right-col {
+    padding: 0 2em 0 2em;
 }
 
 .sjrk-hands-and-globes {
