@@ -11,23 +11,22 @@ body {
     background-color: rgb(255, 194, 74);
 }
 
-.sjrk-header-stripes {
-    height: 50px;
-    background-image: url("../assets/stripesbg.png");
-}
-
 .sjrk-header h1 {
     color: #FFF;
-    font-size: 3em;
+    font-size: 4em;
     margin: 0;
 }
 
 .sjrk-header .sjrk-left-col {
-    text-align: center;
+    padding-top: 40px;
+    padding-left: 40px;
 }
 
 .sjrk-header .sjrk-right-col {
-
+    background-image: url("../assets/sjrk-cropped-stroke.png");
+    background-size: 50px 42px;
+    background-repeat: repeat-x;
+    padding-top: 50px;
 }
 
 .sjrk-codesign-link {
@@ -41,10 +40,12 @@ body {
 }
 
 .sjrk-wikiLinkContainer-outer {
-    background-image: url("../assets/blobbg.png");
+    background-image: url("../assets/sjrk-black-blob.png");
     color: #FFF;
     width: 157px;
     height: 140px;
+    background-size: 157px 140px;
+    background-repeat: no-repeat;
 }
 
 .sjrk-wikiLinkContainer-inner {
