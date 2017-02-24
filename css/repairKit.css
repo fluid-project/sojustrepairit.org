@@ -11,9 +11,21 @@ body {
 }
 
 .sjrk-header h1 {
-    color: #FFF;
     font-size: 4em;
     margin: 0;
+}
+
+.sjrk-mainHeading-socialJustice {
+    color: #FFF;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.sjrk-mainHeading-repairKit {
+    color: #000;
 }
 
 .sjrk-header-stripes {
@@ -36,16 +48,30 @@ body {
 }
 
 .sjrk-header .sjrk-right-col {
-    background-image: url("../assets/sjrk-codesign-icon.png");
+    /*background-image: url("../assets/sjrk-codesign-icon.png");
     background-size: 4em auto;
     background-repeat: no-repeat;
-    background-position: right;
+    background-position: right;*/
 }
 
 
 .sjrk-codesign-link {
     color: #FFF;
     text-decoration: none;
+    background-color: #000;
+    display: inline-block;
+    padding: 0.5em;
+
+}
+
+.sjrk-codesign-icon {
+    background-image: url("../assets/sjrk-codesign-icon.png");
+    background-size: 4em auto;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 4em;
+    height: 4em;
+    display: inline-block;
 }
 
 .sjrk-content-top {
