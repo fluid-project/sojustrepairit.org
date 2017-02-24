@@ -7,7 +7,9 @@ body {
 }
 
 .sjrk-header {
-    background-color: rgb(252, 187, 65);
+    background-color: rgb(255, 255, 255);
+    background-image: url("../assets/paper-bg-seamless-top.png");    
+    background-position: bottom;
 }
 
 .sjrk-header h1 {
@@ -75,8 +77,9 @@ body {
 }
 
 .sjrk-content-top {
-    height: 152px;
-    background-image: url("../assets/paperbg-top.png");
+    height: 224px;
+    background-image: url("../assets/ripped-bg-seamless-top.png");
+    background-position: bottom;
 }
 
 .sjrk-wikiLinkContainer-outer {
@@ -117,8 +120,8 @@ body {
 }
 
 .sjrk-content-bottom {
-    height: 152px;
-    background-image: url("../assets/paperbg.png");
+    height: 224px;
+    background-image: url("../assets/ripped-bg-seamless-bottom.png");
     background-position: 75%;
 }
 
@@ -129,7 +132,8 @@ body {
 
 .sjrk-footer {
     text-align: center;
-    background-color: rgb(252, 187, 65);
+    background-image: url("../assets/paper-bg-seamless-bottom.png");
+    background-position: 75%;
 }
 
 .sjrk-img-oak-foundation-logo {
