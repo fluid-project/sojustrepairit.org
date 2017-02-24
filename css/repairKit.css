@@ -7,7 +7,7 @@ body {
 }
 
 .sjrk-header {
-    background-color: rgb(255, 194, 74);
+    background-color: rgb(252, 187, 65);
 }
 
 .sjrk-header h1 {
@@ -122,9 +122,14 @@ body {
     background-position: 75%;
 }
 
+.sjrk-links a {
+    text-decoration: none;
+    color: #000;
+}
+
 .sjrk-footer {
     text-align: center;
-    background-color: rgb(255, 194, 74);
+    background-color: rgb(252, 187, 65);
 }
 
 .sjrk-img-oak-foundation-logo {
@@ -133,4 +138,16 @@ body {
 
 .sjrk-img-idrc-logo {
     width: 100%;
+}
+
+.sjrk-icon-credit {
+    font-size: 0.8em;
+    text-align: right;
+    padding-right: 1.6em;
+}
+
+.sjrk-icon-credit a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #000;
 }
