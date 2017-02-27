@@ -110,8 +110,8 @@ body {
 }
 
 .sjrk-content .sjrk-right-col {
-    padding-left: 8em;
-    padding-right: 4em;
+    padding-left: 0em;
+    padding-right: 8em;
 }
 
 /* Responsive style changes for small screen sizes */
@@ -168,6 +168,19 @@ body {
 
 .sjrk-footer {
     padding-top: 2em;
+}
+
+.sjrk-oak-foundation-logo-container {
+    margin-left: 8em;
+}
+
+/* Responsive style changes for small screen sizes */
+@media screen and (max-width: 48em) {
+
+    /*Reduce margin*/
+    .sjrk-oak-foundation-logo-container {
+        margin-left: 4em;
+    }
 }
 
 .sjrk-img-oak-foundation-logo {
