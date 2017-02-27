@@ -34,7 +34,7 @@ body {
 }
 
 .sjrk-header-stripes {
-    background-image: url("../assets/sjrk-cropped-stroke.png");
+    background-image: url("../assets/sjrk-cropped-stroke-white.png");
     background-size: 4em auto;
     background-repeat: repeat-x;
     height: 4em;
