@@ -11,7 +11,7 @@ body {
 
 .sjrk-header {
     background-color: rgb(255, 255, 255);
-    background-image: url("../assets/paper-bg-seamless-top-colour.png");
+    background-image: url("../assets/sjrk-paper-bg-seamless-top-colour.png");
     background-position: bottom;
 }
 
@@ -81,7 +81,7 @@ body {
 
 .sjrk-content-top {
     height: 224px;
-    background-image: url("../assets/ripped-bg-seamless-top-colour.png");
+    background-image: url("../assets/sjrk-ripped-bg-seamless-top-colour.png");
     background-position: bottom;
 }
 
@@ -125,7 +125,7 @@ body {
 
 .sjrk-content-bottom {
     height: 224px;
-    background-image: url("../assets/ripped-bg-seamless-bottom-colour.png");
+    background-image: url("../assets/sjrk-ripped-bg-seamless-bottom-colour.png");
     background-position: 75%;
 }
 
@@ -148,7 +148,7 @@ body {
 }
 
 .sjrk-icon-credit {
-    background-image: url("../assets/paper-bg-seamless-bottom-colour.png");
+    background-image: url("../assets/sjrk-paper-bg-seamless-bottom-colour.png");
     background-position: 75%;
     font-size: 0.8em;
     text-align: right;
