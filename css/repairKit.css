@@ -45,20 +45,20 @@ body {
     padding-left: 3em;
 }
 
-/* turn off the negative margin on small screens where everything is collapsed into one column */
-@media screen and (max-width: 64em) {
+
+/* Responsive style changes for small screen sizes */
+@media screen and (max-width: 48em) {
+
+    /* turn off the negative margin on small screens where everything is collapsed into one column */
     .sjrk-header .sjrk-left-col {
         margin-top: 0em;
     }
-}
 
-.sjrk-header .sjrk-right-col {
-    /*background-image: url("../assets/sjrk-codesign-icon.png");
-    background-size: 4em auto;
-    background-repeat: no-repeat;
-    background-position: right;*/
+    /* Apply equivalent padding to that of the left column when collapsed */
+    .sjrk-header .sjrk-right-col {
+        padding-left: 3em;
+    }
 }
-
 
 .sjrk-codesign-link {
     color: #000;
