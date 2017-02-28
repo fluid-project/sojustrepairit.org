@@ -90,17 +90,6 @@ body {
     line-height: 1.55em;
 }
 
-.sjrk-content .sjrk-left-col {
-    padding-left: 8em;
-    padding-right: 8em;
-}
-
-.sjrk-content .sjrk-right-col {
-    padding-left: 0em;
-    padding-right: 8em;
-}
-
-
 /* list-style: none to implement custom list bullets */
 .sjrk-list {
     margin-top: -0.75em;
