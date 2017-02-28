@@ -18,7 +18,6 @@ body {
 .sjrk-header h1 {
     color: #000;
     font-size: 4.43em;
-    margin: 0;
 }
 
 .sjrk-header-stripes {
@@ -30,16 +29,6 @@ body {
 
 .sjrk-header .sjrk-left-col {
     padding-left: 3em;
-}
-
-
-/* Responsive style changes for small screen sizes */
-@media screen and (max-width: 48em) {
-
-    /* Apply equivalent padding to that of the left column when collapsed */
-    .sjrk-header .sjrk-right-col {
-        padding-left: 3em;
-    }
 }
 
 .sjrk-codesign-link {
