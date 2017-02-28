@@ -45,7 +45,6 @@ body {
 
 .sjrk-codesign-link {
     color: #000;
-
     font-weight: bold;
     display: inline-block;
     padding: 0.5em;
@@ -63,7 +62,7 @@ body {
 }
 
 .sjrk-content-top {
-    height: 224px;
+    height: 228px;
     background-image: url("../assets/sjrk-ripped-bg-seamless-top-colour.png");
     background-position: bottom;
 }
@@ -121,9 +120,8 @@ body {
 
 
 .sjrk-content-bottom {
-    height: 224px;
+    height: 236px;
     background-image: url("../assets/sjrk-ripped-bg-seamless-bottom-colour.png");
-    background-position: 75%;
 }
 
 .sjrk-links a {
@@ -144,7 +142,6 @@ body {
 
 .sjrk-icon-credit {
     background-image: url("../assets/sjrk-paper-bg-seamless-bottom-colour.png");
-    background-position: 75%;
     font-size: 0.8em;
     text-align: right;
     padding-right: 1.6em;
