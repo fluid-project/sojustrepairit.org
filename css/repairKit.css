@@ -43,22 +43,19 @@ body {
     padding-left: 3em;
 }
 
+.sjrk-codesign-container {
+    background-image: url("../assets/sjrk-codesign-icon.png");
+    background-size: 10em auto;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
 .sjrk-codesign-link {
     color: #000;
     font-weight: bold;
     display: inline-block;
     padding: 0.5em;
 
-}
-
-.sjrk-codesign-icon {
-    background-image: url("../assets/sjrk-codesign-icon.png");
-    background-size: 4em auto;
-    background-repeat: no-repeat;
-    background-position: right;
-    width: 4em;
-    height: 4em;
-    display: inline-block;
 }
 
 .sjrk-content-top {
