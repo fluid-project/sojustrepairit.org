@@ -133,40 +133,12 @@ body {
     background-position: 75%;
 }
 
-.sjrk-links {
-    padding-left: 8em;
-    padding-right: 8em;
-}
-
-/* Responsive style changes for small screen sizes */
-@media screen and (max-width: 48em) {
-
-    /*Reduce padding*/
-    .sjrk-links {
-        padding-left: 4em;
-        padding-right: 4em;
-    }
-}
-
 .sjrk-links a {
     color: #000;
 }
 
 .sjrk-footer {
     padding-top: 2em;
-}
-
-.sjrk-oak-foundation-logo-container {
-    margin-left: 8em;
-}
-
-/* Responsive style changes for small screen sizes */
-@media screen and (max-width: 48em) {
-
-    /*Reduce margin*/
-    .sjrk-oak-foundation-logo-container {
-        margin-left: 4em;
-    }
 }
 
 .sjrk-img-oak-foundation-logo {
