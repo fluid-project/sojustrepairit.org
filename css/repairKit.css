@@ -2,8 +2,8 @@ body {
     max-width: 1284px;
     margin: auto;
     font-family: 'Noto Sans', sans-serif;
+    font-size: 1.125em;
 }
-
 
 .sjrk-caps {
     text-transform: uppercase;
@@ -16,21 +16,9 @@ body {
 }
 
 .sjrk-header h1 {
-    font-size: 4em;
-    margin: 0;
-}
-
-.sjrk-mainHeading-socialJustice {
-    color: #FFF;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000;
-}
-
-.sjrk-mainHeading-repairKit {
     color: #000;
+    font-size: 4.43em;
+    margin: 0;
 }
 
 .sjrk-header-stripes {
@@ -41,18 +29,12 @@ body {
 }
 
 .sjrk-header .sjrk-left-col {
-    margin-top: -3em;
     padding-left: 3em;
 }
 
 
 /* Responsive style changes for small screen sizes */
 @media screen and (max-width: 48em) {
-
-    /* turn off the negative margin on small screens where everything is collapsed into one column */
-    .sjrk-header .sjrk-left-col {
-        margin-top: 0em;
-    }
 
     /* Apply equivalent padding to that of the left column when collapsed */
     .sjrk-header .sjrk-right-col {
@@ -102,6 +84,10 @@ body {
     color: #FFF;
 
     font-size: 0.8em;
+}
+
+.sjrk-content {
+    line-height: 1.55em;
 }
 
 .sjrk-content .sjrk-left-col {
