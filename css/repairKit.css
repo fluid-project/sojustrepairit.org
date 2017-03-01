@@ -76,7 +76,6 @@ body {
 
 .sjrk-wikiLinkContainer-outer {
     background-image: url("../assets/sjrk-black-blob.png");
-    color: #FFF;
     width: 10em;
     height: 9em;
     background-size: 10em auto;
@@ -88,8 +87,7 @@ body {
 }
 
 .sjrk-wikiLink {
-    color: #FFF;
-
+    color: rgb(255, 187, 65);
     font-size: 0.8em;
 }
 
