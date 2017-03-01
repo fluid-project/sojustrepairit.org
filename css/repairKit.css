@@ -125,7 +125,9 @@ body {
 }
 
 .sjrk-links {
-    border: 1pt 0 1pt 0 solid black;
+    border-top: 1pt solid black;
+    border-bottom: 1pt solid black;
+    padding: 0.5rem 1rem;
 }
 
 .sjrk-links a {
