@@ -93,8 +93,12 @@ body {
     text-decoration: none;
 }
 
-.sjrk-content, .sjrk-links {
+.sjrk-content-container, .sjrk-links-container {
     line-height: 1.55em;
+}
+
+.sjrk-content-container {
+    margin-top: -3em;
 }
 
 /* list-style: none to implement custom list bullets */
