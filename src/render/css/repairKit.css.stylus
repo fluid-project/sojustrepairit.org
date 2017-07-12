@@ -1,3 +1,4 @@
+
 body {
     max-width: 1284px;
     margin: auto;
@@ -40,16 +41,8 @@ body {
     height: 4em;
 }
 
-.sjrk-header .sjrk-left-col {
+.sjrk-header .sjrk-left-col, .sjrk-footer {
     padding-left: 3em;
-}
-
-.sjrk-codesign-container {
-    background-image: url("/images/sjrk-codesign-icon.png");
-    background-size: 10em auto;
-    background-repeat: no-repeat;
-    background-position: top left;
-    padding-left: 8em;
 }
 
 .sjrk-codesign-container h2 {
@@ -105,6 +98,7 @@ body {
 
 .sjrk-content-container, .sjrk-links-container {
     line-height: 1.55em;
+    font-size: 1.6em;
 }
 
 .sjrk-content-container {
@@ -135,18 +129,11 @@ body {
 }
 
 .sjrk-links {
-    border-top: 1pt solid black;
-    border-bottom: 1pt solid black;
     padding: 0.5rem 1rem;
-    text-align: center;
 }
 
 .sjrk-links a {
     color: #000;
-}
-
-.sjrk-footer {
-    padding-top: 2em;
 }
 
 .sjrk-logos-container {
@@ -162,16 +149,11 @@ body {
     width: 100%;
 }
 
-.sjrk-icon-credit {
+.sjrk-footer {
+    padding-top: 2em;
     background-image: url("/images/sjrk-paper-bg-seamless-bottom-colour.png");
     font-size: 0.8em;
-    text-align: right;
     padding-right: 1.6em;
-}
-
-.sjrk-icon-credit a {
-    font-weight: bold;
-    color: #000;
 }
 
 @media screen and (max-width: 64em) {
@@ -196,6 +178,9 @@ body {
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-recentActivity .sjrk-navbar-item-recentActivity {
         background-image: url("/images/sjrk-nav-blob-active.png");
+        a {
+            color: #F3D300;
+        }
     }
     .sjrk-navbar-item a {
         color: #FFF;
@@ -232,6 +217,7 @@ body {
     }
 
     .sjrk-navbar-small-open {
+        border: 1px solid #000;
         background-color: #FFF;
         display: inline-block;
         padding: 0.5em 0.5em 0.5em 0.5em;

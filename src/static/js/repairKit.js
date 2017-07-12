@@ -9,11 +9,13 @@ $(document).ready(function () {
     openToggle.click(function (e) {
         closedMenu.css("display", "none");
         openMenu.css("display", "inline-block");
+        e.preventDefault();
     });
 
     closeToggle.click(function (e) {
         openMenu.css("display", "none");
         closedMenu.css("display", "inline-block");
+        e.preventDefault();
     });
 
 });

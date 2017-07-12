@@ -29,10 +29,10 @@
         </div>
         <div class="col-0_md-3 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
             <div class="sjrk-navbar-small-closed">
-                <span class="sjrk-navbar-small-openToggle"> Menu</span>
+                <span class="sjrk-navbar-small-openToggle"> <a href="#">Menu</a></span>
             </div>
             <div class="sjrk-navbar-small-open">
-                <span class="sjrk-navbar-small-closeToggle"> Menu</span>
+                <span class="sjrk-navbar-small-closeToggle"> <a href="#">Menu</a></span>
                 <ul class="sjrk-navbar-small-navbar-list">
                     <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="about.html">About</a></li>
                     <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></li>
@@ -41,12 +41,6 @@
                 </ul>
             </div>
         </div>
-        <!-- <div class="col-6_sm-12 sjrk-right-col sjrk-codesign-container">
-            <h2>This site is under co-design.<br/><a href="https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit#SocialJusticeRepairKit-JoinUsJoinUs!">Join us!</a></h2>
-
-            <a class="sjrk-caps sjrk-codesign-link" href="https://guide.inclusivedesign.ca/practices/PracticeCoDesign.html">Learn more about co-design </a>
-
-        </div> -->
     </div>
 </div>
 <div class="sjrk-content-top">
@@ -69,21 +63,16 @@
     </div>
 </div>
 
-<div class="sjrk-footer">
-<div class="grid-12-center sjrk-links-container">
-    <div class="col-8_sm-10 sjrk-links">
-        <strong>Supported by the</strong> <em>Oak Foundation</em> and <strong>led by the</strong> <em>Inclusive Design Research Centre</em>
-    </div>
-</div>
-<div class="grid-12-center sjrk-logos-container">
-    <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="/images/sjrk-oak-logo.png" /></a></div>
-    <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="/images/sjrk-idrc-logo.png" /></a></div>
-</div>
-</div>
 <div class="sjrk-content-bottom"></div>
-<div class="sjrk-icon-credit">
-    <div class="grid-12-right">
-        <div class="col-12"><a href="https://thenounproject.com/term/collaboration/28324/">collaboration icon by Krisada</a> from the <a href="https://thenounproject.com/">Noun Project</a></div>
+<div class="sjrk-footer">
+    <div class="grid-12 sjrk-links-container">
+        <div class="col-12 sjrk-links">
+            Supported by the <strong>Oak Foundation</strong> and led by the <strong>Inclusive Design Research Centre</strong>
+        </div>
+    </div>
+    <div class="grid-12 sjrk-logos-container">
+        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="/images/sjrk-oak-logo.png" /></a></div>
+        <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="/images/sjrk-idrc-logo.png" /></a></div>
     </div>
 </div>
 </body>
