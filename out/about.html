@@ -8,6 +8,14 @@
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="css/repairKit.css" />
 
+    <script
+      src="https://code.jquery.com/jquery-3.2.1.min.js"
+      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+      crossorigin="anonymous"></script>
+
+      <script
+        src="js/repairKit.js"></script>
+
 </head>
 <body>
 <div class="sjrk-header">
@@ -19,9 +27,18 @@
             <h1><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
             <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></h1>
         </div>
-        <div class="col-0_md-3 sjrk-navbar sjrk-navbar-small">
+        <div class="col-0_md-3 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-about">
             <div class="sjrk-navbar-small-closed">
-                Menu
+                <span class="sjrk-navbar-small-openToggle"> Menu</span>
+            </div>
+            <div class="sjrk-navbar-small-open">
+                <span class="sjrk-navbar-small-closeToggle"> Menu</span>
+                <ul class="sjrk-navbar-small-navbar-list">
+                    <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="about.html">About</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></li>
+                </ul>
             </div>
         </div>
         <!-- <div class="col-6_sm-12 sjrk-right-col sjrk-codesign-container">
@@ -36,7 +53,7 @@
     <div class="grid-12 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-about">
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about" data-push-left="off-1"><a href="about.html">About</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></div>
     </div>
 </div>
