@@ -34,7 +34,7 @@
             <div class="sjrk-navbar-small-open">
                 <span class="sjrk-navbar-small-closeToggle"> <a href="#">Menu</a></span>
                 <ul class="sjrk-navbar-small-navbar-list">
-                    <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="about.html">About</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
                     <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></li>
                     <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></li>
                     <li class="sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></li>
@@ -45,7 +45,7 @@
 </div>
 <div class="sjrk-content-top">
     <div class="grid-12 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about" data-push-left="off-1"><a href="about.html">About</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about" data-push-left="off-1"><a href="index.html">About</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></div>
