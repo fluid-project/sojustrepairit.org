@@ -4,6 +4,7 @@
   "description": "New DocPad project without using a skeleton",
   "dependencies": {
     "docpad": "~6.79.4",
+    "docpad-plugin-ghpages": "~2.6.1",
     "docpad-plugin-handlebars": "~2.4.0",
     "docpad-plugin-stylus": "~2.13.0"
   },

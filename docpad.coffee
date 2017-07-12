@@ -8,3 +8,8 @@ docpadConfig = {
 
 # Export the DocPad Configuration
 module.exports = docpadConfig
+
+plugins:
+    ghpages:
+        deployRemote: 'origin'
+        deployBranch: 'master'
