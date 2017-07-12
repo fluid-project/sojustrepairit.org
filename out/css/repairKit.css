@@ -176,10 +176,24 @@ body {
 
 .sjrk-navbar-item {
     background-image: url("/images/sjrk-nav-blob.png");
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     color: #FFF;
-    font-size: 1.6em;    
+    font-size: 1.2em;
+    padding: 1em 2em 3em 2em;
     text-align: center;
+}
+
+.sjrk-navbar-active-about .sjrk-navbar-item-about,
+.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+.sjrk-navbar-active-recentActivity .sjrk-navbar-item-recentActivity
+ {
+    background-image: url("/images/sjrk-nav-blob-active.png");
+}
+
+.sjrk-navbar-item a {
+    color: #FFF;
+    text-decoration: none;
 }
