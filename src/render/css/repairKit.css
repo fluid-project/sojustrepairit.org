@@ -171,6 +171,15 @@ body {
 
 .sjrk-icon-credit a {
     font-weight: bold;
-
     color: #000;
+}
+
+.sjrk-navbar-item {
+    background-image: url("/images/sjrk-nav-blob.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FFF;
+    font-size: 1.6em;    
+    text-align: center;
 }

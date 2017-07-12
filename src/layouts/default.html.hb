@@ -29,13 +29,10 @@
 </div>
 <div class="sjrk-content-top">
     <div class="grid-12">
-        <div class="col-5_sm-12" data-push-left="off-1">
-            <div class="sjrk-wikiLinkContainer-outer">
-                <div class="sjrk-wikiLinkContainer-inner">
-                    <a class="sjrk-wikiLink" href="https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit">Visit the wiki page for more information and project updates.</a>
-                </div>
-            </div>
-        </div>
+        <div class="col-2 sjrk-navbar-item" data-push-left="off-1">About</div>
+        <div class="col-2 sjrk-navbar-item">Our Partners</div>
+        <div class="col-2 sjrk-navbar-item">Resource Hub</div>
+        <div class="col-2 sjrk-navbar-item">News</div>
     </div>
 </div>
 
