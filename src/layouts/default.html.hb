@@ -71,8 +71,8 @@
         </div>
     </div>
     <div class="grid-12 sjrk-logos-container">
-        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="/images/sjrk-oak-logo.png" /></a></div>
-        <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="/images/sjrk-idrc-logo.png" /></a></div>
+        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="images/sjrk-oak-logo.png" /></a></div>
+        <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="images/sjrk-idrc-logo.png" /></a></div>
     </div>
 </div>
 </body>
