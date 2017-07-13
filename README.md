@@ -16,4 +16,4 @@ Assuming you have Docpad installed globally already, `npm install` to install th
 
 ## Deployment
 
-`docpad deploy-ghpages --env static` : deploys to gh-pages branch
+`docpad deploy-ghpages --env static` : deploys to master branch
