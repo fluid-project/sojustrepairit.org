@@ -12,6 +12,8 @@ This is the Social Justice Repair Kit Landing Page.
 
 ## Development
 
+Assuming you have Docpad installed globally already, `npm install` to install the dependencies, then `docpad run`.
+
 ## Deployment
 
 `docpad deploy-ghpages --env static` : deploys to gh-pages branch
