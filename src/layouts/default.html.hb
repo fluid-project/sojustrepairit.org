@@ -56,7 +56,7 @@
 
 <div class="sjrk-content-container">
     <div class="grid-12-center-noBottom">
-        <div class="col-8_sm-10">
+        <div class="col-8_md-10">
             <h2 class="sjrk-subheading">{{ document.pageTitle }}</h2>
         </div>
     </div>

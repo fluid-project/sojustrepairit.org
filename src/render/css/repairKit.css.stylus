@@ -45,15 +45,6 @@ body {
     padding-left: 3em;
 }
 
-.sjrk-codesign-container h2 {
-    font-weight: normal;
-}
-
-.sjrk-codesign-container a {
-    color: #000;
-    font-weight: bold;
-}
-
 /*Codesign container background size and padding should shrink on mobile*/
 @media screen and (max-width: 48em) {
     .sjrk-codesign-container {
@@ -63,33 +54,14 @@ body {
     }
 }
 
-.sjrk-codesign-link {
-    color: #000;
-    font-weight: bold;
-    display: inline-block;
-    padding: 0.5em 0 0 0;
-    font-size: 0.8em;
-
-}
-
 .sjrk-content-top {
     height: 228px;
     background-image: url("../images/sjrk-ripped-bg-seamless-top-colour.png");
     background-position: bottom;
 }
 
-.sjrk-wikiLinkContainer-inner {
-    padding: 20% 25% 20% 25%;
-}
-
-.sjrk-wikiLink {
-    color: rgb(251, 238, 142);
-    font-size: 0.7em;
-    text-decoration: none;
-}
-
 .sjrk-content-container {
-    margin-top: -1em;
+    
 }
 
 .sjrk-links-container {
@@ -97,6 +69,9 @@ body {
     font-size: 1.6em;
 }
 
+.sjrk-subheading {
+
+}
 
 /* list-style: none to implement custom list bullets */
 .sjrk-content-container ul {
