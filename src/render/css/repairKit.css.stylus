@@ -76,18 +76,19 @@ body {
 /* list-style: none to implement custom list bullets */
 .sjrk-content-container ul {
     margin-top: -0.75em;
-    list-style: none;
-    margin-left: 2em;
+    list-style: none;    
 }
 
 /* Custom list bullets */
 .sjrk-content-container li::before {
-    /* Square bullet Unicode */
-    content: "\25AA";
-    color: #000;
-    font-weight: bolder;
-    font-size: 1.125em;
-    margin-right: 0.25em;
+    background-image:url("../images/sjrk-list-bullet.png");
+    background-size: 29px 28px;
+    display: inline-block;
+    width: 29px;
+    height: 28px;
+    content: "";
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
