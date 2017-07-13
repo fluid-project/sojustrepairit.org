@@ -53,13 +53,17 @@
 </div>
 
 <div class="sjrk-content-container">
-    <div class="grid-12-center">
-        <div class="col-8_sm-10 sjrk-content">
 
-{{{ content }}}
-
-
+    <div class="grid-12-center-noBottom">
+        <div class="col-8_sm-10">
+            <h2>{{ document.pageTitle }}</h2>
         </div>
+    </div>
+
+    <div class="grid-12-center">
+
+        {{{ content }}}
+
     </div>
 </div>
 
