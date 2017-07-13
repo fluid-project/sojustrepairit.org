@@ -256,3 +256,23 @@ body {
         color: #000;
     }
 }
+
+.sjrk-join-us-container {
+    border: 2px solid black;
+    background-color: #F3D300;
+    padding: 0 1em;
+    a {
+        color: #000;
+        font-weight: bold;
+    }
+    p {
+        line-height: 1.3em;
+    }
+}
+
+.sjrk-join-us-container-heading {
+    background-image: url("../images/sjrk-nav-stroke-active.png");
+    background-position: -0.2em 0.8em;
+    background-repeat: no-repeat;
+    padding-bottom: 1em;
+}
