@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>{{ document.title }}</title>
     <!-- Via CDN right now -->
