@@ -3,13 +3,11 @@
 
 # Define the DocPad Configuration
 docpadConfig = {
-	# ...
+    plugins:
+        ghpages:
+            deployRemote: 'origin'
+            deployBranch: 'master'
 }
 
 # Export the DocPad Configuration
 module.exports = docpadConfig
-
-plugins:
-    ghpages:
-        deployRemote: 'origin'
-        deployBranch: 'master'
