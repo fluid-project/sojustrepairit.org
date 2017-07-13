@@ -35,7 +35,7 @@ body {
 }
 
 .sjrk-header-stripes {
-    background-image: url("../images/sjrk-cropped-stroke-white.png");
+    background-image: url("../images/sjrk-cropped-stroke-black.png");
     background-size: 4em auto;
     background-repeat: repeat-x;
     height: 4em;
@@ -76,7 +76,7 @@ body {
 /* list-style: none to implement custom list bullets */
 .sjrk-content-container ul {
     margin-top: -0.75em;
-    list-style: none;    
+    list-style: none;
 }
 
 /* Custom list bullets */
