@@ -24,7 +24,7 @@
     </div>
     <div class="grid-12">
         <div class="col-12_md-8_sm-7 sjrk-left-col">
-            <h1><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
+            <h1 class="sjrk-mainHeading"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
             <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></h1>
         </div>
         <div class="col-0_md-3_sm-4 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
@@ -43,7 +43,9 @@
         </div>
     </div>
 </div>
-<div class="sjrk-content-top">
+<div class="sjrk-content-top"></div>
+
+<div class="sjrk-navbar-large-container">
     <div class="grid-12 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about" data-push-left="off-1"><a href="index.html">About</a></div>
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
@@ -53,10 +55,9 @@
 </div>
 
 <div class="sjrk-content-container">
-
     <div class="grid-12-center-noBottom">
         <div class="col-8_sm-10">
-            <h2>{{ document.pageTitle }}</h2>
+            <h2 class="sjrk-subheading">{{ document.pageTitle }}</h2>
         </div>
     </div>
 
