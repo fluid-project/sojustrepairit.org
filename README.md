@@ -14,4 +14,4 @@ This is the Social Justice Repair Kit Landing Page.
 
 ## Deployment
 
-docpad deploy-ghpages --env static 
+`docpad deploy-ghpages --env static` : deploys to gh-pages branch

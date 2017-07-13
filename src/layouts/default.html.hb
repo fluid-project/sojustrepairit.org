@@ -35,9 +35,9 @@
                 <a href="#"><span class="sjrk-navbar-small-closeToggle"> Menu</span></a>
                 <ul class="sjrk-navbar-small-navbar-list">
                     <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></li>
                 </ul>
             </div>
         </div>
@@ -46,9 +46,9 @@
 <div class="sjrk-content-top">
     <div class="grid-12 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
         <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about" data-push-left="off-1"><a href="index.html">About</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resource Hub</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-recentActivity"><a href="recent-activity.html">Recent Activity</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
     </div>
 </div>
 
