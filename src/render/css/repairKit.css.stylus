@@ -200,7 +200,9 @@ body {
     .sjrk-navbar-small-navbar-list {
         list-style: none;
         padding-left: 0;
-        line-height: 2em;
+        li {
+            padding-bottom: 1.3em;
+        }
     }
 
     .sjrk-navbar-small-openToggle:before {
@@ -229,6 +231,9 @@ body {
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-recentActivity .sjrk-navbar-item-recentActivity {
         font-weight: bold;
+        background-image: url("../images/sjrk-nav-stroke-active.png");
+        background-position: -1em bottom;
+        background-repeat: no-repeat;
     }
 
     a {

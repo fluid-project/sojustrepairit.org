@@ -29,10 +29,10 @@
         </div>
         <div class="col-0_md-3 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
             <div class="sjrk-navbar-small-closed">
-                <span class="sjrk-navbar-small-openToggle"> <a href="#">Menu</a></span>
+                <a href="#"><span class="sjrk-navbar-small-openToggle"> Menu</span></a>
             </div>
             <div class="sjrk-navbar-small-open">
-                <span class="sjrk-navbar-small-closeToggle"> <a href="#">Menu</a></span>
+                <a href="#"><span class="sjrk-navbar-small-closeToggle"> Menu</span></a>
                 <ul class="sjrk-navbar-small-navbar-list">
                     <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
                     <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Our Partners</a></li>
