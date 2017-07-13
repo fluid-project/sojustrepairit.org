@@ -12,7 +12,12 @@ This is the Social Justice Repair Kit Landing Page.
 
 ## Development
 
-Assuming you have Docpad installed globally already, `npm install` to install the dependencies, then `docpad run`.
+Assuming you have Docpad installed globally already:
+
+* do work in the *development* branch
+* `npm install` to install the dependencies
+* `docpad run` to run development mode
+* See **Deployment** below for deploying results to master branch
 
 ## Deployment
 
