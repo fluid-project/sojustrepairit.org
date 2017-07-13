@@ -23,11 +23,11 @@
         <div class="col-12 sjrk-header-stripes"></div>
     </div>
     <div class="grid-12">
-        <div class="col-12_md-9 sjrk-left-col">
+        <div class="col-12_md-8_sm-7 sjrk-left-col">
             <h1><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
             <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></h1>
         </div>
-        <div class="col-0_md-3 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
+        <div class="col-0_md-3_sm-4 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
             <div class="sjrk-navbar-small-closed">
                 <a href="#"><span class="sjrk-navbar-small-openToggle"> Menu</span></a>
             </div>
