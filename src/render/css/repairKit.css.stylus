@@ -61,7 +61,7 @@ body {
 }
 
 .sjrk-content-container {
-    
+
 }
 
 .sjrk-links-container {
@@ -169,6 +169,8 @@ body {
 
 .sjrk-navbar-small {
 
+    text-align: right;
+
     .sjrk-navbar-small-navbar-list {
         list-style: none;
         padding-left: 0;
@@ -188,14 +190,20 @@ body {
         background-position: center;
     }
 
-    .sjrk-navbar-small-openToggle {
+    .sjrk-navbar-small-openToggle,
+    .sjrk-navbar-small-closeToggle {
         font-weight: bold;
     }
 
-    .sjrk-navbar-small-closed {
+    .sjrk-navbar-small-closed,
+    .sjrk-navbar-small-open {
+        text-align: left;
         background-color: #FFF;
-        display: none;
-        padding: 0.5em 0.5em 0.5em 0.5em;
+        padding: 0.5em 1.25em 0.5em 1.25em;
+    }
+
+    .sjrk-navbar-small-closed {
+        display: inline-block;
     }
 
     .sjrk-navbar-small-closeToggle:before {
@@ -203,6 +211,7 @@ body {
         background-size: 21px 20px;
         display: inline-block;
         width: 21px;
+        padding-right: 19px;
         height: 20px;
         content: "";
         background-repeat: no-repeat;
@@ -211,9 +220,7 @@ body {
 
     .sjrk-navbar-small-open {
         border: 1px solid #000;
-        background-color: #FFF;
-        display: inline-block;
-        padding: 0.5em 0.5em 0.5em 0.5em;
+        display: none;
     }
 
     &.sjrk-navbar-active-about .sjrk-navbar-item-about,
