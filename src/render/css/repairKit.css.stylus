@@ -206,7 +206,18 @@ body {
     }
 
     .sjrk-navbar-small-openToggle:before {
-        content: "\2335"
+        background-image:url("../images/sjrk-nav-chevron.png");
+        background-size: 40px 21px;
+        display: inline-block;
+        width: 40px;
+        height: 21px;
+        content: "";
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .sjrk-navbar-small-openToggle {
+        font-weight: bold;
     }
 
     .sjrk-navbar-small-closed {
@@ -216,7 +227,14 @@ body {
     }
 
     .sjrk-navbar-small-closeToggle:before {
-        content: "\2715"
+        background-image:url("../images/sjrk-nav-close.png");
+        background-size: 21px 20px;
+        display: inline-block;
+        width: 21px;
+        height: 20px;
+        content: "";
+        background-repeat: no-repeat;
+        background-position: center;
     }
 
     .sjrk-navbar-small-open {
