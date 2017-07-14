@@ -72,11 +72,11 @@
 <div class="sjrk-footer">
     <div class="grid-12 sjrk-links-container">
         <div class="col-12 sjrk-links">
-            Supported by the <strong>Oak Foundation</strong> and led by the <strong>Inclusive Design Research Centre</strong>
+            Supported by the <a href="http://oakfnd.org/learning">Oak Foundation</a> and led by the <a href="http://idrc.ocadu.ca/">Inclusive Design Research Centre</a>
         </div>
     </div>
     <div class="grid-12 sjrk-logos-container">
-        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="images/sjrk-oak-logo.png" /></a></div>
+        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/learning"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="images/sjrk-oak-logo.png" /></a></div>
         <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="images/sjrk-idrc-logo.png" /></a></div>
     </div>
 </div>

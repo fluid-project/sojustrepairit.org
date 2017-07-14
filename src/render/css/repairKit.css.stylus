@@ -123,6 +123,11 @@ body {
     background-image: url("../images/sjrk-paper-bg-seamless-bottom-colour.png");
     font-size: 0.8em;
     padding-right: 1.6em;
+    a {
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+    }
 }
 
 .sjrk-navbar-large-container {
