@@ -1,1 +1,180 @@
+<<<<<<< HEAD
 body{max-width:1284px;margin:auto;font-family:'Noto Sans',sans-serif;font-size:1.125em}.sjrk-caps{text-transform:uppercase}.sjrk-header{background-color:#fff;background-image:url("../images/sjrk-paper-bg-seamless-top-colour.png");background-position:bottom}.sjrk-mainHeading{color:#000;font-size:4.43em;margin:0 0 0 0}.sjrk-mainHeading-repairKit{letter-spacing:.01em}.sjrk-mainHeading-repairKit-P{letter-spacing:-.03em}.sjrk-mainHeading-repairKit-A{letter-spacing:.03em}.sjrk-header-stripes{background-image:url("../images/sjrk-cropped-stroke-black.png");background-size:4em auto;background-repeat:repeat-x;height:4em}.sjrk-header .sjrk-left-col,.sjrk-footer{padding-left:3em}@media screen and (max-width:48em){.sjrk-codesign-container{background-size:6em auto;padding-left:8em;background-position:top left 2em}}.sjrk-content-top{height:228px;background-image:url("../images/sjrk-ripped-bg-seamless-top-colour.png");background-position:bottom}.sjrk-links-container{line-height:1.55em;font-size:1.6em}.sjrk-content-container ul{margin-top:-.75em;list-style:none}.sjrk-content-container li::before{background-image:url("../images/sjrk-list-bullet.png");background-size:29px 28px;display:inline-block;width:29px;height:28px;content:"";background-repeat:no-repeat;background-position:center}.sjrk-content-bottom{height:236px;background-image:url("../images/sjrk-ripped-bg-seamless-bottom-colour.png")}.sjrk-links{padding:.5rem 1rem}.sjrk-links a{color:#000}.sjrk-logos-container{padding-top:2em;margin-bottom:-3em}.sjrk-img-oak-foundation-logo{width:100%}.sjrk-img-idrc-logo{width:100%}.sjrk-footer{padding-top:2em;background-image:url("../images/sjrk-paper-bg-seamless-bottom-colour.png");font-size:.8em;padding-right:1.6em;}.sjrk-footer a{font-weight:bold;text-decoration:none;color:#000}.sjrk-navbar-large-container{margin-top:-7em}@media screen and (max-width:64em){.sjrk-navbar-large{display:none !important}}.sjrk-navbar-large .sjrk-navbar-item{background-image:url("../images/sjrk-nav-blob.png");background-size:cover;background-position:top;background-repeat:no-repeat;color:#fff;font-size:1.2em;padding:2em 2em 3em 2em;text-align:center}.sjrk-navbar-large.sjrk-navbar-active-about .sjrk-navbar-item-about,.sjrk-navbar-large.sjrk-navbar-active-partners .sjrk-navbar-item-partners,.sjrk-navbar-large.sjrk-navbar-active-resources .sjrk-navbar-item-resources,.sjrk-navbar-large.sjrk-navbar-active-activity .sjrk-navbar-item-activity{background-image:url("../images/sjrk-nav-blob-active.png");}.sjrk-navbar-large.sjrk-navbar-active-about .sjrk-navbar-item-about a,.sjrk-navbar-large.sjrk-navbar-active-partners .sjrk-navbar-item-partners a,.sjrk-navbar-large.sjrk-navbar-active-resources .sjrk-navbar-item-resources a,.sjrk-navbar-large.sjrk-navbar-active-activity .sjrk-navbar-item-activity a{color:#f3d300}.sjrk-navbar-large .sjrk-navbar-item a{color:#fff;text-decoration:none}@media screen and (min-width:64em){.sjrk-navbar-small{display:none !important}}.sjrk-navbar-small{text-align:right;}.sjrk-navbar-small .sjrk-navbar-small-navbar-list{list-style:none;padding-left:0;}.sjrk-navbar-small .sjrk-navbar-small-navbar-list li{padding-bottom:1.3em}.sjrk-navbar-small .sjrk-navbar-small-openToggle:before{background-image:url("../images/sjrk-nav-chevron.png");background-size:40px 21px;display:inline-block;width:40px;height:21px;content:"";background-repeat:no-repeat;background-position:center}.sjrk-navbar-small .sjrk-navbar-small-openToggle,.sjrk-navbar-small .sjrk-navbar-small-closeToggle{font-weight:bold}.sjrk-navbar-small .sjrk-navbar-small-closed,.sjrk-navbar-small .sjrk-navbar-small-open{text-align:left;background-color:#fff;padding:.5em 1.25em .5em 1.25em}.sjrk-navbar-small .sjrk-navbar-small-closed{display:inline-block}.sjrk-navbar-small .sjrk-navbar-small-closeToggle:before{background-image:url("../images/sjrk-nav-close.png");background-size:21px 20px;display:inline-block;width:21px;padding-right:19px;height:20px;content:"";background-repeat:no-repeat;background-position:center}.sjrk-navbar-small .sjrk-navbar-small-open{border:1px solid #000;display:none}.sjrk-navbar-small.sjrk-navbar-active-about .sjrk-navbar-item-about,.sjrk-navbar-small.sjrk-navbar-active-partners .sjrk-navbar-item-partners,.sjrk-navbar-small.sjrk-navbar-active-resources .sjrk-navbar-item-resources,.sjrk-navbar-small.sjrk-navbar-active-activity .sjrk-navbar-item-activity{font-weight:bold;background-image:url("../images/sjrk-nav-stroke-active.png");background-position:-1em bottom;background-repeat:no-repeat}.sjrk-navbar-small a{text-decoration:none;color:#000}.sjrk-join-us-container{border:2px solid #000;background-color:#f3d300;padding:0 1em;}.sjrk-join-us-container a{color:#000;font-weight:bold}.sjrk-join-us-container p{line-height:1.3em}.sjrk-join-us-container-heading{background-image:url("../images/sjrk-nav-stroke-active.png");background-position:-.2em .8em;background-repeat:no-repeat;padding-bottom:1em}
+=======
+body {
+    max-width: 1284px;
+    margin: auto;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1.125em;
+}
+
+.sjrk-caps {
+    text-transform: uppercase;
+}
+
+.sjrk-header {
+    background-color: rgb(255, 255, 255);
+    background-image: url("../assets/sjrk-paper-bg-seamless-top-colour.png");
+    background-position: bottom;
+}
+
+.sjrk-header h1 {
+    color: #000;
+    font-size: 4.43em;
+    margin: 0 0 0 0;
+}
+
+.sjrk-mainHeading-repairKit {
+    letter-spacing: 0.01em;
+}
+
+.sjrk-mainHeading-repairKit-P {
+    letter-spacing: -0.03em;
+}
+
+.sjrk-mainHeading-repairKit-A {
+    letter-spacing: 0.03em;
+}
+
+.sjrk-header-stripes {
+    background-image: url("../assets/sjrk-cropped-stroke-white.png");
+    background-size: 4em auto;
+    background-repeat: repeat-x;
+    height: 4em;
+}
+
+.sjrk-header .sjrk-left-col {
+    padding-left: 3em;
+}
+
+.sjrk-codesign-container {
+    background-image: url("../assets/sjrk-codesign-icon.png");
+    background-size: 10em auto;
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding-left: 8em;
+}
+
+.sjrk-codesign-container h2 {
+    font-weight: normal;
+}
+
+.sjrk-codesign-container a {
+    color: #000;
+    font-weight: bold;
+}
+
+/*Codesign container background size and padding should shrink on mobile*/
+@media screen and (max-width: 48em) {
+    .sjrk-codesign-container {
+        background-size: 6em auto;
+        padding-left: 8em;
+        background-position: top left 2em;
+    }
+}
+
+.sjrk-codesign-link {
+    color: #000;
+    font-weight: bold;
+    display: inline-block;
+    padding: 0.5em 0 0 0;
+    font-size: 0.8em;
+
+}
+
+.sjrk-content-top {
+    height: 228px;
+    background-image: url("../assets/sjrk-ripped-bg-seamless-top-colour.png");
+    background-position: bottom;
+}
+
+.sjrk-wikiLinkContainer-outer {
+    background-image: url("../assets/sjrk-black-blob.png");
+    width: 10em;
+    height: 9em;
+    background-size: 10em auto;
+    background-repeat: no-repeat;
+}
+
+.sjrk-wikiLinkContainer-inner {
+    padding: 20% 25% 20% 25%;
+}
+
+.sjrk-wikiLink {
+    color: rgb(251, 238, 142);
+    font-size: 0.7em;
+    text-decoration: none;
+}
+
+.sjrk-content-container, .sjrk-links-container {
+    line-height: 1.55em;
+}
+
+.sjrk-content-container {
+    margin-top: -3em;
+}
+
+/* list-style: none to implement custom list bullets */
+.sjrk-list {
+    margin-top: -0.75em;
+    list-style: none;
+    margin-left: 2em;
+}
+
+/* Custom list bullets */
+.sjrk-list li::before {
+    /* Square bullet Unicode */
+    content: "\25AA";
+    color: #000;
+    font-weight: bolder;
+    font-size: 1.125em;
+    margin-right: 0.25em;
+}
+
+
+.sjrk-content-bottom {
+    height: 236px;
+    background-image: url("../assets/sjrk-ripped-bg-seamless-bottom-colour.png");
+}
+
+.sjrk-links {
+    border-top: 1pt solid black;
+    border-bottom: 1pt solid black;
+    padding: 0.5rem 1rem;
+    text-align: center;
+}
+
+.sjrk-links a {
+    color: #000;
+}
+
+.sjrk-footer {
+    padding-top: 2em;
+}
+
+.sjrk-logos-container {
+    padding-top: 2em;
+    margin-bottom: -3em;
+}
+
+.sjrk-img-oak-foundation-logo {
+    width: 100%;
+}
+
+.sjrk-img-idrc-logo {
+    width: 100%;
+}
+
+.sjrk-icon-credit {
+    background-image: url("../assets/sjrk-paper-bg-seamless-bottom-colour.png");
+    font-size: 0.8em;
+    text-align: right;
+    padding-right: 1.6em;
+}
+
+.sjrk-icon-credit a {
+    font-weight: bold;
+
+    color: #000;
+}
+>>>>>>> fluid-project/master
