@@ -25,7 +25,7 @@
     <div class="grid-12">
         <div class="col-12_md-8_sm-7 sjrk-left-col">
 
-                <h1 class="sjrk-mainHeading"><a href="about.html"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
+                <h1 class="sjrk-mainHeading"><a href="index.html"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
                 <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></a></h1>
         </div>
         <div class="col-0_md-3_sm-4 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
