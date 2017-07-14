@@ -21,4 +21,4 @@ Assuming you have Docpad installed globally already:
 
 ## Deployment
 
-`docpad deploy-ghpages --env static` : deploys to master branch
+`docpad deploy-ghpages --env static` : deploys to gh-pages branch

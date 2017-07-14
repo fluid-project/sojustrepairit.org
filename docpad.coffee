@@ -6,7 +6,7 @@ docpadConfig = {
     plugins:
         ghpages:
             deployRemote: 'origin'
-            deployBranch: 'master'
+            deployBranch: 'gh-pages'
 }
 
 # Export the DocPad Configuration
