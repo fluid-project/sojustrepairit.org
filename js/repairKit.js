@@ -18,4 +18,11 @@ $(document).ready(function () {
         e.preventDefault();
     });
 
+    fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
+        tocTemplate: "lib/infusion/src/components/tableOfContents/html/TableOfContents.html",
+        terms: {
+            templatePrefix: "lib/infusion/src/framework/preferences/html",
+            messagePrefix: "lib/infusion/src/framework/preferences/messages"
+        }
+    });
 });
