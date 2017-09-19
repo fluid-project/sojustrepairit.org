@@ -38,6 +38,17 @@ body {
     letter-spacing: 0.03em;
 }
 
+/* Remove background images when high contrast themes are selected via UIO */
+.fl-theme-by, .fl-theme-yb, .fl-theme-wb, .fl-theme-bw, .fl-theme-lgdg {
+    .sjrk-content-top, .sjrk-header, .sjrk-content-bottom, .sjrk-footer, .sjrk-navbar-item,
+    .sjrk-navbar-large.sjrk-navbar-active-about .sjrk-navbar-item-about,
+    .sjrk-navbar-large.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+    .sjrk-navbar-large.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+    .sjrk-navbar-large.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        background-image: none;
+    }
+}
+
 .sjrk-header-stripes {
     background-image: url("../images/sjrk-cropped-stroke-black.png");
     background-size: 4em auto;
