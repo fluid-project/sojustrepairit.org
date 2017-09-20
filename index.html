@@ -2,22 +2,47 @@
 <html lang="en">
 <head>
     <title>Social Justice Repair Kit</title>
+    <!-- UI Options CSS -->
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/lib/normalize/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/core/css/fluid.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/Enactors.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/PrefsEditor.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/SeparatedPanelPrefsEditor.css" />
+
+    <!-- UI Options -->
+    <script type="text/javascript" src="lib/infusion/infusion-uiOptions.js"></script>
+
     <!-- Via CDN right now -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.2.4/gridlex.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="css/repairKit.css" />
 
-    <script
-      src="https://code.jquery.com/jquery-3.2.1.min.js"
-      integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-      crossorigin="anonymous"></script>
-
-      <script
-        src="js/repairKit.js"></script>
+    <script type="text/javascript" src="js/repairKit.js"></script>
 
 </head>
 <body>
+
+<!-- UI Options Sliding Panel -->
+<div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
+    <!-- This is the div that will contain the Preference Editor component -->
+    <div class="flc-slidingPanel-panel flc-prefsEditor-iframe"></div>
+    <!-- This div is for the sliding panel that shows and hides the Preference Editor controls -->
+    <div class="fl-panelBar">
+        <span class="fl-prefsEditor-buttons">
+            <button id="reset" class="flc-prefsEditor-reset fl-prefsEditor-reset">
+                <span class="fl-icon-undo"></span>
+                Reset
+            </button>
+            <button id="show-hide" class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide">
+                Show/Hide
+            </button>
+        </span>
+    </div>
+</div>
+<!-- Table of Contents -->
+<nav class="flc-toc-tocContainer"> </nav>
+
 <div class="sjrk-header">
     <div class="grid-12">
         <div class="col-12 sjrk-header-stripes"></div>
