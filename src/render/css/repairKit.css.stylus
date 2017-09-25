@@ -1,9 +1,15 @@
-
-body {
-    max-width: 1284px;
-    margin: auto;
-    font-family: 'Noto Sans', sans-serif;
+html, body {
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.125em;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.sjrk-container {
+    min-height: 100%;
+    height: 100%;
+    position: relative;
 }
 
 .sjrk-caps {
@@ -11,8 +17,7 @@ body {
 }
 
 .sjrk-header {
-    background-color: rgb(255, 255, 255);
-    background-image: url("../images/sjrk-paper-bg-seamless-top-colour.png");
+    background-color: rgb(251, 229, 64);
     background-position: bottom;
 }
 
@@ -20,6 +25,7 @@ body {
     color: #000;
     font-size: 4.43em;
     margin: 0 0 0 0;
+    padding: 0.5em 0 0.5em 0;
     a {
         text-decoration: none;
         color: #000;
@@ -59,8 +65,7 @@ body {
 }
 
 .sjrk-content-top {
-    height: 228px;
-    background-image: url("../images/sjrk-ripped-bg-seamless-top-colour.png");
+ /*   height: 150px;*/
     background-position: bottom;
 }
 
@@ -77,15 +82,20 @@ body {
 
 }
 
+
+.flc-toc-tocContainer {
+    display: block;   
+}
+
+
 /* list-style: none to implement custom list bullets */
 .sjrk-content-container ul {
     margin-top: -0.75em;
-    list-style: none;
+    list-style: disc;
 }
 
 /* Custom list bullets */
 .sjrk-content-container li::before {
-    background-image:url("../images/sjrk-list-bullet.png");
     background-size: 29px 28px;
     display: inline-block;
     width: 29px;
@@ -98,7 +108,7 @@ body {
 
 .sjrk-content-bottom {
     height: 236px;
-    background-image: url("../images/sjrk-ripped-bg-seamless-bottom-colour.png");
+    
 }
 
 .sjrk-links {
@@ -110,8 +120,8 @@ body {
 }
 
 .sjrk-logos-container {
-    padding-top: 2em;
-    margin-bottom: -3em;
+   /* padding-top: 2em;*/
+    /*margin-bottom: -3em;*/
 }
 
 .sjrk-img-oak-foundation-logo {
@@ -124,9 +134,12 @@ body {
 
 .sjrk-footer {
     padding-top: 2em;
-    background-image: url("../images/sjrk-paper-bg-seamless-bottom-colour.png");
+    background-color: rgb(251, 229, 64);
     font-size: 0.8em;
     padding-right: 1.6em;
+    position: absolute;
+    bottom: 0;
+    height: 200px;
     a {
         font-weight: bold;
         text-decoration: none;
@@ -135,7 +148,8 @@ body {
 }
 
 .sjrk-navbar-large-container {
-    margin-top: -7em;
+    /*margin-top: -7em;*/
+    border-bottom: 1px solid #000;
 }
 
 @media screen and (max-width: 64em) {
@@ -146,27 +160,35 @@ body {
 
 .sjrk-navbar-large {
     .sjrk-navbar-item {
-        background-image: url("../images/sjrk-nav-blob.png");
+        /*background-image: url("../images/sjrk-nav-blob.png");*/
         background-size: cover;
         background-position: top;
         background-repeat: no-repeat;
-        color: #FFF;
+        color: #000;
         font-size: 1.2em;
-        padding: 2em 2em 3em 2em;
+        padding: 1em 1em 1em 1em;
         text-align: center;
 
     }
-    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+/*    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
     &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
         background-image: url("../images/sjrk-nav-blob-active.png");
         a {
             color: #F3D300;
+        }*/
+    &.sjrk-navbar-active-about ,
+    &.sjrk-navbar-active-partnerss,
+    &.sjrk-navbar-active-resources,
+    &.sjrk-navbar-active-activity {
+   
+        a {
+            color: #F3D300;
         }
     }
     .sjrk-navbar-item a {
-        color: #FFF;
+        color: #000;
         text-decoration: none;
     }
 }
@@ -233,13 +255,22 @@ body {
         display: none;
     }
 
-    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+/*    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
     &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
         font-weight: bold;
         background-image: url("../images/sjrk-nav-stroke-active.png");
         background-position: -1em bottom;
+        background-repeat: no-repeat;
+    }*/
+    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+    &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+    &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+    &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        font-weight: bold;
+        background-image: url("../images/sjrk-nav-stroke-active.png");
+       /* background-position: -1em bottom;*/
         background-repeat: no-repeat;
     }
 
@@ -266,7 +297,8 @@ body {
     background-image: url("../images/sjrk-nav-stroke-active.png");
     background-position: -0.2em 0.8em;
     background-repeat: no-repeat;
-    padding-bottom: 1em;
+    /*padding-bottom: 1em;*/
+    font-size: 1.125em;
 }
 
 /* Remove background images when high contrast themes are selected via UIO */
