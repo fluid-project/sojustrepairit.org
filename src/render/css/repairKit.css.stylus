@@ -1,14 +1,29 @@
-html, body {
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.125em;
-    height: 100%;
+/* CSS to always put the footer in the bottom
+ * https://codepen.io/cbracco/pen/zekgx */
+
+html {
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
+    height: 100%;
 }
 
-.sjrk-container {
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: inherit; 
+    -moz-box-sizing: inherit; 
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.125em;
+    margin: 0;
+    padding: 0 0 18em 0;
     min-height: 100%;
-    height: 100%;
     position: relative;
 }
 
@@ -25,7 +40,7 @@ html, body {
     color: #000;
     font-size: 4.43em;
     margin: 0 0 0 0;
-    padding: 0.5em 0 0.5em 0;
+    padding: 0.5em 0.5em 0.5em 0.5em;
     a {
         text-decoration: none;
         color: #000;
@@ -51,10 +66,6 @@ html, body {
     height: 4em;
 }
 
-.sjrk-header .sjrk-left-col, .sjrk-footer {
-    padding-left: 3em;
-}
-
 /*Codesign container background size and padding should shrink on mobile*/
 @media screen and (max-width: 48em) {
     .sjrk-codesign-container {
@@ -65,12 +76,23 @@ html, body {
 }
 
 .sjrk-content-top {
- /*   height: 150px;*/
+ /*   height: 150px;*/;
     background-position: bottom;
 }
 
-.sjrk-content-container {
+.sjrk-content p {
+    line-height: 1.7em;
+}
 
+.sjrk-content ul, .sjrk-content li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.7em;
+    list-style-position: inside;
+}
+
+.sjrk-content-container {
+    margin: 2em auto;
 }
 
 .sjrk-links-container {
@@ -79,9 +101,8 @@ html, body {
 }
 
 .sjrk-subheading {
-
+    font-size: 2em;
 }
-
 
 .flc-toc-tocContainer {
     display: block;   
@@ -90,21 +111,8 @@ html, body {
 
 /* list-style: none to implement custom list bullets */
 .sjrk-content-container ul {
-    margin-top: -0.75em;
     list-style: disc;
 }
-
-/* Custom list bullets */
-.sjrk-content-container li::before {
-    background-size: 29px 28px;
-    display: inline-block;
-    width: 29px;
-    height: 28px;
-    content: "";
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 
 .sjrk-content-bottom {
     height: 236px;
@@ -133,13 +141,16 @@ html, body {
 }
 
 .sjrk-footer {
-    padding-top: 2em;
+    /*padding-top: 2em;*/
     background-color: rgb(251, 229, 64);
     font-size: 0.8em;
-    padding-right: 1.6em;
+    /*padding-right: 1.6em;*/
     position: absolute;
+    right: 0;
     bottom: 0;
-    height: 200px;
+    left: 0;
+    padding: 1rem;
+    height: 18em;
     a {
         font-weight: bold;
         text-decoration: none;
@@ -149,6 +160,9 @@ html, body {
 
 .sjrk-navbar-large-container {
     /*margin-top: -7em;*/
+    /*border-bottom: 1px solid #000;*/
+    background: #fff;
+    margin: 0 3em 0 3em;
     border-bottom: 1px solid #000;
 }
 
@@ -166,27 +180,25 @@ html, body {
         background-repeat: no-repeat;
         color: #000;
         font-size: 1.2em;
-        padding: 1em 1em 1em 1em;
-        text-align: center;
-
+        font-weight: bold;
+        padding: 1em 1em 0.8em 0.5em;
     }
-/*    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+
+    &.sjrk-navbar-active-about .sjrk-navbar-item-about,
     &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
-        background-image: url("../images/sjrk-nav-blob-active.png");
-        a {
-            color: #F3D300;
-        }*/
-    &.sjrk-navbar-active-about ,
-    &.sjrk-navbar-active-partnerss,
-    &.sjrk-navbar-active-resources,
-    &.sjrk-navbar-active-activity {
-   
-        a {
-            color: #F3D300;
+        &::after {
+            content: ' ';
+            display: block;
+            width: 188px;
+            height: 35px;
+            position: absolute;
+            margin-left: -45px;
+            background-image: url("../images/sjrk-nav-stroke-active-black.png");
         }
     }
+
     .sjrk-navbar-item a {
         color: #000;
         text-decoration: none;
@@ -310,4 +322,8 @@ html, body {
     .sjrk-navbar-large.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
         background-image: none;
     }
+}
+
+.flc-toc-header {
+    font-size: 2em;
 }
