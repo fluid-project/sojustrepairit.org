@@ -23,9 +23,9 @@
 </head>
 <body>
 
-<div class="sjrk-header">
+<div class="sjrk-header sjrk-header-stripes">
     <div class="grid-12-noGutter-noBottom">
-        <div class="col-12 sjrk-header-stripes">
+        <div class="col-12">
             <!-- UI Options Sliding Panel -->
             <div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
                 <!-- This is the div that will contain the Preference Editor component -->
@@ -44,6 +44,7 @@
                 </div>
             </div>
         </div>
+
     </div>
     <div class="grid-12-noGutter-noBottom">
         <div class="col-12_md-8_sm-7 sjrk-left-col">
@@ -51,22 +52,21 @@
                 <h1 class="sjrk-mainHeading"><a href="index.html"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
                 <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></a></h1>
         </div>
-</div>
-
-<div class="col-0_md-3_sm-4 sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
-    <div class="sjrk-navbar-small-closed">
-        <a href="#"><span class="sjrk-navbar-small-openToggle"> Menu</span></a>
+        <div class="sjrk-navbar sjrk-navbar-small sjrk-navbar-active-{{ document.activeNav }}">
+            <div class="sjrk-navbar-small-closed">
+                <a href="#"><span class="sjrk-navbar-small-openToggle"> Menu</span></a>
+            </div>
+            <div class="sjrk-navbar-small-open">
+                <a href="#"><span class="sjrk-navbar-small-closeToggle">Menu</span></a>
+                <ul class="sjrk-navbar-small-navbar-list">
+                    <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></li>
+                    <li class="sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></li>
+                </ul>
+            </div>
+        </div>
     </div>
-    <div class="sjrk-navbar-small-open">
-        <a href="#"><span class="sjrk-navbar-small-closeToggle"> Menu</span></a>
-        <ul class="sjrk-navbar-small-navbar-list">
-            <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
-            <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></li>
-            <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></li>
-            <li class="sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></li>
-        </ul>
-    </div>
-</div>
 </div>
 
 <div class="sjrk-navbar-large-container">
@@ -97,15 +97,21 @@
     </div>
 </div>
 
-<div class="sjrk-footer">
+<div class="sjrk-footer sjrk-footer-stripes">
     <div class="grid-12 sjrk-links-container">
         <div class="col-12 sjrk-links">
             Supported by the <a href="http://oakfnd.org/learning">Oak Foundation</a> and led by the <a href="http://idrc.ocadu.ca/">Inclusive Design Research Centre</a>
         </div>
     </div>
     <div class="grid-12 sjrk-logos-container">
-        <div class="col-2_md-3_sm-4"><a href="http://oakfnd.org/learning"><img alt="Oak Foundation" class="sjrk-img-oak-foundation-logo" src="images/sjrk-oak-logo.png" /></a></div>
-        <div class="col-2_md-3_sm-4"><a href="http://idrc.ocadu.ca/"><img alt="Inclusive Design Research Centre" class="sjrk-img-idrc-logo" src="images/sjrk-idrc-logo.png" /></a></div>
+        <div class="col-2_md-3_sm-4">
+            <a href="http://oakfnd.org/learning" class="sjrk-oak-foundation-logo" title="Oak Foundation">Oak Foundation</a>
+        </div>
+        <div class="col-2_md-3_sm-4">
+            <a href="http://idrc.ocadu.ca/" class="sjrk-idrc-logo" title="Inclusive Design Research Centre">Inclusive Design Resesarch Centre</a>
+        </div>
+      <!--   <div class="col-_m8d-4_sm-4 ">
+        </div> -->
     </div>
 </div>
 

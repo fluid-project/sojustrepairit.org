@@ -33,7 +33,7 @@ body {
 
 .sjrk-header {
     background-color: rgb(251, 229, 64);
-    background-position: bottom;
+    background-position: top;
 }
 
 .sjrk-mainHeading {
@@ -63,7 +63,7 @@ body {
     background-image: url("../images/sjrk-cropped-stroke-black.png");
     background-size: 4em auto;
     background-repeat: repeat-x;
-    height: 4em;
+    /*height: 4em;*/
 }
 
 /*Codesign container background size and padding should shrink on mobile*/
@@ -98,6 +98,7 @@ body {
 .sjrk-links-container {
     line-height: 1.55em;
     font-size: 1.6em;
+    padding-left: 1.5em;
 }
 
 .sjrk-subheading {
@@ -120,7 +121,7 @@ body {
 }
 
 .sjrk-links {
-    padding: 0.5rem 1rem;
+   /* padding: 0.5rem 1rem;*/
 }
 
 .sjrk-links a {
@@ -128,34 +129,61 @@ body {
 }
 
 .sjrk-logos-container {
-   /* padding-top: 2em;*/
-    /*margin-bottom: -3em;*/
+    padding-left: 2em;
 }
 
-.sjrk-img-oak-foundation-logo {
-    width: 100%;
+.sjrk-oak-foundation-logo {
+    background-image: url(../images/sjrk-oak-logo-black.png);
+    width: 143px;
+    height: 80px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    position: absolute;
+    font-size: 0;
 }
 
-.sjrk-img-idrc-logo {
-    width: 100%;
+/*.sjrk-oak-foundation {
+    font-size: 0;
+}*/
+
+.sjrk-idrc-logo {
+    background-image: url(../images/sjrk-idrc-logo-black.png);
+    width: 290px;
+    height: 80px;
+    background-repeat: no-repeat;
+    margin-top: 0;
+    position: absolute;
+    font-size: 0;
 }
+
+/*.sjrk-idrc {
+    font-size: 0;
+}*/
 
 .sjrk-footer {
     /*padding-top: 2em;*/
     background-color: rgb(251, 229, 64);
+    background-position: bottom;
     font-size: 0.8em;
-    /*padding-right: 1.6em;*/
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
     padding: 1rem;
-    height: 18em;
+    height: 15em;
     a {
         font-weight: bold;
         text-decoration: none;
         color: #000;
     }
+}
+
+.sjrk-footer-stripes {
+    background-image: url("../images/sjrk-cropped-stroke-bottom-black.png");
+    background-repeat: repeat-x;
+    background-size: 4em auto;
+    left: 0;
+    bottom: 0;
 }
 
 .sjrk-navbar-large-container {
@@ -214,6 +242,7 @@ body {
 .sjrk-navbar-small {
 
     text-align: right;
+    padding: 2em;
 
     .sjrk-navbar-small-navbar-list {
         list-style: none;
@@ -281,8 +310,8 @@ body {
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
         font-weight: bold;
-        background-image: url("../images/sjrk-nav-stroke-active.png");
-       /* background-position: -1em bottom;*/
+        background-image: url("../images/sjrk-nav-stroke-active-small.png");
+        background-position: -1em bottom;
         background-repeat: no-repeat;
     }
 
@@ -327,3 +356,84 @@ body {
 .flc-toc-header {
     font-size: 2em;
 }
+
+.flc-prefsEditor-separatedPanel .fl-prefsEditor-separatedPanel {
+    overflow: visible;
+}
+
+/* white logo for white-on-black theme */
+.fl-theme-wb .sjrk-oak-foundation-logo {
+    color: #fff;
+    background-image: url("../images/sjrk-oak-logo-white.png");
+    background-repeat: no-repeat;
+}
+
+.fl-theme-wb .sjrk-idrc-logo {
+    color: #fff;
+    background-image: url("../images/sjrk-idrc-logo-white.png");
+    background-repeat: no-repeat;
+}
+
+.fl-theme-wb .sjrk-header-stripes {
+    background-image: url("../images/sjrk-cropped-stroke-white.png");
+}
+
+.fl-theme-wb .sjrk-footer-stripes {
+    background-image: url("../images/sjrk-cropped-stroke-bottom-white.png");
+}
+
+/* yellow logo for yellow-on-black theme */
+.fl-theme-yb .sjrk-oak-foundation-logo {
+    color: #ff0;
+    background-image: url("../images/sjrk-oak-logo-yellow.png");
+}
+.fl-theme-yb .sjrk-idrc-logo {
+    color: #ff0;
+    background-image: url("../images/sjrk-idrc-logo-yellow.png");
+}
+/* black logo for black-on-white and black-on-yellow themes */
+.fl-theme-bw .site-logo,
+.fl-theme-by .site-logo {
+    color: #000;
+    background-image: url("images/logo-black.png");
+}
+/* light grey logo for light grey and dark grey theme */
+.fl-theme-lgdg .site-logo {
+    color: #bdbdbb;
+    background-image: url("images/logo-grey.png");
+}
+
+.fl-theme-wb {
+  .sjrk-navbar-active-about .sjrk-navbar-item-about,
+  .sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+  .sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+  .sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        &::after {
+            content: ' ';
+            display: block;
+            width: 188px;
+            height: 35px;
+            position: absolute;
+            margin-left: -45px;
+            background-image: url("../images/sjrk-nav-stroke-active-white.png");
+        }
+    }
+}
+
+.fl-theme-yb {
+  .sjrk-navbar-active-about .sjrk-navbar-item-about,
+  .sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+  .sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+  .sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        &::after {
+            content: ' ';
+            display: block;
+            width: 188px;
+            height: 35px;
+            position: absolute;
+            margin-left: -45px;
+            background-image: url("../images/sjrk-nav-stroke-active-yellow.png");
+        }
+    }
+}
+
