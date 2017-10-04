@@ -48,7 +48,6 @@
     </div>
     <div class="grid-12-noGutter-noBottom">
         <div class="col-12_md-8_sm-7 sjrk-left-col">
-
                 <h1 class="sjrk-mainHeading"><a href="index.html"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
                 <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></a></h1>
         </div>
@@ -70,17 +69,16 @@
 </div>
 
 <div class="sjrk-navbar-large-container">
-<div class="grid-5 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
-<div class="col-2 sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></div>
-<div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
-<div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
-<div class="col-2 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
-</div>
+    <div class="grid-5 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
+        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
+    </div>
 </div>
 
 <div class="sjrk-content-container">
-
-    <div class="grid-spaceAround">
+    <div class="grid-center">
         <div class="col-9_md-10">
             <!-- Table of Contents -->
             <nav class="flc-toc-tocContainer"></nav>
@@ -89,8 +87,7 @@
             <h2 class="sjrk-subheading">{{ document.pageTitle }}</h2>
         </div>
     </div>
-
-    <div class="grid-12-center">
+    <div class="grid-12-center sjrk-container">
 
         {{{ content }}}
 
@@ -104,14 +101,14 @@
         </div>
     </div>
     <div class="grid-12 sjrk-logos-container">
-        <div class="col-2_md-3_sm-4">
+        <div class="col-2_md-3_sm-12 sjrk-oak-foundation">
             <a href="http://oakfnd.org/learning" class="sjrk-oak-foundation-logo" title="Oak Foundation">Oak Foundation</a>
         </div>
-        <div class="col-2_md-3_sm-4">
-            <a href="http://idrc.ocadu.ca/" class="sjrk-idrc-logo" title="Inclusive Design Research Centre">Inclusive Design Resesarch Centre</a>
+        <div class="col-5_md-5_sm-12 sjrk-idrc">
+            <a href="http://idrc.ocadu.ca/" class="sjrk-idrc-logo" title="Inclusive Design Research Centre">Inclusive Design Research Centre</a>
         </div>
-      <!--   <div class="col-_m8d-4_sm-4 ">
-        </div> -->
+    </div>
+    <div class="grid-12-noGutter-noBottom">
     </div>
 </div>
 
