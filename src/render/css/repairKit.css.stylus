@@ -135,71 +135,6 @@ body {
 }
 
 
-/* Footer and logos */
-
-.sjrk-logos-container {
-    padding-left: 2em;
-}
-
-.sjrk-oak-foundation {
-    background-image: url("../images/sjrk-oak-logo-black.png");
-    background-repeat: no-repeat;
-    background-position: left top;
-    width: 145px;
-    height: 80px;
-    position: relative;
-    margin-top: 0;
-    padding-bottom: 2em;
-}
-
-.sjrk-idrc {
-    background-image: url("../images/sjrk-idrc-logo-black.png");
-    background-repeat: no-repeat;
-    background-position: left top;
-    width: 290px;
-    height: 80px;
-    position: relative;
-    margin-top: 0;
-    padding-bottom: 2em;
-}
-
-.sjrk-oak-foundation-logo {
-    font-size: 0;
-    width: 100%;
-}
-
-.sjrk-idrc-logo {
-    font-size: 0;
-    width: 100%;
-}
-
-.sjrk-footer {
-    background-color: rgb(251, 229, 64);
-    background-position: bottom;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 1em;
-    height: 18em;
-    font-size: 0.8em;
-    a {
-        font-weight: bold;
-        text-decoration: none;
-        color: #000;
-    }
-}
-
-.sjrk-footer-stripes {
-    background-image: url("../images/sjrk-cropped-stroke-bottom-black.png");
-    background-repeat: repeat-x;
-    background-size: 4em auto;
-    left: 0;
-    bottom: 0;
-    height: 22em;
-}
-
-
 /* Navigation bar */
 
 .sjrk-navbar-large-container {
@@ -351,6 +286,75 @@ body {
 }
 
 
+/* Footer and logos */
+
+.sjrk-logos-container {
+    padding-left: 2em;
+}
+
+.sjrk-oak-foundation {
+    background-image: url("../images/sjrk-oak-logo-black.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: contain;
+    width: 145px;
+    height: 80px;
+    position: relative;
+    margin-top: 0;
+    resize: both;
+}
+
+.sjrk-idrc {
+    background-image: url("../images/sjrk-idrc-logo-black.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: contain;
+    width: 290px;
+    height: 80px;
+    position: relative;
+    margin-top: 0;
+    resize: both;
+}
+
+.sjrk-oak-foundation-logo {
+    font-size: 0;
+    width: 100%;
+}
+
+.sjrk-idrc-logo {
+    font-size: 0;
+    width: 100%;
+}
+
+.sjrk-footer {
+    background-color: rgb(251, 229, 64);
+    background-position: bottom;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1em;
+    height: 18em;
+    font-size: 0.8em;
+    a {
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+    }
+}
+
+.sjrk-footer-stripes {
+    background-image: url("../images/sjrk-cropped-stroke-bottom-black.png");
+    background-repeat: repeat-x;
+    background-size: 4em auto;
+    left: 0;
+    bottom: 0;
+    height: 22em;
+}
+
+
+/* Begin custom CSS for UIO */
+
 /* Remove background images when high contrast themes are selected via UIO */
 .fl-theme-by, .fl-theme-yb, .fl-theme-wb, .fl-theme-bw, .fl-theme-lgdg {
     .sjrk-content-top, .sjrk-header, .sjrk-content-bottom, .sjrk-footer, .sjrk-navbar-item,
@@ -362,8 +366,6 @@ body {
     }
 }
 
-
-/* Begin custom CSS for UIO */
 .flc-toc-header {
     font-size: 2em;
 }
