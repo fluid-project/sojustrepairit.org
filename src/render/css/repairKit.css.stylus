@@ -412,6 +412,13 @@ body {
     }
 }
 
+/* Black assets for black-on-white theme */
+.fl-theme-bw .sjrk-oak-foundation {
+    color: #fff;
+    background-image: url("../images/sjrk-oak-logo-blackyellow.png");
+    background-repeat: no-repeat;
+}
+
 /* Yellow assets for yellow-on-black theme */
 .fl-theme-yb .sjrk-oak-foundation {
     color: #ff0;
