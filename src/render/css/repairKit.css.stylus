@@ -279,9 +279,6 @@ body {
 }
 
 .sjrk-join-us-container-heading {
-    background-image: url("../images/sjrk-nav-stroke-active.png");
-    background-position: -0.2em 0.8em;
-    background-repeat: no-repeat;
     font-size: 1.125em;
 }
 
