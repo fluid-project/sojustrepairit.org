@@ -1,25 +1,50 @@
+/* html, *, *::before,*::after, body box-sizing to keep *
+ * footer sticky at bottom of the page                  *
+ * https://codepen.io/cbracco/pen/zekgx                 */
+
+html {
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: inherit; 
+    -moz-box-sizing: inherit; 
+    box-sizing: inherit;
+}
 
 body {
-    max-width: 1284px;
-    margin: auto;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 1.125em;
+    margin: 0;
+    padding: 0 0 18em 0;
+    min-height: 100%;
+    position: relative;
 }
 
 .sjrk-caps {
     text-transform: uppercase;
 }
 
+
+/* Header */
+
 .sjrk-header {
-    background-color: rgb(255, 255, 255);
-    background-image: url("../images/sjrk-paper-bg-seamless-top-colour.png");
-    background-position: bottom;
+    background-color: rgb(251, 229, 64);
+    background-position: top;
 }
 
 .sjrk-mainHeading {
     color: #000;
     font-size: 4.43em;
     margin: 0 0 0 0;
+    padding: 0.5em 0.5em 0.5em 0.5em;
     a {
         text-decoration: none;
         color: #000;
@@ -42,134 +67,125 @@ body {
     background-image: url("../images/sjrk-cropped-stroke-black.png");
     background-size: 4em auto;
     background-repeat: repeat-x;
-    height: 4em;
 }
 
-.sjrk-header .sjrk-left-col, .sjrk-footer {
-    padding-left: 3em;
+
+/* Body container */
+
+.sjrk-container {
+    width: 100%;
 }
 
-/*Codesign container background size and padding should shrink on mobile*/
+/* Codesign container background size and padding should shrink on mobile */
 @media screen and (max-width: 48em) {
     .sjrk-codesign-container {
         background-size: 6em auto;
         padding-left: 8em;
         background-position: top left 2em;
     }
+    .sjrk-navbar-large-container {
+        border-bottom: none;
+    }
 }
 
 .sjrk-content-top {
-    height: 228px;
-    background-image: url("../images/sjrk-ripped-bg-seamless-top-colour.png");
     background-position: bottom;
 }
 
-.sjrk-content-container {
+.sjrk-content p {
+    line-height: 1.7em;
+}
 
+.sjrk-content ul, .sjrk-content li {
+    margin: 0;
+    padding: 0;
+    line-height: 1.7em;
+    list-style-position: inside;
+}
+
+.sjrk-content-container {
+    margin: 2em auto;
 }
 
 .sjrk-links-container {
     line-height: 1.55em;
     font-size: 1.6em;
+    padding-left: 1.2em;
 }
 
 .sjrk-subheading {
-
+    font-size: 2em;
+    margin: 0;
 }
 
-/* list-style: none to implement custom list bullets */
+.flc-toc-tocContainer {
+    display: block;   
+}
+
 .sjrk-content-container ul {
-    margin-top: -0.75em;
-    list-style: none;
+    list-style: disc;
 }
-
-/* Custom list bullets */
-.sjrk-content-container li::before {
-    background-image:url("../images/sjrk-list-bullet.png");
-    background-size: 29px 28px;
-    display: inline-block;
-    width: 29px;
-    height: 28px;
-    content: "";
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
 
 .sjrk-content-bottom {
     height: 236px;
-    background-image: url("../images/sjrk-ripped-bg-seamless-bottom-colour.png");
-}
-
-.sjrk-links {
-    padding: 0.5rem 1rem;
 }
 
 .sjrk-links a {
     color: #000;
 }
 
-.sjrk-logos-container {
-    padding-top: 2em;
-    margin-bottom: -3em;
-}
 
-.sjrk-img-oak-foundation-logo {
-    width: 100%;
-}
-
-.sjrk-img-idrc-logo {
-    width: 100%;
-}
-
-.sjrk-footer {
-    padding-top: 2em;
-    background-image: url("../images/sjrk-paper-bg-seamless-bottom-colour.png");
-    font-size: 0.8em;
-    padding-right: 1.6em;
-    a {
-        font-weight: bold;
-        text-decoration: none;
-        color: #000;
-    }
-}
+/* Navigation bar */
 
 .sjrk-navbar-large-container {
-    margin-top: -7em;
+    background: #fff;
+    margin: 0 3em 0 3em;
+    border-bottom: 1px solid #000;
 }
 
 @media screen and (max-width: 64em) {
     .sjrk-navbar-large {
         display: none !important;
     }
+    .sjrk-navbar-large-container {
+        border-bottom: none;
+    }
 }
 
 .sjrk-navbar-large {
     .sjrk-navbar-item {
-        background-image: url("../images/sjrk-nav-blob.png");
         background-size: cover;
         background-position: top;
         background-repeat: no-repeat;
-        color: #FFF;
+        color: #000;
         font-size: 1.2em;
-        padding: 2em 2em 3em 2em;
-        text-align: center;
-
+        font-weight: bold;
+        padding: 1em 1em 0.8em 0.5em;
     }
+
     &.sjrk-navbar-active-about .sjrk-navbar-item-about,
     &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
-        background-image: url("../images/sjrk-nav-blob-active.png");
-        a {
-            color: #F3D300;
+        &::after {
+            content: ' ';
+            display: block;
+            width: 188px;
+            height: 35px;
+            position: absolute;
+            margin-left: -45px;
+            background-image: url("../images/sjrk-nav-stroke-active-black.png");
         }
     }
+
     .sjrk-navbar-item a {
-        color: #FFF;
+        color: #000;
         text-decoration: none;
     }
 }
+
+
+/* Responsive navigation bar */
 
 @media screen and (min-width: 64em) {
     .sjrk-navbar-small {
@@ -180,12 +196,13 @@ body {
 .sjrk-navbar-small {
 
     text-align: right;
+    padding: 2em;
 
     .sjrk-navbar-small-navbar-list {
         list-style: none;
         padding-left: 0;
         li {
-            padding-bottom: 1.3em;
+            padding-bottom: 1.4em;
         }
     }
 
@@ -193,9 +210,9 @@ body {
         background-image:url("../images/sjrk-nav-chevron.png");
         background-size: 40px 21px;
         display: inline-block;
-        width: 40px;
-        height: 21px;
-        content: "";
+        width: 2.5em;
+        height: 0.9em;
+        content: " ";
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -220,10 +237,9 @@ body {
         background-image:url("../images/sjrk-nav-close.png");
         background-size: 21px 20px;
         display: inline-block;
-        width: 21px;
-        padding-right: 19px;
-        height: 20px;
-        content: "";
+        width: 2.5em;
+        height: 0.9em;
+        content: " ";
         background-repeat: no-repeat;
         background-position: center;
     }
@@ -238,8 +254,8 @@ body {
     &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
     &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
         font-weight: bold;
-        background-image: url("../images/sjrk-nav-stroke-active.png");
-        background-position: -1em bottom;
+        background-image: url("../images/sjrk-nav-stroke-active-small.png");
+        background-position: bottom;
         background-repeat: no-repeat;
     }
 
@@ -266,5 +282,212 @@ body {
     background-image: url("../images/sjrk-nav-stroke-active.png");
     background-position: -0.2em 0.8em;
     background-repeat: no-repeat;
-    padding-bottom: 1em;
+    font-size: 1.125em;
+}
+
+
+/* Footer and logos */
+
+.sjrk-logos-container {
+    padding-left: 2em;
+}
+
+.sjrk-oak-foundation {
+    background-image: url("../images/sjrk-oak-logo-black.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: contain;
+    width: 145px;
+    height: 80px;
+    position: relative;
+    margin-top: 0;
+    resize: both;
+}
+
+.sjrk-idrc {
+    background-image: url("../images/sjrk-idrc-logo-black.png");
+    background-repeat: no-repeat;
+    background-position: left top;
+    background-size: contain;
+    width: 290px;
+    height: 80px;
+    position: relative;
+    margin-top: 0;
+    resize: both;
+}
+
+.sjrk-oak-foundation-logo {
+    font-size: 0;
+    width: 100%;
+}
+
+.sjrk-idrc-logo {
+    font-size: 0;
+    width: 100%;
+}
+
+.sjrk-footer {
+    background-color: rgb(251, 229, 64);
+    background-position: bottom;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1em;
+    height: 18em;
+    font-size: 0.8em;
+    a {
+        font-weight: bold;
+        text-decoration: none;
+        color: #000;
+    }
+}
+
+.sjrk-footer-stripes {
+    background-image: url("../images/sjrk-cropped-stroke-bottom-black.png");
+    background-repeat: repeat-x;
+    background-size: 4em auto;
+    left: 0;
+    bottom: 0;
+    height: 22em;
+}
+
+
+/* Begin custom CSS for UIO */
+
+/* Remove background images when high contrast themes are selected via UIO */
+.fl-theme-by, .fl-theme-yb, .fl-theme-wb, .fl-theme-bw, .fl-theme-lgdg {
+    .sjrk-content-top, .sjrk-header, .sjrk-content-bottom, .sjrk-footer, .sjrk-navbar-item,
+    .sjrk-navbar-large.sjrk-navbar-active-about .sjrk-navbar-item-about,
+    .sjrk-navbar-large.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+    .sjrk-navbar-large.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+    .sjrk-navbar-large.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        background-image: none;
+    }
+}
+
+.flc-toc-header {
+    font-size: 2em;
+}
+
+.flc-prefsEditor-separatedPanel .fl-prefsEditor-separatedPanel {
+    overflow: visible;
+}
+
+/* White assets for white-on-black theme */
+.fl-theme-wb .sjrk-oak-foundation {
+    color: #fff;
+    background-image: url("../images/sjrk-oak-logo-white.png");
+    background-repeat: no-repeat;
+}
+
+.fl-theme-wb .sjrk-idrc {
+    color: #fff;
+    background-image: url("../images/sjrk-idrc-logo-white.png");
+    background-repeat: no-repeat;
+}
+
+.fl-theme-wb {
+  .sjrk-navbar-active-about .sjrk-navbar-item-about,
+  .sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+  .sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+  .sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        &::after {
+            background-image: url("../images/sjrk-nav-stroke-active-white.png");
+        }
+    }
+}
+
+.fl-theme-wb {
+    .sjrk-navbar-small {
+        &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+        &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+        &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+        &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+            background-image: url("../images/sjrk-nav-stroke-active-small-white.png");
+        }
+    }
+    .sjrk-navbar-small-openToggle:before {
+        background-image:url("../images/sjrk-nav-chevron-white.png");
+    }
+    .sjrk-navbar-small-closeToggle:before {
+        background-image:url("../images/sjrk-nav-close-white.png");
+    }
+}
+
+/* Yellow assets for yellow-on-black theme */
+.fl-theme-yb .sjrk-oak-foundation {
+    color: #ff0;
+    background-image: url("../images/sjrk-oak-logo-yellow.png");
+}
+.fl-theme-yb .sjrk-idrc {
+    color: #ff0;
+    background-image: url("../images/sjrk-idrc-logo-yellow.png");
+}
+
+.fl-theme-yb {
+  .sjrk-navbar-active-about .sjrk-navbar-item-about,
+  .sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+  .sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+  .sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        &::after {
+            background-image: url("../images/sjrk-nav-stroke-active-yellow.png");
+        }
+    }
+}
+
+.fl-theme-yb {
+    .sjrk-navbar-small {
+        &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+        &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+        &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+        &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+            background-image: url("../images/sjrk-nav-stroke-active-small-yellow.png");
+        }
+    }
+    .sjrk-navbar-small-openToggle:before {
+        background-image:url("../images/sjrk-nav-chevron-yellow.png");
+    }
+    .sjrk-navbar-small-closeToggle:before {
+        background-image:url("../images/sjrk-nav-close-yellow.png");
+    }
+}
+
+/* Light grey assets for light grey and dark grey theme */
+
+.fl-theme-lgdg .sjrk-oak-foundation {
+    color: #ff0;
+    background-image: url("../images/sjrk-oak-logo-grey.png");
+}
+.fl-theme-lgdg .sjrk-idrc {
+    color: #ff0;
+    background-image: url("../images/sjrk-idrc-logo-grey.png");
+}
+
+.fl-theme-lgdg {
+  .sjrk-navbar-active-about .sjrk-navbar-item-about,
+  .sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+  .sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+  .sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+        &::after {
+            background-image: url("../images/sjrk-nav-stroke-active-grey.png");
+        }
+    }
+}
+
+.fl-theme-lgdg {
+    .sjrk-navbar-small {
+        &.sjrk-navbar-active-about .sjrk-navbar-item-about,
+        &.sjrk-navbar-active-partners .sjrk-navbar-item-partners,
+        &.sjrk-navbar-active-resources .sjrk-navbar-item-resources,
+        &.sjrk-navbar-active-activity .sjrk-navbar-item-activity {
+            background-image: url("../images/sjrk-nav-stroke-active-small-grey.png");
+        }
+    }
+    .sjrk-navbar-small-openToggle:before {
+        background-image:url("../images/sjrk-nav-chevron-grey.png");
+    }
+    .sjrk-navbar-small-closeToggle:before {
+        background-image:url("../images/sjrk-nav-close-grey.png");
+    }
 }
