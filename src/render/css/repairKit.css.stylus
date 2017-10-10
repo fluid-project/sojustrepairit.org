@@ -450,6 +450,12 @@ body {
     }
 }
 
+/* Black assets for black and yellow theme */
+.fl-theme-by .sjrk-oak-foundation {
+    color: #ff0;
+    background-image: url("../images/sjrk-oak-logo-blackyellow.png");
+}
+
 /* Light grey assets for light grey and dark grey theme */
 
 .fl-theme-lgdg .sjrk-oak-foundation {
