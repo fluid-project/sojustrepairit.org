@@ -70,10 +70,10 @@
 
 <div class="sjrk-navbar-large-container">
     <div class="grid-5 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-{{ document.activeNav }}">
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
-        <div class="col-2 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
+        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></div>
+        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
+        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
+        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
     </div>
 </div>
 
