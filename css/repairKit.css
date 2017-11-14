@@ -27,6 +27,10 @@ body {
 .sjrk-caps {
   text-transform: uppercase;
 }
+.sjrk-note {
+  font-size: 80%;
+  font-style: italic;
+}
 /* Header */
 .sjrk-header {
   background-color: #fbe540;
