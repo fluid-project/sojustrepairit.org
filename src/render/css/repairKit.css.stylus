@@ -3,8 +3,8 @@
  * https://codepen.io/cbracco/pen/zekgx                 */
 
 html {
-    -webkit-box-sizing: border-box; 
-    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -14,8 +14,8 @@ html {
 *,
 *::before,
 *::after {
-    -webkit-box-sizing: inherit; 
-    -moz-box-sizing: inherit; 
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
     box-sizing: inherit;
 }
 
@@ -32,6 +32,10 @@ body {
     text-transform: uppercase;
 }
 
+.sjrk-note {
+    font-size: 80%;
+    font-style: italic;    
+}
 
 /* Header */
 
@@ -119,7 +123,7 @@ body {
 }
 
 .flc-toc-tocContainer {
-    display: block;   
+    display: block;
 }
 
 .sjrk-content-container ul {
