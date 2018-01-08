@@ -90,11 +90,11 @@
 
 <div class="sjrk-content-container">
     <div class="grid-center">
-        <div class="col-9_md-10">
+        <div class="col-10_md-10">
             <!-- Table of Contents -->
             <nav class="flc-toc-tocContainer"></nav>
         </div>
-        <div class="col-9_md-10">
+        <div class="col-10_md-10">
             <h2 class="sjrk-subheading">{{ document.pageTitle }}</h2>
         </div>
     </div>
