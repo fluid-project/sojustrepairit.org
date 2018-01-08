@@ -28,6 +28,14 @@ body {
     position: relative;
 }
 
+a {
+    color: #000;
+}
+
+a:visited {
+    color: #551A8B;
+}
+
 .sjrk-caps {
     text-transform: uppercase;
 }
@@ -107,6 +115,10 @@ body {
     list-style-position: inside;
 }
 
+.sjrk-content-resources {
+    padding-right: 2em;
+}
+
 .sjrk-content-container {
     margin: 2em auto;
 }
@@ -136,6 +148,31 @@ body {
 
 .sjrk-links a {
     color: #000;
+}
+
+.sjrk-activities>div:nth-child(even) {
+    background: #eee;
+}
+
+.sjrk-activities-content {
+    padding: 0.1em 1.5em;
+    margin: 0;
+}
+
+.sjrk-activities-content p {
+    line-height: 1.7em;
+}
+
+.sjrk-activities-content ul, .sjrk-activities-content li {
+    margin: 0;
+    padding: 0;
+    padding-left: 1.2em;
+    line-height: 1.7em;
+    list-style-position: outside;
+}
+
+.sjrk-activities-content li {
+    padding: 0;
 }
 
 
