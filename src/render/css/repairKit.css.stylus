@@ -160,7 +160,7 @@ a:visited {
 }
 
 .sjrk-activities-content-header {
-    font-weight: normal;
+    font-weight: bold;
     text-decoration: underline;
 }
 
