@@ -11,7 +11,7 @@ body {
 
 h1, h3 {
     color: #1F2B43;
-	font-size: 20px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: 0.02em;
     text-transform: uppercase;
@@ -20,7 +20,7 @@ h1, h3 {
 h4 {
     margin: 1.5em 0 0 0;
     color: #1F2B43;
-	font-size: 0.9em;
+    font-size: 0.9em;
     font-weight: normal;
     letter-spacing: 0.02em;
     text-transform: uppercase;
@@ -45,16 +45,16 @@ a {
 }
 
 .heading-rule {
-	background-color: #C9EB96;
-	display: block;
-	height: 6px;
-	width: 1.5em;
+    background-color: #C9EB96;
+    display: block;
+    height: 6px;
+    width: 1.5em;
 }
 
 .section-rule {
-	background-color: #FFD3A9;
-	display: block;
-	height: 6px;
+    background-color: #FFD3A9;
+    display: block;
+    height: 6px;
     width: 12em;
     margin: 1em auto 3em auto;
 }
@@ -66,7 +66,6 @@ a {
 }
 
 header {
-    /* background: #FFF; */
     text-align: center;
 }
 
@@ -127,10 +126,10 @@ nav .current {
 }
 
 .button {
-	display: inline-block;
+    display: inline-block;
     border-radius: 20px;
     cursor: pointer;
-	font-size: 0.9em;
+    font-size: 0.9em;
     font-weight: bold;
     letter-spacing: 0.09em;
     text-decoration: none;
@@ -145,14 +144,14 @@ nav .current {
 .primary-button {
     background-color: #1F2B43;
     color: #FFF;
-	padding: 10px 30px;
+    padding: 10px 30px;
 }
 
 .secondary-button {
     border: 3px solid #1F2B43;
     background-color: #FFF;
     color: #1F2B43;
-	padding: 10px 30px;
+    padding: 10px 30px;
 }
 
 .featured-resources-collection {
@@ -230,7 +229,7 @@ nav .current {
 /* Partners */
 .partner {
     color: #1F2B43;
-	font-size: 20px;
+    font-size: 20px;
     font-weight: bold;
     letter-spacing: 0.02em;
     text-transform: none;
@@ -278,7 +277,7 @@ footer span {
 }
 
 .mobile-hidden {
-	display: none;
+    display: none;
 }
 
 .footer-logos {
@@ -510,7 +509,7 @@ footer span {
     }
 
     .mobile-hidden {
-		display: inline;
+        display: inline;
     }
 
     .oak-logo {
@@ -537,7 +536,7 @@ footer span {
     }
 
     .mobile-hidden {
-		display: inline;
+        display: inline;
     }
 
     .oak-logo {
