@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Social Justice Repair Kit</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- UI Options CSS -->
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/lib/normalize/css/normalize.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/core/css/fluid.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/Enactors.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/PrefsEditor.css" />
+    <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/SeparatedPanelPrefsEditor.css" />
+    <script type="text/javascript" src="lib/infusion/infusion-uiOptions.js"></script>
+    <!-- UI Options -->
+    <script type="text/javascript" src="lib/infusion/infusion-uiOptions.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<body>
+    <!-- UI Options Sliding Panel -->
+    <div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
+        <!-- This is the div that will contain the Preference Editor component -->
+        <div class="flc-slidingPanel-panel flc-prefsEditor-iframe"></div>
+        <!-- This div is for the sliding panel that shows and hides the Preference Editor controls -->
+        <div class="fl-panelBar">
+            <span class="fl-prefsEditor-buttons">
+                <button id="reset" class="flc-prefsEditor-reset fl-prefsEditor-reset">
+                    <span class="fl-icon-undo"></span>
+                    Reset
+                </button>
+                <button id="show-hide" class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide">
+                    Show/Hide
+                </button>
+            </span>
+        </div>
+    </div>
+    <!-- Table of Contents -->
+    <div class="flc-toc-tocContainer toc"> </div>
+
+    <header class="container">
+        <div class="logo">
+            <a class="sjrk-logo" title="SJRK" href="https://sojustrepairit.org">SJRK</a>
+        </div>
+        <nav class="landing-nav">
+            <ul>
+                <li><a href="about.html">About</li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="partners.html">Partners</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="container" role="main">
+        <section class="cta container">
+            <h1><span>Social&nbsp;Justice&nbsp;Repair&nbsp;Kit:</span><br />Help make youth movements welcoming
+                environments for everyone</h1>
+            <a href="about.html#get-involved" class="button primary-button">Get Involved</a>
+        </section>
+
+        <section class="featured-resources-collection container">
+            <h3><span>Featured resources</span></h3>
+            <div class="featured-resource">
+                <h3>Chart Authoring Tool</h3>
+                <p>Use this tool to author, export, and embed highly accessible charts, while also being able to sonify
+                    data.</p>
+                <a href="resources.html#chart-authoring-tool" class="button secondary-button">Learn&nbsp;more</a>
+            </div>
+            <div class="featured-resource">
+                <h3>Inclusive Design Guide</h3>
+                <p>This guide can be applied to digital design as well as to the design of services, the built
+                    environment, and physical products.</p>
+                <a href="resources.html#inclusive-design-guide" class="button secondary-button">Learn&nbsp;more</a>
+            </div>
+            <div class="featured-resource">
+                <h3>Feedback Tool</h3>
+                <p>This tool can be integrated into existing sites to allow users to provide feedback as to whether a
+                    digital resource matched...</p>
+                <a href="resources.html#feedback-tool" class="button secondary-button">Learn&nbsp;more</a>
+            </div>
+        </section>
+
+        <section class="container text-container landing-about ">
+            <h3>About SJRK</h3>
+            <span class="heading-rule"></span>
+            <p>The goal of the Social Justice Repair Kit project is to support youth at risk who have learning
+                differences to re-engage in education through an inclusively designed social justice platform that
+                integrates authentic project-based learning.</p>
+            <p>For youth with identified and unidentified learning differences, the Kit will add inclusive design
+                supports to remove barriers to participation.</p>
+        </section>
+    </main>
+
+    <footer>
+        <div class="footer-text">
+            <p>Supported by the <a href="http://oakfnd.org/"><span>Oak&nbsp;Foundation</span></a> and led by the <a href="http://idrc.ocadu.ca/"><span>Inclusive&nbsp;Design&nbsp;Research&nbsp;Centre</span></a></p>
+        </div>
+        <div class="mobile-hidden footer-logos">
+            <a class="oak-logo" title="SJRK" href="http://oakfnd.org/">OAK Foundation</a>
+        </div>
+        <div class="mobile-hidden footer-logos">
+            <a class="idrc-logo" title="SJRK" href="http://idrc.ocadu.ca/">IDRC</a>
+        </div>
+    </footer>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
+                tocTemplate: "lib/infusion/src/components/tableOfContents/html/TableOfContents.html",
+                terms: {
+                    templatePrefix: "lib/infusion/src/framework/preferences/html",
+                    messagePrefix: "lib/infusion/src/framework/preferences/messages"
+                }
+            });
+        })
+    </script>
+</body>
+</html>
