@@ -1,193 +1,144 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <title>Social Justice Repair Kit : Resources</title>
+    <title>Social Justice Repair Kit</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- UI Options CSS -->
     <link rel="stylesheet" type="text/css" href="lib/infusion/src/lib/normalize/css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/core/css/fluid.css" />
     <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/Enactors.css" />
     <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/PrefsEditor.css" />
     <link rel="stylesheet" type="text/css" href="lib/infusion/src/framework/preferences/css/SeparatedPanelPrefsEditor.css" />
-
-    <!-- UI Options -->
     <script type="text/javascript" src="lib/infusion/infusion-uiOptions.js"></script>
-
-    <!-- Via CDN right now -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.2.4/gridlex.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
-    <link href="https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i" rel="stylesheet">
-    <link rel="stylesheet" href="css/repairKit.css" />
-
-    <script type="text/javascript" src="js/repairKit.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- UI Options -->
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
+
 <body>
-
-<div class="sjrk-header sjrk-header-stripes">
-    <div class="grid-12-noGutter-noBottom">
-        <div class="col-12">
-            <!-- BEGIN markup for Preference Editor -->
-            <div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
-                <!--
-                    This div is for the sliding panel bar that shows and hides the Preference Editor controls in the mobile view.
-                    A separate panel bar for mobile displays is needed to preserver the correct tab order.
-                -->
-                <div class="fl-panelBar fl-panelBar-smallScreen">
-                    <span class="fl-prefsEditor-buttons">
-                        <button class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide"> Show/Hide</button>
-                        <button class="flc-prefsEditor-reset fl-prefsEditor-reset"><span class="fl-icon-undo"></span> Reset</button>
-                    </span>
-                </div>
-
-                <!-- This is the div that will contain the Preference Editor component -->
-                <div class="flc-slidingPanel-panel flc-prefsEditor-iframe"></div>
-
-                <!--
-                    This div is for the sliding panel bar that shows and hides the Preference Editor controls in the desktop view.
-                    A separate panel bar for desktop displays is needed to preserver the correct tab order.
-                -->
-                <div class="fl-panelBar fl-panelBar-wideScreen">
-                    <span class="fl-prefsEditor-buttons">
-                        <button class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide"> Show/Hide</button>
-                        <button class="flc-prefsEditor-reset fl-prefsEditor-reset"><span class="fl-icon-undo"></span> Reset</button>
-                    </span>
-                </div>
+    <!-- UI Options Sliding Panel -->
+    <div class="flc-prefsEditor-separatedPanel fl-prefsEditor-separatedPanel">
+            <!-- This is the div that will contain the Preference Editor component -->
+            <div class="flc-slidingPanel-panel flc-prefsEditor-iframe"></div>
+            <!-- This div is for the sliding panel that shows and hides the Preference Editor controls -->
+            <div class="fl-panelBar">
+                <span class="fl-prefsEditor-buttons">
+                    <button id="reset" class="flc-prefsEditor-reset fl-prefsEditor-reset">
+                        <span class="fl-icon-undo"></span>
+                        Reset
+                    </button>
+                    <button id="show-hide" class="flc-slidingPanel-toggleButton fl-prefsEditor-showHide">
+                        Show/Hide
+                    </button>
+                </span>
             </div>
-            <!-- END markup for Preference Editor -->
+    </div>
+    <!-- Table of Contents -->
+    <div class="flc-toc-tocContainer toc"> </div>
+
+    <header class="container">
+        <div class="logo">
+            <a class="sjrk-logo" title="SJRK" href="https://sojustrepairit.org">SJRK</a>
         </div>
+        <nav>
+            <ul>
+                <li><a href="about.html">About</li>
+                <li><a href="resources.html" class="current">Resources</a></li>
+                <li><a href="partners.html">Partners</a></li>
+            </ul>
+        </nav>
+    </header>
 
-    </div>
-    <div class="grid-12-noGutter-noBottom">
-        <div class="col-12_md-8_sm-7 sjrk-left-col">
-                <h1 class="sjrk-mainHeading"><a href="index.html"><span class="sjrk-mainHeading-socialJustice">Social Justice</span>
-                <span class="sjrk-caps sjrk-mainHeading-repairKit">Re<span class="sjrk-caps sjrk-mainHeading-repairKit-P">p</span><span class="sjrk-caps sjrk-mainHeading-repairKit-A">a</span>ir Kit</span></a></h1>
+    <main class="container" role="main">
+        <section class="container text-container">
+            <h1>Resources</h1>
+            <span class="heading-rule"></span>
+            <p>One of the main goals of this project is to gather resources that can be used by youth and youth organisations to support the inclusion of young people in social justice movements. The aim of these resources is to support informal learning through activism.</p>
+            <p>We welcome your feedback. Are these resources helpful? Do you have suggestions or contributions? <a href="https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit#SocialJusticeRepairKit-JoinUsJoinUs">Let us know.</a></p>
+            
+        </section>
+
+        <section class="container text-container">
+            <h3>Inclusive Design Practice</h3>
+            <span class="heading-rule"></span>
+            <p class="resource-intro">Inclusive design is a diverse, evolving set of practices and insights. What have we learned, and where is our learning taking us?</p>
+
+            <p class="resource-title"><a href="http://idrc.ocadu.ca/about-the-idrc/49-resources/online-resources/articles-and-papers/443-whatisinclusivedesign">What is Inclusive Design?</a></p>
+            <p class="resource-description">A brief introduction to inclusive design including the Three Dimensions of Inclusive Design, from the Inclusive Design Research Centre.</p>
+
+            <p class="resource-title"><a href="https://guide.inclusivedesign.ca/" name="inclusive-design-guide">The Inclusive Design Guide</a></p>
+            <p class="resource-description">This ever-evolving guide can be applied to digital design as well as to the design of services, the built environment and physical products. It can be applied to processes like workshops, meetings, conferences, and our daily interactions with one another.</p>
+
+            <p class="resource-title"><a href="https://handbook.floeproject.org/">The Inclusive Learning Design Handbook</a></p>
+            <p class="resource-description">The Floe Inclusive Learning Design Handbook is a free Open Educational Resource (OER) designed to assist teachers, content creators, web developers, and others in creating adaptable and personalizable educational resources that can meet the needs of learners with a diversity of learning styles.</p>
+
+            <p class="resource-title"><a href="https://www.microsoft.com/videoplayer/embed/c5d513b5-d98b-4cf0-bb01-ce67aeb61f63?autoplay=true&loop=false&market=en-us&playFullScreen=true">Empathy</a></p>
+            <p class="resource-description">This short film by Microsoft explores the role of empathy in inclusive, participatory, and insightful design. Featuring Jutta Treviranus, Director, Inclusive Design Research Centre.</p>
+        </section>
+        <section class="container text-container">
+            <h3>Multimodal Presentation, Content Adaptation and Personal Preferences</h3>
+            <span class="heading-rule"></span>
+            <p class="resource-intro">Digital design offers diverse possibilities for transformation and adaptation of learning content. How do we leverage these possibilities in envisioning, building and evolving tools for learning to support diverse learning needs?</p>
+
+            <p class="resource-title"><a href="https://www.youtube.com/watch?v=63DqNgxtsrA">Introduction to User Interface Options</a></p>
+            <p class="resource-description">This video provides an overview of the Fluid Project's User Interface Options (UIO) component, what it offers potential integrators, and its installation instructions. UIO allows users to personalise web content to meet their unique needs.</p>
+
+            <p class="resource-title"><a href="http://build.fluidproject.org/prefsEditors/demos/explorationTool/">Preferences Exploration Tool</a></p>
+            <p class="resource-description">This tool allows for the exploration of digital preferences in a simple and low-risk way, by offering a set of starter preferences to try - from reading content aloud so it's easier to follow along, to enhancing keyboard interactions so it's easier to use.</p>
+
+            <p class="resource-title"><a href="http://build.fluidproject.org/chartAuthoring/demos/" name="chart-authoring-tool">Chart Authoring Tool</a></p>
+            <p class="resource-description">The Chart Authoring Tool supports the authoring, export and embedding of highly accessible charts, including sonification of the data. The current version supports creating pie charts and transforming the data into sonified form via a pattern.</p>
+
+            <p class="resource-title"><a href="http://first-discovery.floeproject.org/demos/">First Discovery Tool</a></p>
+            <p class="resource-description">This tool walks the user through a step by step process of discovering, declaring and storing digital preferences.</p>
+
+            <p class="resource-title"><a href="http://metadata.floeproject.org/demos/feedback/" name="feedback-tool">Feedback Tool</a></p>
+            <p class="resource-description">The metadata feedback tool can be integrated into existing sites to allow users to provide feedback as to whether a digital resource matched their preferences and to request alternatives or modifications to improve it.</p>
+        </section>
+        <section class="container text-container">
+            <h3>Social Justice, Activism and Youth Groups</h3>
+            <span class="heading-rule"></span>
+            <p class="resource-intro">Technology can be leveraged to advocate for social justice, build community and affect change in the world. How do we consciously approach the design of technology for social justice to maximize its reach, adaptability and inclusiveness?</p>
+
+            <p class="resource-title"><a href="https://wiki.fluidproject.org/display/fluid/Storytelling+and+Story-gathering+Resources%2C+Tools+and+Examples">Storytelling and Story-Gathering Resources, Tools and Examples</a></p>
+            <p class="resource-description">A collection of resources related to digital storytelling, gathered as part of the Social Justice Repair Kit project.</p>
+
+            <p class="resource-title"><a href="https://www.tigweb.org/action-tools/guide/">Youth Guides to Action</a></p>
+            <p class="resource-description">TakingITGlobal's Action Guides are designed to help you turn your ideas and dreams into reality. The general guide and the issue-specific guides are workbooks for you to download, use and share.</p>
+
+            <p class="resource-title"><a href="https://www.scribd.com/document/44198893/The-Youth-Effect">The Youth Effect doc</a></p>
+            <p class="resource-description">The Youth Effect was created by a collective of leaders committed to ensuring that children and youth are an integral part of designing, shaping and creating a more sustainable future.</p>
+
+            <p class="resource-title"><a href="https://stories.floeproject.org/">Storytelling Tool</a></p>
+            <p class="resource-description">This digital tool is being developed as part of the SJRK project to gather and share stories of youth with learning differences, social justice organisations and others who wish to share their story or create a simple online presence.</p>
+        </section>
+        
+    </main>
+
+    <footer>
+        <div class="footer-text">
+            <p>Supported by the <a href="http://oakfnd.org/"><span>Oak&nbsp;Foundation</span></a> and led by the <a href="http://idrc.ocadu.ca/"><span>Inclusive&nbsp;Design&nbsp;Research&nbsp;Centre</span></a></p>
         </div>
-        <div class="sjrk-navbar sjrk-navbar-small sjrk-navbar-active-resources">
-            <div class="sjrk-navbar-small-closed">
-                <a href="#"><span class="sjrk-navbar-small-openToggle"> Menu</span></a>
-            </div>
-            <div class="sjrk-navbar-small-open">
-                <a href="#"><span class="sjrk-navbar-small-closeToggle">Menu</span></a>
-                <ul class="sjrk-navbar-small-navbar-list">
-                    <li class="sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></li>
-                    <li class="sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></li>
-                </ul>
-            </div>
+        <div class="mobile-hidden footer-logos">
+            <a class="oak-logo" title="SJRK" href="http://oakfnd.org/">OAK Foundation</a>
         </div>
-    </div>
-</div>
-
-<div class="sjrk-navbar-large-container">
-    <div class="grid-5 sjrk-navbar sjrk-navbar-large sjrk-navbar-active-resources">
-        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-about"><a href="index.html">About</a></div>
-        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-partners"><a href="partners.html">Partners</a></div>
-        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-resources"><a href="resources.html">Resources</a></div>
-        <div class="col-3 sjrk-navbar-item sjrk-navbar-item-activity"><a href="activity.html">Activity</a></div>
-    </div>
-</div>
-
-<div class="sjrk-content-container">
-    <div class="grid-center">
-        <div class="col-10_md-10">
-            <!-- Table of Contents -->
-            <nav class="flc-toc-tocContainer"></nav>
+        <div class="mobile-hidden footer-logos">
+            <a class="idrc-logo" title="SJRK" href="http://idrc.ocadu.ca/">IDRC</a>
         </div>
-        <div class="col-10_md-10">
-            <h2 class="sjrk-subheading">Resources</h2>
-        </div>
-    </div>
-    <div class="grid-12-center sjrk-container">
+    </footer>
 
-        <div class="col-10_md-10 sjrk-content">
-
-<p>
-We welcome your feedback. Are these resources helpful? Do you have suggestions or contributions? <a href="https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit#SocialJusticeRepairKit-JoinUsJoinUs">Let us know.</a>
-</p>
-
-</div>
-
-<div class="col-5_md-10_sm-10 sjrk-content">
-
-    <div class="sjrk-content-resources">
-
-        <h3>Selected Links</h3>
-
-        <p><a href="http://idrc.ocadu.ca/about-the-idrc/49-resources/online-resources/articles-and-papers/443-whatisinclusivedesign">What Is Inclusive Design?</a><br />
-        A brief introduction to inclusive design including the Three Dimensions of Inclusive Design, from the Inclusive Design Research Centre.</p>
-
-        <p><a href="https://guide.inclusivedesign.ca/">The Inclusive Design Guide</a><br />
-        This ever-evolving guide can be applied to digital design as well as to the design of services, the built environment and physical products. It can be applied to processes like workshops, meetings, conferences, and our daily interactions with one another.</p>
-
-        <p><a href="https://handbook.floeproject.org/">The Inclusive Learning Design Handbook</a><br />
-        The Floe Inclusive Learning Design Handbook is a free Open Educational Resource (OER) designed to assist teachers, content creators, web developers, and others in creating adaptable and personalizable educational resources that can meet the needs of learners with a diversity of learning styles.</p>
-
-        <p><a href="https://www.microsoft.com/videoplayer/embed/c5d513b5-d98b-4cf0-bb01-ce67aeb61f63?autoplay=true&loop=false&market=en-us&playFullScreen=true">Empathy</a><br />
-        This short film by Microsoft explores the role of empathy in inclusive, participatory, and insightful design. Featuring Jutta Treviranus, Director, Inclusive Design Research Centre.</p>
-
-        <p><a href="https://www.youtube.com/watch?v=63DqNgxtsrA">Introduction to User Interface Options</a><br />
-        This video provides an overview of the Fluid Project's User Interface Options (UIO) component, what it offers potential integrators, and its installation instructions. UIO allows users to personalise web content to meet their unique needs.</p>
-
-        <p><a href="https://wiki.fluidproject.org/display/fluid/Storytelling+and+Story-gathering+Resources%2C+Tools+and+Examples">Storytelling and Story-Gathering Resources, Tools and Examples</a><br />
-        A collection of resources related to digital storytelling, gathered as part of the Social Justice Repair Kit project.</p>
-
-        <p><a href="https://www.tigweb.org/action-tools/guide/">Youth Guides to Action</a><br />
-        TakingITGlobal's Action Guides are designed to help you turn your ideas and dreams into reality. The general guide and the issue-specific guides are workbooks for you to download, use and share.</p>
-
-        <p><a href="https://www.scribd.com/document/44198893/The-Youth-Effect">The Youth Effect doc</a><br />
-        The Youth Effect was created by a collective of leaders committed to ensuring that children and youth are an integral part of designing, shaping and creating a more sustainable future.</p>
-    </div>
-
-</div>
-
-<div class="col-5_md-10_sm-10 sjrk-content">
-
-    <div class="sjrk-content-resources">
-
-        <h3>Tool Development in Progress</h3>
-
-        <p><a href="https://stories.floeproject.org/">Storytelling Tool</a><br />
-        This digital tool is being developed as part of the SJRK project to gather and share stories of youth with learning differences, social justice organisations and others who wish to share their story or create a simple online presence.</p>
-
-        <p><a href="http://build.fluidproject.org/prefsEditors/demos/explorationTool/">Preferences Exploration Tool</a><br />
-        This tool allows for the exploration of digital preferences in a simple and low-risk way, by offering a set of starter preferences to try - from reading content aloud so it's easier to follow along, to enhancing keyboard interactions so it's easier to use.</p>
-
-        <p><a href="http://build.fluidproject.org/chartAuthoring/demos/">Chart Authoring Tool</a><br />
-        The Chart Authoring Tool supports the authoring, export and embedding of highly accessible charts, including sonification of the data. The current version supports creating pie charts and transforming the data into sonified form via a pattern.</p>
-
-        <p><a href="http://first-discovery.floeproject.org/demos/">First Discovery Tool</a><br />
-        This tool walks the user through a step by step process of discovering, declaring and storing digital preferences.</p>
-
-        <p><a href="http://metadata.floeproject.org/demos/feedback/">Feedback Tool</a><br />
-        The metadata feedback tool can be integrated into existing sites to allow users to provide feedback as to whether a digital resource matched their preferences and to request alternatives or modifications to improve it.</p>
-
-        <p><a href="https://metadata.floeproject.org/demos/metadata/">Metadata Authoring</a><br />
-        The metadata authoring components can be integrated into existing content editors to encourage and allow authors to create or edit metadata that accompanies the content of their Open Education Resource (OER), thereby improving accessibility.</p>
-    </div>
-
-</div>
-
-    </div>
-</div>
-
-<div class="sjrk-footer sjrk-footer-stripes">
-    <div class="grid-12 sjrk-links-container">
-        <div class="col-12 sjrk-links">
-            Supported by the <a href="http://oakfnd.org/learning">Oak Foundation</a> and led by the <a href="http://idrc.ocadu.ca/">Inclusive Design Research Centre</a>
-        </div>
-    </div>
-    <div class="grid-12 sjrk-logos-container">
-        <div class="col-2_md-3_sm-12 sjrk-oak-foundation">
-            <a href="http://oakfnd.org/learning" class="sjrk-oak-foundation-logo" title="Oak Foundation">Oak Foundation</a>
-        </div>
-        <div class="col-5_md-5_sm-12 sjrk-idrc">
-            <a href="http://idrc.ocadu.ca/" class="sjrk-idrc-logo" title="Inclusive Design Research Centre">Inclusive Design Research Centre</a>
-        </div>
-    </div>
-    <div class="grid-12-noGutter-noBottom">
-    </div>
-</div>
-
+    <script type="text/javascript">
+        $(document).ready(function () {
+            fluid.uiOptions.prefsEditor(".flc-prefsEditor-separatedPanel", {
+                tocTemplate: "lib/infusion/src/components/tableOfContents/html/TableOfContents.html",
+                terms: {
+                    templatePrefix: "lib/infusion/src/framework/preferences/html",
+                    messagePrefix: "lib/infusion/src/framework/preferences/messages"
+                }
+            });
+        })
+    </script>
 </body>
 </html>
