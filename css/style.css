@@ -261,7 +261,7 @@ footer {
     box-sizing: border-box;
 }
 
-footer a:visited {
+footer a, footer a:visited {
     color: #FFF;
 }
 
@@ -411,6 +411,11 @@ footer span {
 .fl-theme-lgdg footer {
     background-image: none;
 }
+
+.fl-prefsEditor-separatedPanel .fl-prefsEditor-showHide, .fl-prefsEditor-separatedPanel .fl-prefsEditor-reset {
+    font-size: 0.7em;
+}
+
 /* UIO end */
 
 @media screen and (min-width:500px) {
@@ -438,6 +443,10 @@ footer span {
     }
     
     footer span {
+        font-size: 1em;
+    }
+
+    .fl-prefsEditor-separatedPanel .fl-prefsEditor-showHide, .fl-prefsEditor-separatedPanel .fl-prefsEditor-reset {
         font-size: 1em;
     }
 }
