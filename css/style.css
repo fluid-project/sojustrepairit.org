@@ -261,7 +261,7 @@ footer {
     box-sizing: border-box;
 }
 
-footer a:visited {
+footer a, a:visited {
     color: #FFF;
 }
 
