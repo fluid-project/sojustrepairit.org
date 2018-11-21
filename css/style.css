@@ -154,7 +154,7 @@ nav .current {
 }
 
 .featured-resources-collection {
-    margin-top: 10em;
+    margin-top: 8em;
     background: #1F2B43 url("../images/background.svg") 0 -300px/cover no-repeat;
     padding: 10px 15px 15px;
     -ms-flex-wrap: wrap;
@@ -437,6 +437,9 @@ footer span {
     .button {
         font-size: 1.2em;
         letter-spacing: 0.05em;
+    }
+    .featured-resources-collection {
+        margin-top: 10em;
     }
     footer {
         font-size: 1.3em;
