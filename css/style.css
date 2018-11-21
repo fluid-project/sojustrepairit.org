@@ -34,12 +34,12 @@ a {
 
 .sjrk-logo {
     padding: 1.5em;
-    margin: 5em auto 2.5em auto;
+    margin: 2em auto 2.5em auto;
     display: block;
     text-indent: -9999px;
     width: 31px;
     height: 59px;
-    background: url("../images/sjrk-logo.svg");
+    background: #FFF url("../images/sjrk-logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -71,7 +71,7 @@ header {
 
 nav {
     background-color: #FFF;
-    padding: 0 1em 2em 1em;
+    padding: 1em;
     max-width: 90%;
     margin: 0 auto;
 }
@@ -127,9 +127,11 @@ nav .current {
 
 .button {
     display: inline-block;
+    padding: 15px 35px;
+    border: 3px solid #1F2B43;
     border-radius: 20px;
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 1em;
     font-weight: bold;
     letter-spacing: 0.09em;
     text-decoration: none;
@@ -144,14 +146,11 @@ nav .current {
 .primary-button {
     background-color: #1F2B43;
     color: #FFF;
-    padding: 10px 30px;
 }
 
 .secondary-button {
-    border: 3px solid #1F2B43;
     background-color: #FFF;
     color: #1F2B43;
-    padding: 10px 30px;
 }
 
 .featured-resources-collection {
@@ -206,7 +205,7 @@ nav .current {
 
 /* Ensures buttons are aligned horizontally */
 .featured-resources-collection .secondary-button {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     position: absolute;
     bottom: 0;
     left: 50%;
@@ -224,6 +223,10 @@ nav .current {
 
 .text-container a:hover {
     background-color: #C9EB96;
+}
+
+.text-container h1, .text-container h3 {
+    margin-top: 3em;
 }
 
 /* Partners */
@@ -435,9 +438,6 @@ footer span {
         font-size: 1.2em;
         letter-spacing: 0.05em;
     }
-    .primary-button {
-        padding: 15px 35px;
-    }
     footer {
         font-size: 1.3em;
     }
@@ -467,6 +467,10 @@ footer span {
 @media screen and (min-width: 820px) {
     .container, .footer {
         padding: 2em;
+    }
+
+    .text-container h1, .text-container h3 {
+        margin-top: 0;
     }
 
     header {
