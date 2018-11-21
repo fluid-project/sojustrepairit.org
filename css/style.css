@@ -34,12 +34,12 @@ a {
 
 .sjrk-logo {
     padding: 1.5em;
-    margin: 5em auto 2.5em auto;
+    margin: 2em auto 2.5em auto;
     display: block;
     text-indent: -9999px;
     width: 31px;
     height: 59px;
-    background: url("../images/sjrk-logo.svg");
+    background: #FFF url("../images/sjrk-logo.svg");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -127,9 +127,11 @@ nav .current {
 
 .button {
     display: inline-block;
+    padding: 15px 35px;
+    border: 3px solid #1F2B43;
     border-radius: 20px;
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 1em;
     font-weight: bold;
     letter-spacing: 0.09em;
     text-decoration: none;
@@ -144,14 +146,11 @@ nav .current {
 .primary-button {
     background-color: #1F2B43;
     color: #FFF;
-    padding: 10px 30px;
 }
 
 .secondary-button {
-    border: 3px solid #1F2B43;
     background-color: #FFF;
     color: #1F2B43;
-    padding: 10px 30px;
 }
 
 .featured-resources-collection {
@@ -434,9 +433,6 @@ footer span {
     .button {
         font-size: 1.2em;
         letter-spacing: 0.05em;
-    }
-    .primary-button {
-        padding: 15px 35px;
     }
     footer {
         font-size: 1.3em;
