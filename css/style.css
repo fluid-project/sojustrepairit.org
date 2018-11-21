@@ -205,7 +205,7 @@ nav .current {
 
 /* Ensures buttons are aligned horizontally */
 .featured-resources-collection .secondary-button {
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     position: absolute;
     bottom: 0;
     left: 50%;
