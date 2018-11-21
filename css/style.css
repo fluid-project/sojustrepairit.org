@@ -10,7 +10,6 @@ body {
 }
 
 h1, h3 {
-    margin-top: 3em;
     color: #1F2B43;
     font-size: 20px;
     font-weight: bold;
@@ -224,6 +223,10 @@ nav .current {
 
 .text-container a:hover {
     background-color: #C9EB96;
+}
+
+.text-container h1, .text-container h3 {
+    margin-top: 3em;
 }
 
 /* Partners */
@@ -466,7 +469,7 @@ footer span {
         padding: 2em;
     }
 
-    h1, h3 {
+    .text-container h1, .text-container h3 {
         margin-top: 0;
     }
 
