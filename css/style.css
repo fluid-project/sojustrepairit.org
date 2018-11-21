@@ -10,6 +10,7 @@ body {
 }
 
 h1, h3 {
+    margin-top: 3em;
     color: #1F2B43;
     font-size: 20px;
     font-weight: bold;
@@ -463,6 +464,10 @@ footer span {
 @media screen and (min-width: 820px) {
     .container, .footer {
         padding: 2em;
+    }
+
+    h1, h3 {
+        margin-top: 0;
     }
 
     header {
