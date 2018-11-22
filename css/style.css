@@ -9,7 +9,7 @@ body {
     padding: 0;
 }
 
-h1, h3 {
+h1, h2, h3 {
     color: #1F2B43;
     font-size: 20px;
     font-weight: bold;
@@ -17,7 +17,7 @@ h1, h3 {
     text-transform: uppercase;
 }
 
-h4 {
+.partner-heading {
     margin: 1.5em 0 0 0;
     color: #1F2B43;
     font-size: 0.9em;
@@ -164,7 +164,7 @@ nav .current {
     justify-content: center;
 }
 
-.featured-resources-collection > h3 {
+.featured-resources-collection > h2 {
     margin: 40px 0 50px 0;
     font-size: 0.9em;
     font-weight: 600; /* semi-bold */
@@ -175,7 +175,7 @@ nav .current {
     background: none;
 }
 
-.featured-resources-collection > h3 span {
+.featured-resources-collection > h2 span {
     padding: 0.8em;
     background: #FFF;
     border-radius: 6px;
