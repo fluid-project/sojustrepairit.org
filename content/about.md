@@ -9,7 +9,7 @@ aliases:
     <p>The goal of this project is to support youth at risk who have learning differences to re-engage in education through an inclusively designed platform, called the Social Justice Repair Kit,  that integrates authentic project-based learning.</p>
     <p>The platform will be openly available to any group (or individual) hosting youth movements, youth action events and social justice movements. It will add extensibility, collaboration support and organizational support for all participants in social justice or youth action groups.</p>
     <p>For youth with identified and unidentified learning differences, the Kit will add inclusive design supports to remove barriers to participation.</p>
-    <p>We have developed a <a href="https://sojustrepairit.org/pdfs/IDRC-Child-Safeguarding-Policy.pdf">Child Safeguarding Policy</a> as part of this project to guide our work and the work of our <a href="partners.html">partners</a>, based on the guidelines and assistance of <a href="https://www.keepingchildrensafe.org.uk/">Keeping Children Safe</a>.</p>
+    <p>We have developed a <a href="/pdfs/IDRC-Child-Safeguarding-Policy.pdf">Child Safeguarding Policy</a> as part of this project to guide our work and the work of our <a href="/partners/">partners</a>, based on the guidelines and assistance of <a href="https://www.keepingchildrensafe.org.uk/">Keeping Children Safe</a>.</p>
 </section>
 
 <section class="container text-container">
