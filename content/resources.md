@@ -8,7 +8,6 @@ aliases:
     <span class="heading-rule"></span>
     <p>One of the main goals of this project is to gather resources that can be used by youth and youth organisations to support the inclusion of young people in social justice movements. The aim of these resources is to support informal learning through activism.</p>
     <p>We welcome your feedback. Are these resources helpful? Do you have suggestions or contributions? <a href="https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit#SocialJusticeRepairKit-JoinUsJoinUs">Let us know.</a></p>
-    
 </section>
 
 <section class="container text-container">

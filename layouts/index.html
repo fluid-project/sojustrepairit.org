@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>{{ .Title }}</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    {{ partial "uio-deps.html" . }}
-    {{ $style := resources.Get "css/style.css" | minify | fingerprint }} 
-    <link rel="stylesheet" href="{{ $style.Permalink }}">
-</head>
-<body>
-{{ partial "uio.html" . }}
-{{ partial "header.html" . }}
-<main class="container" role="main"></main>
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+{{ define "main" }}
 {{ .Content }}
-</main>
-{{ partial "footer.html" . }}
-{{ partial "initialise-uio.html" . }}
-</body>
-</html>
+{{ end }}
