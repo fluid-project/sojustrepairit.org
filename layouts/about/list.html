@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+
+<section class="container text-container">
+    {{ .Content }}
+</section>
+
+<section class="container text-container">
+{{ range where .Site.Pages "Type" "=" "get-involved" }} 
+
+    {{ .Content }} 
+
+{{ end }}
+</section>
+
+{{ end }}
