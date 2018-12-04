@@ -1,0 +1,31 @@
+# https://www.netlifycms.org/docs/configuration-options/#display-url
+display_url: https://sojustrepairit.org/
+
+backend:
+  name: git-gateway
+  branch: SJRK-166
+
+# https://www.netlifycms.org/docs/configuration-options/#publish-mode
+publish_mode: editorial_workflow
+
+# https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+# https://www.netlifycms.org/docs/configuration-options/#collections
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "landing"
+        label: "Landing Page"
+        file: "content/_index.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Aliases", name: "aliases", widget: "string"}
+  # - name: "partners"
+  #   label: "Partners"
+  #   folder: "content/partners"
+  #   create: true
+  #   fields:
+  #     - {label: "Type", name: "type", widget: "string"}
