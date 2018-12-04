@@ -22,7 +22,7 @@ collections:
         file: "content/_index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Aliases", name: "aliases", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
   # - name: "partners"
   #   label: "Partners"
   #   folder: "content/partners"
