@@ -24,7 +24,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "about"
     label: "About"
-    folder: "content/about"
+    folder: "content/about/"
     create: false
     identifier_field: title
     fields:
@@ -32,7 +32,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "partners"
     label: "Partners"
-    folder: "content/partners"
+    folder: "content/partners/"
     create: false
     identifier_field: title
     fields:
@@ -40,7 +40,7 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"
-    folder: "content/resources"
+    folder: "content/resources/"
     create: false
     identifier_field: title
     fields:
