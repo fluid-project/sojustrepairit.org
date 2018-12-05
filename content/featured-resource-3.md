@@ -1,4 +1,5 @@
 ---
+title: "Inclusive Design Guide"
 type: featured-resource
 ---
 ### Inclusive Design Guide

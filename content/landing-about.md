@@ -1,4 +1,5 @@
 ---
+title: "About SJRK"
 type: landing-about
 ---
 ### About SJRK

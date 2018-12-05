@@ -1,4 +1,5 @@
 ---
+title: "Chart Authoring Tool"
 type: featured-resource
 ---
 ### Chart Authoring Tool

@@ -1,4 +1,5 @@
 ---
+title: "Feedback Tool"
 type: featured-resource
 ---
 ### Feedback Tool
