@@ -59,3 +59,11 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "resources"
+    label: "Resources"
+    folder: "content/resources"
+    create: false
+    identifier_field: title
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
