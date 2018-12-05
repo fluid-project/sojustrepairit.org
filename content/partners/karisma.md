@@ -1,4 +1,5 @@
 ---
+title: "Karisma"
 type: partner
 ---
 <h2 class="partner"><a href="https://karisma.org.co/">Fundaci&oacute;n Karisma (Karisma)</a></h2>

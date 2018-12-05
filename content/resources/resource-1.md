@@ -1,4 +1,5 @@
 ---
+title: "Social Justice Resources"
 type: resource
 ---
 ## Social Justice, Activism and Youth Groups

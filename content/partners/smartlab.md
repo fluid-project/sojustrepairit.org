@@ -1,4 +1,5 @@
 ---
+title: "SMARTlab"
 type: partner
 ---
 <h2 class="partner"><a href="http://smartlab-ie.com/">Aniyamuzaala James Rwampigi/SMARTlab</a></h2>

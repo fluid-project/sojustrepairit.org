@@ -1,4 +1,5 @@
 ---
+title: "TakingITGlobal"
 type: partner
 ---
 <h2 class="partner"><a href="https://www.tigweb.org/">TakingITGlobal</a></h2>

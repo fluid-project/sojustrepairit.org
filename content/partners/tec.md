@@ -1,4 +1,5 @@
 ---
+title: "TEC"
 type: partner
 ---
 <h2 class="partner"><a href="http://tec.mx/en">Tecnol&oacute;gico de Monterrey</a></h2>

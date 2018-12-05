@@ -1,4 +1,5 @@
 ---
+title: "Inclusive Design Practice Resources"
 type: resource
 ---
 ## Inclusive Design Practice

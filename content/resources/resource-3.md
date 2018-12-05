@@ -1,4 +1,5 @@
 ---
+title: "Multimodal Presentation Resources"
 type: resource
 ---
 ## Multimodal Presentation, Content Adaptation and Personal Preferences

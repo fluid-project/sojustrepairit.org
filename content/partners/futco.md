@@ -1,4 +1,5 @@
 ---
+title: "Futco"
 type: partner
 ---
 <h2 class="partner"><a href="http://tecnologicocomfenalco.edu.co/">Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)</a></h2>

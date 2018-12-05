@@ -51,3 +51,11 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "partners"
+    label: "Partners"
+    folder: "content/partners"
+    create: false
+    identifier_field: title
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
