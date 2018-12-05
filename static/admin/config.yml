@@ -17,15 +17,36 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - name: "landing"
-        label: "Landing Page"
+      - name: "landing-cta"
+        label: "Landing CTA"
         file: "content/_index.md"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-  # - name: "partners"
-  #   label: "Partners"
-  #   folder: "content/partners"
-  #   create: true
-  #   fields:
-  #     - {label: "Type", name: "type", widget: "string"}
+      - name: "landing-resource-1"
+        label: "Landing Resource 1"
+        file: "content/featured-resource-1.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "landing-resource-2"
+        label: "Landing Resource 2"
+        file: "content/featured-resource-2.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "landing-resource-3"
+        label: "Landing Resource 3"
+        file: "content/featured-resource-3.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+      - name: "landing-about"
+        label: "Landing About"
+        file: "content/landing-about.md"
+        fields:
+          - {label: "Body", name: "body", widget: "markdown"}
+  - name: "about"
+    label: "About"
+    folder: "content/about"
+    create: false
+    identifier_field: title
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
