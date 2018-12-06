@@ -1,7 +1,5 @@
 ---
 title: "Partners | SJRK"
-aliases:
-  - /partners.html
 ---
 # Partners
 

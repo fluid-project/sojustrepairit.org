@@ -1,7 +1,5 @@
 ---
 title: "About | SJRK"
-aliases:
-  - /about.html
 ---
 # About
 

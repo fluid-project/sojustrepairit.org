@@ -1,7 +1,5 @@
 ---
 title: "Resources | SJRK"
-aliases:
-  - /resources.html
 ---
 # Resources
 
