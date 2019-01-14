@@ -6,8 +6,8 @@
     {{ .Content }}
 </section>
 
-{{ range where .Site.Pages "Type" "=" "resource" }} 
-<section class="container text-container">
+{{ range where .Site.Pages.ByWeight "Type" "=" "resource" }} 
+<section class="resource-section container text-container">
     {{ .Content }} 
 </section>
 {{ end }}

@@ -240,13 +240,15 @@ nav .current {
 /* Partners end */
 
 /* Resources */
-.resource-intro {
+section.resource-section >.resource-intro {
+    margin-top: 1em;
     font-style: italic;
 }
-.resource-title {
+section.resource-section > h3 {
     margin-top: 2em;
+    text-transform: none;
 }
-.resource-description {
+.resource-section > p {
     margin-top: 0.5em;
 }
 /* Resources end */
