@@ -1,0 +1,15 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+
+<section class="container text-container">
+    {{ .Content }}
+</section>
+
+{{ range where .Site.Pages "Type" "=" "partner" }} 
+<section class="partner-section container text-container">
+    {{ .Content }} 
+</section>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,24 @@
+{{ define "title" }}{{ .Site.Title }}{{ end }}
+
+{{ define "main" }}
+
+<section class="cta container">
+    {{ .Content }}
+</section>
+
+<section class="featured-resources-collection container">
+    <h2><span>Featured resources</span></h2>
+    {{ range where .Site.Pages "Type" "=" "featured-resource" }}
+    <div class="featured-resource">
+        {{ .Content }}
+    </div>
+    {{ end }}
+</section>
+
+<section class="container text-container landing-about">
+    {{ range where .Site.Pages "Type" "=" "landing-about" }}
+    {{ .Content }}
+    {{ end }}
+</section>
+
+{{ end }}

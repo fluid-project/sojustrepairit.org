@@ -17,15 +17,6 @@ h1, h2, h3 {
     text-transform: uppercase;
 }
 
-.partner-heading {
-    margin: 1.5em 0 0 0;
-    color: #1F2B43;
-    font-size: 0.9em;
-    font-weight: normal;
-    letter-spacing: 0.02em;
-    text-transform: uppercase;
-}
-
 a {
     color: #1F2B43;
     font-weight: bold;
@@ -230,23 +221,34 @@ nav .current {
 }
 
 /* Partners */
-.partner {
+.partner-section > h2 {
     color: #1F2B43;
     font-size: 20px;
     font-weight: bold;
     letter-spacing: 0.02em;
     text-transform: none;
 }
+
+.partner-section > h3 {
+    margin: 1.5em 0 0 0;
+    color: #1F2B43;
+    font-size: 0.9em;
+    font-weight: normal;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+}
 /* Partners end */
 
 /* Resources */
-.resource-intro {
+section.resource-section >.resource-intro {
+    margin-top: 1em;
     font-style: italic;
 }
-.resource-title {
+section.resource-section > h3 {
     margin-top: 2em;
+    text-transform: none;
 }
-.resource-description {
+.resource-section > p {
     margin-top: 0.5em;
 }
 /* Resources end */
@@ -481,10 +483,6 @@ footer span {
         justify-content: space-between;
         flex-wrap: wrap;
         align-items: center;
-    }
-
-    .sjrk-logo {
-        margin: 2em auto auto 2em;
     }
 
     nav ul {

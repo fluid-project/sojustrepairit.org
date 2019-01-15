@@ -1,0 +1,20 @@
+<header class="container">
+    <div class="logo">
+        <a class="sjrk-logo" alt="SJRK" href="https://sojustrepairit.org">SJRK</a>
+    </div>
+    {{ if eq .Section "about" }}
+        {{ .Scratch.Set "currentSection" "about" }}
+    {{ else if eq .Section "resources" }}
+        {{ .Scratch.Set "currentSection" "resources" }}
+    {{ else if eq .Section "partners" }}
+        {{ .Scratch.Set "currentSection" "partners" }}
+    {{ end }}
+    {{ $currentSection := .Scratch.Get "currentSection" }}
+    <nav class="landing-nav">
+        <ul>
+            {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "about" "name" "About" "link" "/about/_index.md" )) " \n" | safeHTML -}}
+            {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "resources" "name" "Resources" "link" "/resources/_index.md" )) " \n" | safeHTML -}}
+            {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "partners" "name" "Partners" "link" "/partners/_index.md" )) " \n" | safeHTML -}}
+        </ul>
+    </nav>
+</header>
