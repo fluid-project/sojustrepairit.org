@@ -3,7 +3,7 @@ display_url: https://sojustrepairit.org/
 
 backend:
   name: git-gateway
-  branch: SJRK-166
+  branch: master
 
 # https://www.netlifycms.org/docs/configuration-options/#publish-mode
 publish_mode: editorial_workflow
