@@ -21,6 +21,10 @@ This ever-evolving guide can be applied to digital design as well as to the desi
 
 The Floe Inclusive Learning Design Handbook is a free Open Educational Resource (OER) designed to assist teachers, content creators, web developers, and others in creating adaptable and personalizable educational resources that can meet the needs of learners with a diversity of learning styles.
 
+### [ValueAble Leader Project](https://www.valueableleaderproject.com/)
+
+The ValueAble Leader Project is an emerging digital toolkit designed to support young audiences (including those with learning differences) who want to better understand the importance of their individual values and the role those play when it comes to leadership. Leveraging inclusive-design practices, this resource was created in collaboration between the [Center for Creative Leadership](https://www.ccl.org/), [Oak Foundation](http://oakfnd.org/), and several other partners who helped to make it more accessible and enjoyable for a diverse range of users.
+
 ### [Empathy](https://www.microsoft.com/videoplayer/embed/c5d513b5-d98b-4cf0-bb01-ce67aeb61f63?autoplay=true&loop=false&market=en-us&playFullScreen=true)
 
 This short film by Microsoft explores the role of empathy in inclusive, participatory, and insightful design. Featuring Jutta Treviranus, Director, Inclusive Design Research Centre.
