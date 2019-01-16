@@ -1,28 +1,26 @@
 ---
-title: "Learning to Learn"
+title: "Inclusive Design Practice Resources"
 type: resource
 weight: 4
 ---
-## Learning to Learn
+## Inclusive Design Practice
 
 {{< heading-rule >}}
 
-<p class="resource-intro">We all learn differently. How can we develop greater understanding of our own learning styles and preferences, and learn to better understand the learning styles and preferences of others?</p>
+<p class="resource-intro">Inclusive design is a diverse, evolving set of practices and insights. What have we learned, and where is our learning taking us?</p>
 
-### [Eye to Eye](https://eyetoeyenational.org/)
+### [What is Inclusive Design?](http://idrc.ocadu.ca/about-the-idrc/49-resources/online-resources/articles-and-papers/443-whatisinclusivedesign)
 
-Eye to Eye is a mentoring program for students who have learning differences. It is a welcoming hand, ushering students with learning and attention issues into a community where they are helped to move from self-doubt to empowerment — and even their own version of greatness — by near-peers who face many of the same challenges themselves. 
+A brief introduction to inclusive design including the Three Dimensions of Inclusive Design, from the Inclusive Design Research Centre.
 
-An iPhone app, [Eye to Eye Empower](https://itunes.apple.com/us/app/eye-to-eye-empower-different-learners/id1192367658?mt=8), lets parents, children, teachers, or students create their own My Advocacy Plan (MAP).
+### [The Inclusive Design Guide](https://guide.inclusivedesign.ca/)
 
-### [Massive Open Online Courses for Educators](https://www.fi.ncsu.edu/teams/mooc-ed/)
+This ever-evolving guide can be applied to digital design as well as to the design of services, the built environment and physical products. It can be applied to processes like workshops, meetings, conferences, and our daily interactions with one another.
 
-Built on research-based models of effective professional development, professional learning communities and online communities of practice, MOOC-Ed courses focus on job-embedded, peer-supported and self-directed learning in which educators are exposed to a variety of perspectives on course material.
+### [The Inclusive Learning Design Handbook](https://handbook.floeproject.org/)
 
-### [Learning Differences](https://place.fi.ncsu.edu/local/catalog/course.php?id=2&ref=1)
+The Floe Inclusive Learning Design Handbook is a free Open Educational Resource (OER) designed to assist teachers, content creators, web developers, and others in creating adaptable and personalizable educational resources that can meet the needs of learners with a diversity of learning styles.
 
-This course will expand your knowledge related to learning differences, provide actionable strategies to impact the learning experience of your students, and cultivate a growth mindset related to learning differences.
+### [Empathy](https://www.microsoft.com/videoplayer/embed/c5d513b5-d98b-4cf0-bb01-ce67aeb61f63?autoplay=true&loop=false&market=en-us&playFullScreen=true)
 
-### [Students LEAD](https://studentslead.fi.ncsu.edu/#!/pages/home)
-
-[Students LEAD (Learn, Explore, & Advocate Differently)](https://www.fi.ncsu.edu/news/the-friday-institute-launches-first-of-its-kind-online-course-for-students/) was created because all students learn differently. The course was developed to help students, especially those who may struggle with attention, time management, memory, or expressing ideas, understand that they are not alone and that specific strategies can support their learning. 
+This short film by Microsoft explores the role of empathy in inclusive, participatory, and insightful design. Featuring Jutta Treviranus, Director, Inclusive Design Research Centre.
