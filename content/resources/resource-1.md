@@ -34,7 +34,7 @@ How to approach the relationship between young people, technology and territory?
 ### [Motivando a la Gyal](http://motivandoalagyal.n-esima.net/)
 M.A.G. is a social platform created by a group of women from “El Valle de Aburrá”, the area that surrounds Medellín city in Colombia. Their main focus is organising a collaborative, open and creative festival based in 3 themes:  sovereignty, technologies, and gender. The goal of the event is to create a space where thinkers, activists, children, mothers, and artists from different contexts can collaboratively build processes, effective (and affective) networks (that contribute in different ways in the remaking of our relations with the world), and advance our thinking in the importance of diversity.
 
-### [Kimera Platform])http://kimera.com/redlocal.html)
+### [Kimera Platform](http://kimera.com/redlocal.html)
 The Kimera Local Network is a wireless network being developed by Karisma Foundation in Colombia, to address local connectivity needs. People can access the local network through mobiles, tablets, computers and any other device with the option of wireless or wired access.
 
 ### [Wikipedia Offline + Kimera Local Network](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
