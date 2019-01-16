@@ -21,7 +21,7 @@ This tool allows for the exploration of digital preferences in a simple and low-
 
 The Chart Authoring Tool supports the authoring, export and embedding of highly accessible charts, including sonification of the data. The current version supports creating pie charts and transforming the data into sonified form via a pattern.
 
-### [First Discovery Tool](http://first-discovery.floeproject.org/demos/)
+### [First Discovery Tool](https://build.fluidproject.org/first-discovery/demos/)
 
 This tool walks the user through a step by step process of discovering, declaring and storing digital preferences.
 
