@@ -28,3 +28,8 @@ This tool walks the user through a step by step process of discovering, declarin
 ### [Feedback Tool](http://metadata.floeproject.org/demos/feedback/)
 
 The metadata feedback tool can be integrated into existing sites to allow users to provide feedback as to whether a digital resource matched their preferences and to request alternatives or modifications to improve it.
+
+### [Nexus Integration Technology](https://wiki.gpii.net/w/Nexus_API)
+
+The Nexus is a system that connects disparate technologies and enables new and inclusive interactions which can be used to visualize and sonify data as it is gathered. See how sensors commonly found in a science lab can be connected to accessible, sonified graphs in the [Nexus Science Lab Video](https://www.youtube.com/watch?v=NNwc0VYRhUU&feature=youtu.be) from 2017. See a demonstration of the Nexus being used to inclusively create music using various inputs including a head tracker in the
+[Nexus Inclusive Music Creation Video](https://www.youtube.com/watch?v=7R_pz2Fz4qE&feature=youtu.be) from 2016.
