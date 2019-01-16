@@ -40,3 +40,15 @@ The Kimera Local Network is a wireless network being developed by Karisma Founda
 ### [Wikipedia Offline + Kimera Local Network](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
 Kiwix provides access to the entire contents of Wikipedia without an internet connection. It is a part of the Kimera Local Network, which was installed in several rural schools in Fresno, a small town in the mountains of Colombia. Kiwix is available to students and teachers who use the platform to access and upload information, thereby overcoming the connectivity barriers that arise in their context.
 
+### [TIGed Learning Platform](https://www.tigweb.org/tiged/about.html)
+TakingITGlobal for Educators exists to empower classrooms to understand and act collaboratively on the world's greatest challenges. The platform offers a flexible tool to enable digital classrooms and collaborations across physical locations connected to the internet. There is also a community of teachers, professional development programs and educational resources to support educators to utilize technology to create transformative learning experiences for their students. 
+
+### [Coding Curriculum](https://codetolearn.tiged.org/)
+Code to Learn offers free professional learning for Canadians on coding with young people. MicroWorlds coding software is available at no cost to engage youth across Canada. We work with educators and other community members to co-design curriculum activities & Coding Challenges—including the popular micro:bits!
+
+### [Whose.Land](https://www.whose.land/en/)
+Whose Land is a web-based app that uses GIS technology to assist users in identifying Indigenous Nations, territories, and Indigenous communities across Canada. The app can be used for learning about the territory your home or business is situated on, finding information for a land acknowledgement, and learning about the treaties and agreements signed across Canada. Educational videos are available to watch that will give you a better understanding of why land acknowledgements are important, and the way Indigenous people view their relationship to land. 
+
+### [Decarbonize.me](http://decarbonize.me/)
+#DECARBONIZE #DECOLONIZE is a world-wide synthesis of youth research, recommended policy, and action on Climate Change. Connecting around the United Nations Climate Negotiations, thousands of youth across the planet are mobilizing to learn and act on the continued impact of colonization and repercussions on climate change.
+
