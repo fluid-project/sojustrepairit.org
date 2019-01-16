@@ -11,7 +11,7 @@ weight: 2
 
 ### [Oak Foundation Learning Differences Program](http://oakfnd.org/our-learnings.html)
 
-Oak’s Learning Differences Programme partnered with OpenSource Leadership Strategies to conduct a racial equity assessment of the LDP and to gather insights about the broader field of learning differences.  To inform the equity assessment, the LDP invited its current grantees to participate in a survey and the OpenSource analysed the findings, conducted interviews with more than a dozen leaders in the learning differences and racial equity fields and brought their own expertise and analysis to shape their assessment. [Sign up for our programme’s newsletter](http://oakfnd.org/learning-differences.html) to hear more resources as they are developed by our grantee partners:
+Oak’s Learning Differences Programme partnered with OpenSource Leadership Strategies to conduct a racial equity assessment of the LDP and to gather insights about the broader field of learning differences.  To inform the equity assessment, the LDP invited its current grantees to participate in a survey and the OpenSource analysed the findings, conducted interviews with more than a dozen leaders in the learning differences and racial equity fields and brought their own expertise and analysis to shape their assessment. [Sign up for our programme’s newsletter](http://oakfnd.org/learning-differences.html) to hear more resources as they are developed by our grantee partners.
 
 ### [Eye to Eye](https://eyetoeyenational.org/)
 
