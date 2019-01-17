@@ -1,9 +1,9 @@
 ---
-title: "Chart Authoring Tool"
+title: "Youth Guides to Action"
 type: featured-resource
 ---
-### Chart Authoring Tool
+### Youth Guides to Action
 
-Use this tool to author, export, and embed highly accessible charts, while also being able to sonify data.
+The general guide and the issue-specific guides are workbooks for you to download, use and share.
 
-{{< button href="/resources/#chart-authoring-tool-http-build-fluidproject-org-chartauthoring-demos" type="secondary" text="Learn&nbsp;more" >}}
+{{< button href="/resources/#youth-guides-to-action-https-www-tigweb-org-action-tools-guide" type="secondary" text="Learn&nbsp;more" >}}
