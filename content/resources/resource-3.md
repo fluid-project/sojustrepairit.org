@@ -25,9 +25,9 @@ The Chart Authoring Tool supports the authoring, export and embedding of highly 
 
 This tool walks the user through a step by step process of discovering, declaring and storing digital preferences.
 
-### [Feedback Tool](http://metadata.floeproject.org/demos/feedback/)
+### [Feedback and Metadata Tools](http://metadata.floeproject.org/demos/feedback/)
 
-The metadata feedback tool can be integrated into existing sites to allow users to provide feedback as to whether a digital resource matched their preferences and to request alternatives or modifications to improve it.
+The metadata feedback tool can be integrated into existing sites to allow users to provide feedback as to whether a digital resource matched their preferences and to request alternatives or modifications to improve it. [The metadata authoring](https://metadata.floeproject.org/demos/metadata/) components can be integrated into existing content editors to encourage and allow authors to create or edit metadata that accompanies the content of their Open Education Resource (OER), thereby improving accessibility.
 
 ### [Nexus Integration Technology](https://wiki.gpii.net/w/Nexus_API)
 
