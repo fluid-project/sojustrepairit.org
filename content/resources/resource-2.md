@@ -30,3 +30,6 @@ This course will expand your knowledge related to learning differences, provide 
 ### [Students LEAD](https://studentslead.fi.ncsu.edu/#!/pages/home)
 
 [Students LEAD (Learn, Explore, & Advocate Differently)](https://www.fi.ncsu.edu/news/the-friday-institute-launches-first-of-its-kind-online-course-for-students/) was created because all students learn differently. The course was developed to help students, especially those who may struggle with attention, time management, memory, or expressing ideas, understand that they are not alone and that specific strategies can support their learning. 
+
+### [Creating Inclusive Learning Experiences](https://handbook.floeproject.org/CreatingInclusiveLearningExperiences.html)
+Design guidelines and methods for building positive and constructive environments for self-learning and self-reflection with learners who have diverse learning needs and preferences.
