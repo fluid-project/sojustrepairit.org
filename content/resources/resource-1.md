@@ -56,3 +56,53 @@ Whose Land is a web-based app that uses GIS technology to assist users in identi
 ### [Decarbonize.me](http://decarbonize.me/)
 #DECARBONIZE #DECOLONIZE is a world-wide synthesis of youth research, recommended policy, and action on Climate Change. Connecting around the United Nations Climate Negotiations, thousands of youth across the planet are mobilizing to learn and act on the continued impact of colonization and repercussions on climate change.
 
+### [African Youth Charter](https://youth.africa-union.org/wp-content/uploads/2018/08/african-youth-charter_en.pdf)
+Outlines the rights of young people in Africa and the duties and obligations of African Union member states in fulfilling their obligation to respect those rights.
+
+### [The World Programme of Action for Youth](https://www.un.org/esa/socdev/unyin/documents/wpay2010.pdf)
+The World Programme of Action for Youth provides a policy framework and practical guidelines for national action and international support to improve the situation of young people. It contains proposals for action for the year 2000 and beyond, aiming at achieving the objectives of the International Youth Year and at fostering conditions and mechanisms to promote improved well-being and livelihood among young people.
+
+### [Growing Inclusion & Participation (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-3094/GrowingInclusionParticipation.pdf)
+An inspirational guide to setting up inclusive & participative 'Strategic Partnerships' with youth. Are you working with disadvantaged young people and want to give them an opportunity to truly participate in society? Then this publication is for you.
+
+### [T-Kit on Social Inclusion (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-402/tkit%20Social%20Inclusion.pdf)
+T-Kit on social inclusion is a tool contributing  to the shaping of an always more inclusive society.
+
+### [Including all with the 'Youth' Programme (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-801/IncludingAll.pdf])
+This booklet describes ways to ensure the same opportunities are given to all young people.
+
+### [No Barriers No Borders (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/nobarriers/)
+A practical booklet aiming to stimulate the participation of young people with a disability in international youth projects. It promotes international mixed-ability projects in which young people with and without a disability live, work and have fun together as peers.
+
+### [Inclusion by Design - Inclusion strategies for NGO’s (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/inclusionbydesign/)
+This booklet is for anyone interested in learning more about how a strategic approach can help to improve the quality and impact of their inclusion work. It presents a step-by-step approach to strategy-making which can be used by youth organisations both large and small. 
+
+### [Over the Rainbow - setting up LesBiGay Projects (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/overtherainbow/)
+This booklet is about working with LesBiGay youth in a respectful and helpful way and describes methods of organising youth projects that involve LesBiGay youth.
+
+### [No Offence! (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/nooffence/)
+This booklet aims to increase the inclusion of young offenders, ex-offenders and young people at risk of offending, in youth projects and activities.
+
+### [Inclusion and Diversity Strategy for Youth (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-3103/InclusionAndDiversityStrategy.pdf)
+Inclusion and diversity are two sides of the same coin: We want to include young people with fewer opportunities while positively addressing the diversity that different groups add to our lives. 
+
+### [Shaping Inclusion: Inclusion Strategies for National Agencies (NAs) (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/shapinginclusion/)
+A step-by-step guide for National Agencies (Inclusion Officers) to develop their inclusion strategy. The booklet contains ideas on how to make the most of your (limited) resources to have impact.
+
+### [Youthpass for ALL (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-1949/YouthpassForAll.pdf)
+Youthpass for All is a booklet intended to guide youth workers and/or youth leaders on how to work with marginalized young people. Youthpass for All starts off by looking at “learning” in the context of Youth in Action activities and goes on to explore how Youthpass can best be implemented.
+
+### [Rwanda National Youth Policy](http://www.youthpolicy.org/national/Rwanda_2005_National_Youth_Policy.pdf)
+A guide on implementation of youth projects in Rwanda.
+
+### [A Parent’s Guide to Response to Intervention (RTI) for young people with learning differences](https://www.understood.org/~/media/acc8e8c166c7432582494ece864cb16c.pdf)
+The goal of RTI is to help to make all students successful learners. 
+
+### [The Difference Between Accommodations and Modifications](https://www.understood.org/en/learning-attention-issues/treatments-approaches/educational-strategies/the-difference-between-accommodations-and-modifications)
+Young people with learning differences often need customization of their learning curriculum. This publication addresses the limitations of accomodation and makes a case for the more effective approach of providing custom modifications.
+
+### [Understanding Individualized Education Program(IEPs)](https://www.understood.org/en/school-learning/special-services/ieps/understanding-individualized-education-programs)
+An Individualized Education Program (IEP) is a written education plan designed to meet the learning needs of young people with learning differences. This guide is designed to help you through every step of your IEP journey. It facilitates personalization of the resources, tools and spaces for young people with learning differences through an inclusive design process.
+
+### [Village International (SALTO Youth)](https://www.salto-youth.net/rc/inclusion/inclusionpublications/villageinternational/)
+Village International is a booklet for rural youth workers and youth leaders about how to set up international youth projects, for and with rural youth, in geographically remote and disadvantaged areas. 
