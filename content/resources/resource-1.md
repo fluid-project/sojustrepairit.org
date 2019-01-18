@@ -56,6 +56,12 @@ Whose Land is a web-based app that uses GIS technology to assist users in identi
 ### [Decarbonize.me](http://decarbonize.me/)
 #DECARBONIZE #DECOLONIZE is a world-wide synthesis of youth research, recommended policy, and action on Climate Change. Connecting around the United Nations Climate Negotiations, thousands of youth across the planet are mobilizing to learn and act on the continued impact of colonization and repercussions on climate change.
 
+### [Cuentalo](http://cuentalo.org/)
+This virtual platform is a space where stories are made visible, creating community through identifying, recognizing and putting into dialogue the different individual and group histories that exist in the city of Cartagena.
+
+### [Guardia Ambiental Columbiana (Colombian Environmental Guard)](http://guardiaambiental.org/)
+The Guardia Ambiental is a burgeoning youth movement that engages youth in monitoring and protecting precarious natural ecosystems in Colombia. The Guardians provide abundant opportunities for youth to develop and practice important portable skills and competencies.
+
 ### [African Youth Charter](https://youth.africa-union.org/wp-content/uploads/2018/08/african-youth-charter_en.pdf)
 This publication outlines the rights of young people in Africa and the duties and obligations of African Union member states in fulfilling their obligation to respect those rights.
 
