@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Design Guides"
 type: resource
-weight: 3
+weight: 4
 ---
 ## Inclusive Design Guides
 

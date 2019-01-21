@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Design Practice Resources"
 type: resource
-weight: 6
+weight: 5
 ---
 ## Inclusive Design Practice
 
