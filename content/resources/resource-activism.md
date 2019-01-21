@@ -7,7 +7,7 @@ weight: 2
 
 {{< heading-rule >}}
 
-<p class="resource-intro">Technology can be leveraged to advocate for social justice, build community and affect change in the world. How do we consciously approach the design of technology for social justice to maximize its reach, adaptability and inclusiveness?</p>
+<p class="resource-intro">Technology can be leveraged to build and maintain social justice movements that affect change in the world. How do we consciously approach the design of technology for social justice to maximize its reach, adaptability and inclusiveness?</p>
 
 ### [Inclusive Making and Hacking](https://handbook.floeproject.org/InclusiveMakingAndHacking.html)
 
