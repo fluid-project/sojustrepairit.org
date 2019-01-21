@@ -24,3 +24,12 @@ Kiwix provides access to the entire contents of Wikipedia without an internet co
 ### [Kimera Platform](http://kimera.com/redlocal.html)
 
 The Kimera Local Network is a wireless network being developed by Karisma Foundation in Colombia, to address local connectivity needs. People can access the local network through mobiles, tablets, computers and any other device with the option of wireless or wired access.
+
+### [OER2Go (World Possible)](https://worldpossible.org/oer2go)
+
+OER2Go is a collection of educational websites re-packaged for download and offline use. It allows teachers, schools, and other educational organizations to deploy OERs in areas where internet access is limited, expensive, or non-existent. 
+
+### [Rachel (World Possible)](https://worldpossible.org/rachel)
+
+Rachel is a portable plug-and-play server which stores educational websites and makes that content available over any local (offline) wireless connection. 
+
