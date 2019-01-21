@@ -19,7 +19,7 @@ This digital tool is being developed as part of the SJRK project to gather and s
 
 ### [Cuentalo](http://cuentalo.org/)
 
-This virtual platform is a space where stories are made visible, creating community through identifying, recognizing and putting into dialogue the different individual and group histories that exist in the city of Cartagena. Currently available in Spanish.
+This virtual platform is a space where stories are made visible, creating community through identifying, recognizing and putting into dialogue the different individual and group histories that exist in the city of Cartagena. Currently available in Spanish. The full library of stories can be found on the [YouTube channel](https://www.youtube.com/watch?reload=9&v=2FBiy8bWYTE).
 
 ### [Storytelling and Story-Gathering Resources, Tools and Examples](https://wiki.fluidproject.org/display/fluid/Storytelling+and+Story-gathering+Resources%2C+Tools+and+Examples)
 
