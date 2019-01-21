@@ -1,7 +1,7 @@
 ---
 title: "Youth Leadership Resources"
 type: resource
-weight: 4
+weight: 3
 ---
 ## Youth Leadership
 

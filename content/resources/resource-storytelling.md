@@ -1,7 +1,7 @@
 ---
 title: "Storytelling Resources"
 type: resource
-weight: 5
+weight: 6
 ---
 ## Storytelling
 
