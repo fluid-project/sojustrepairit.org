@@ -7,7 +7,7 @@ weight: 6
 
 {{< heading-rule >}}
 
-<p class="resource-intro">Sharing our personal narratives empowers us by making our individual experiences visible, allowing us to build communities around experience, and providing concrete data about issues that can be used to strengthen movements. How do we enable the gathering and sharing of stories from a wide diversity of people?</p>
+<p class="resource-intro">Sharing our personal narratives allows us to identify and build communities around our common experiences. Stories reveal issues that can spark and strengthen movements. How do we enable the gathering and sharing of stories from a wide diversity of people?</p>
 
 ### [Whose.Land](https://www.whose.land/en/)
 
