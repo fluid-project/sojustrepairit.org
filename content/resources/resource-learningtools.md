@@ -7,7 +7,7 @@ weight: 8
 
 {{< heading-rule >}}
 
-<p class="resource-intro">Many successful projects enable learning in various contexts. What learning tools have we found useful in making learning environments more inclusive?</p>
+<p class="resource-intro">Many successful projects enable learning in various contexts. What tools have we found useful in making learning environments more inclusive?</p>
 
 ### [TIGed Learning Platform](https://www.tigweb.org/tiged/about.html)
 
