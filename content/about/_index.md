@@ -1,5 +1,5 @@
 ---
-title: About | SJRK
+title: '"About | SJRK"'
 ---
 # About
 
