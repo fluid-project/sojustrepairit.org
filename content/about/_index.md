@@ -1,11 +1,11 @@
 ---
-title: "About | SJRK"
+title: About | SJRK
 ---
 # About
 
 {{< heading-rule >}}
 
-The goal of this project is to support youth at risk who have learning differences to re-engage in education through an inclusively designed platform, called the Social Justice Repair Kit,  that integrates authentic project-based learning.
+The goal of this project is to support youth at risk who have learning differences to re-engage in education through an inclusively designed platform, called the Social Justice Repair Kit, that integrates authentic project-based learning.
 
 The platform will be openly available to any group (or individual) hosting youth movements, youth action events and social justice movements. It will add extensibility, collaboration support and organizational support for all participants in social justice or youth action groups.
 
