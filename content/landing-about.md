@@ -1,6 +1,5 @@
 ---
-title: "About SJRK"
-type: landing-about
+title: About SJRK
 ---
 ### About SJRK
 
@@ -8,4 +7,4 @@ type: landing-about
 
 The goal of the Social Justice Repair Kit project is to support youth at risk who have learning differences to re-engage in education through an inclusively designed social justice platform that integrates authentic project-based learning.
 
-For youth with identified and unidentified learning differences, the Kit will add inclusive design supports to remove barriers to participation.
+For youth with identified and unidentified learning differences, the Kit will add inclusive design supports to remove barriers to participation..
