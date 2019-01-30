@@ -5,9 +5,6 @@ backend:
   name: github
   repo: fluid-project/sojustrepairit.org
 
-# https://www.netlifycms.org/docs/configuration-options/#publish-mode
-publish_mode: editorial_workflow
-
 # https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
