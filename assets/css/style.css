@@ -240,9 +240,21 @@ nav .current {
 /* Partners end */
 
 /* Resources */
-section.resource-section >.resource-intro {
+.resources-content {
+    display: none;
+}
+.resources-content-show .resources-content {
+    display: block;
+}
+section.resource-section > .resources-content > .resource-intro {
     margin-top: 1em;
     font-style: italic;
+}
+.resource-section > button > h2 {
+    font-size: 1.2em;
+    padding-bottom: 0.2em;
+    border-bottom: solid 0.1em #C9EB96;
+    text-transform: none;
 }
 section.resource-section > h3 {
     margin-top: 2em;
@@ -250,6 +262,30 @@ section.resource-section > h3 {
 }
 .resource-section > p {
     margin-top: 0.5em;
+}
+.resource-section {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.resources-buttons {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.resources-buttons > button {
+    font-size: 0.7em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+.resources-toggleItem {
+    width: 100%;
+    text-align: left;
+    background-color: #FFF;
+    border: 0;
+    cursor: pointer;
+}
+.resource-section > .resources-toggleItem > h2 {
+    float: left;
+    margin: 0;
 }
 /* Resources end */
 
@@ -467,6 +503,9 @@ footer span {
         padding: 2em;
         max-width: 70%;
     }
+    .resource-section > button > h2 {
+        font-size: 1.4em;
+    }
 }
 
 @media screen and (min-width: 820px) {
@@ -505,6 +544,20 @@ footer span {
     .cta {
         padding: 2em 3em;
         max-width: 700px;
+    }
+
+    .resource-section {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .resources-buttons {
+        padding-top: 0.5em;
+        padding-bottom: 1em;
+    }
+
+    .resources-content > p {
+        padding-bottom: 2em;
     }
 
     footer {

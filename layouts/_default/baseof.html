@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {{ partial "uio-deps.html" . }}
-    {{ $style := resources.Get "css/style.css" | minify | fingerprint }} 
+    {{ $style := resources.Get "css/style.css" | minify | fingerprint }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>

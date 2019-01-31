@@ -3,9 +3,7 @@ title: "Storytelling Resources"
 type: resource
 weight: 6
 ---
-## Storytelling
-
-{{< heading-rule >}}
+{{< resource title="Storytelling" >}}
 
 <p class="resource-intro">Sharing our personal narratives allows us to identify and build communities around our common experiences. Stories reveal issues that can spark and strengthen movements. How do we enable the gathering and sharing of stories from a wide diversity of people?</p>
 

@@ -3,9 +3,7 @@ title: "Inclusive Design Practice Resources"
 type: resource
 weight: 5
 ---
-## Inclusive Design Practice
-
-{{< heading-rule >}}
+{{< resource title="Inclusive Design Practice" >}}
 
 <p class="resource-intro">Inclusive design is a diverse, evolving set of practices and insights. What have we learned, and where is our learning taking us?</p>
 

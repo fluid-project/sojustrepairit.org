@@ -3,9 +3,7 @@ title: "Inclusive Design Guides"
 type: resource
 weight: 4
 ---
-## Inclusive Design Guides
-
-{{< heading-rule >}}
+{{< resource title="Inclusive Design Guides" >}}
 
 <p class="resource-intro">Inclusive design recognizes diversity and uniqueness for broad beneficial impact. How can we apply Inclusive Design principals and strategies in our projects?</p>
 

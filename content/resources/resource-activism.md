@@ -3,9 +3,7 @@ title: "Youth Activism Resources"
 type: resource
 weight: 2
 ---
-## Youth Activism
-
-{{< heading-rule >}}
+{{< resource title="Youth Activism" >}}
 
 <p class="resource-intro">Technology can be leveraged to build and maintain social justice movements that affect change in the world. How do we consciously approach the design of technology for social justice to maximize its reach, adaptability and inclusiveness?</p>
 
