@@ -250,6 +250,9 @@ section.resource-section > .resources-content > .resource-intro {
     margin-top: 1em;
     font-style: italic;
 }
+.resource-section > button {
+    padding: 0;
+}
 .resource-section > button > h2 {
     font-size: 1.2em;
     padding-bottom: 0.2em;
