@@ -268,7 +268,8 @@ section.resource-section > .resources-content > .resource-intro {
     float: left;
 }
 .resource-section > button:focus > h2 {
-    border-bottom: solid 0.1em #FFF;
+    border-bottom: 0;
+    padding-bottom: 0.3em;
 }
 section.resource-section > h3 {
     margin-top: 2em;
