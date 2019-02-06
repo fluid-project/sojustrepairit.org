@@ -24,6 +24,7 @@ $(document).ready(function () {
             .attr('aria-expanded', state)
             .closest('.resource-section')
             .toggleClass('resources-content-show', state);
+        $(elm).closest('section').find('div').toggleClass('collapsed', !state);
     };
 
     /** When "show all" button is clicked, expands all categories to show their contents. */
@@ -43,6 +44,8 @@ $(document).ready(function () {
         var target = $(evt.delegateTarget);
         var state = target.attr('aria-expanded') === 'true' ? true : false;
         toggleCategory(target, !state);
+        // Remove focus indicator after clicks so that it doesn't linger indefinitely
+        this.blur();
         evt.preventDefault();
     });
 
@@ -55,7 +58,7 @@ $(document).ready(function () {
         if (!target.length) return;
         toggleCategory(target, true);
         // Bring the expanded content into the viewport
-        $("html, body").animate({
+        $('html, body').animate({
             scrollTop: $(requestedContent).offset().top 
         }, 1000);
     }

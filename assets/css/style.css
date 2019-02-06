@@ -23,6 +23,10 @@ a {
     text-decoration: none;
 }
 
+*:focus {
+    outline: 0.1em dashed #1F2B43;
+}
+
 .sjrk-logo {
     padding: 1.5em;
     margin: 2em auto 2.5em auto;
@@ -255,9 +259,11 @@ section.resource-section > .resources-content > .resource-intro {
 }
 .resource-section > button > h2 {
     font-size: 1.2em;
+    padding-top: 0.2em;
     padding-bottom: 0.2em;
     border-bottom: solid 0.1em #C9EB96;
     text-transform: none;
+    float: left;
 }
 section.resource-section > h3 {
     margin-top: 2em;
@@ -286,9 +292,38 @@ section.resource-section > h3 {
     border: 0;
     cursor: pointer;
 }
+.resources-toggleItem:hover {
+    background-color: #C9EB96;
+}
 .resource-section > .resources-toggleItem > h2 {
     float: left;
     margin: 0;
+}
+.resource-toggle-indicator {
+    cursor: pointer;
+    height: 21px;
+    position: relative;
+    width: 21px;
+  }
+.resource-toggle-indicator:before,
+.resource-toggle-indicator:after {
+    background: #000;
+    content: '';
+    height: 5px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+    transition: transform 200ms ease;
+}
+.resource-toggle-indicator:after {
+    transform-origin: center;
+}
+.resource-toggle-indicator.collapsed:after {
+    transform: rotate(90deg);
+}
+.resource-toggle-indicator.collapsed:before {
+    transform: rotate(180deg);
 }
 /* Resources end */
 
@@ -328,6 +363,10 @@ footer span {
     background: #1F2B43;
     margin-top: 1em;
     margin-right: 0.8em;
+}
+
+.footer-logos > a:focus {
+    outline: 0.1em dashed #FFF;
 }
 
 .oak-logo {
