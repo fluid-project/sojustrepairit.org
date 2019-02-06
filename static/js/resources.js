@@ -20,11 +20,13 @@ $(document).ready(function () {
      * @param state {Boolean} True to toggle open, false to toggle closed
      */
     var toggleCategory = function (elm, state) {
-        $(elm)
+        var element = $(elm);
+        element
             .attr('aria-expanded', state)
             .closest('.resource-section')
             .toggleClass('resources-content-show', state);
-        $(elm).closest('section').find('div').toggleClass('collapsed', !state);
+        // Change toggle indicator for category being toggled
+        element.closest('section').find('div').toggleClass('collapsed', !state);
     };
 
     /** When "show all" button is clicked, expands all categories to show their contents. */
