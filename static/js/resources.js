@@ -46,8 +46,6 @@ $(document).ready(function () {
         var target = $(evt.delegateTarget);
         var state = target.attr('aria-expanded') === 'true' ? true : false;
         toggleCategory(target, !state);
-        // Remove focus indicator after clicks so that it doesn't linger indefinitely
-        this.blur();
         evt.preventDefault();
     });
 
