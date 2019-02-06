@@ -527,6 +527,9 @@ footer span {
     .featured-resources-collection {
         margin-top: 10em;
     }
+    .resources-content {
+        margin-left: 2em;
+    }
     footer {
         font-size: 1.3em;
     }
