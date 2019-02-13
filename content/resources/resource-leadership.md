@@ -3,9 +3,7 @@ title: "Youth Leadership Resources"
 type: resource
 weight: 3
 ---
-## Youth Leadership
-
-{{< heading-rule >}}
+{{< resource title="Youth Leadership" >}}
 
 <p class="resource-intro">Engaging diverse youth in decision making results in stronger, forward looking societies. How do we best enable youth to assume positions of leadership in social justice movements?</p>
 

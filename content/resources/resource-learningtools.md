@@ -3,9 +3,7 @@ title: "Learning Tools"
 type: resource
 weight: 8
 ---
-## Learning Tools
-
-{{< heading-rule >}}
+{{< resource title="Learning Tools" >}}
 
 <p class="resource-intro">Many successful projects enable learning in various contexts. What tools have we found useful in making learning environments more inclusive?</p>
 

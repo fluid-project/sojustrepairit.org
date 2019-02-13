@@ -6,10 +6,19 @@
     {{ .Content }}
 </section>
 
+<section class="resources-buttons container text-container">
+    <button class="resources-showAll secondary-button button">Show All</button>
+    &nbsp;&nbsp;
+    <button class="resources-hideAll secondary-button button">Hide All</button>
+</section>
+
 {{ range where .Site.Pages.ByWeight "Type" "=" "resource" }} 
 <section class="resource-section container text-container">
-    {{ .Content }} 
+    {{ .Content }}
+    </div>
 </section>
 {{ end }}
+
+<script src="../js/resources.js"></script>
 
 {{ end }}

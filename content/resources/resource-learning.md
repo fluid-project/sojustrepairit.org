@@ -3,9 +3,7 @@ title: "Learning to Learn Resources"
 type: resource
 weight: 7
 ---
-## Learning to Learn
-
-{{< heading-rule >}}
+{{< resource title="Learning to Learn" >}}
 
 <p class="resource-intro">We all learn differently. How can we develop greater understanding of our own learning styles and preferences and better understand the learning styles and preferences of others?</p>
 

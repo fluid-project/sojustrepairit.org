@@ -3,9 +3,7 @@ title: "Content Customization Tools"
 type: resource
 weight: 9
 ---
-## Content Customization Tools
-
-{{< heading-rule >}}
+{{< resource title="Content Customization Tools" >}}
 
 <p class="resource-intro">Digital design offers diverse possibilities for transformation and adaptation of learning content. How do we leverage these possibilities in envisioning, building and evolving tools to support diverse learning needs?</p>
 

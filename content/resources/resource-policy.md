@@ -3,9 +3,7 @@ title: "Inclusive Policy and Strategy Resources"
 type: resource
 weight: 10
 ---
-## Inclusive Policy and Strategy
-
-{{< heading-rule >}}
+{{< resource title="Inclusive Policy and Strategy" >}}
 
 <p class="resource-intro">Policies can help to guide organizations and governments in youth protection and empowerment. How can we create inclusive policies that enable everyone to participate in society?</p>
 

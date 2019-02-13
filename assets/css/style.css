@@ -23,6 +23,10 @@ a {
     text-decoration: none;
 }
 
+*:focus {
+    outline: 0.1em dashed #1F2B43;
+}
+
 .sjrk-logo {
     padding: 1.5em;
     margin: 2em auto 2.5em auto;
@@ -240,9 +244,32 @@ nav .current {
 /* Partners end */
 
 /* Resources */
-section.resource-section >.resource-intro {
+.resources-content {
+    display: none;
+}
+.resources-content-show .resources-content {
+    display: block;
+}
+section.resource-section > .resources-content > .resource-intro {
     margin-top: 1em;
     font-style: italic;
+}
+.resource-section > button {
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+.resource-section > button > h2 {
+    font-size: 1.2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    border-bottom: solid 0.1em #C9EB96;
+    text-transform: none;
+    float: left;
+}
+.resource-section > button:focus > h2 {
+    border-bottom: 0;
+    padding-bottom: 0.3em;
 }
 section.resource-section > h3 {
     margin-top: 2em;
@@ -250,6 +277,63 @@ section.resource-section > h3 {
 }
 .resource-section > p {
     margin-top: 0.5em;
+}
+.resource-section {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.resources-buttons {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+.resources-buttons > button {
+    font-size: 0.7em;
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+.resources-toggleItem {
+    width: 100%;
+    text-align: left;
+    background-color: #FFF;
+    border: 0;
+    cursor: pointer;
+}
+.resources-toggleItem:hover {
+    background-color: #C9EB96;
+}
+.resource-section > .resources-toggleItem > h2 {
+    float: left;
+    margin: 0;
+}
+.resource-toggle-indicator {
+    cursor: pointer;
+    height: 21px;
+    position: relative;
+    width: 21px;
+    top: 8px;
+    margin-top: 0.2em;
+    margin-left: 0.2em;
+    margin-right: 0.8em;
+  }
+.resource-toggle-indicator:before,
+.resource-toggle-indicator:after {
+    background: #1F2B43;
+    content: '';
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 21px;
+    transition: transform 200ms ease;
+}
+.resource-toggle-indicator:after {
+    transform-origin: center;
+}
+.resource-toggle-indicator.collapsed:after {
+    transform: rotate(90deg);
+}
+.resource-toggle-indicator.collapsed:before {
+    transform: rotate(180deg);
 }
 /* Resources end */
 
@@ -289,6 +373,10 @@ footer span {
     background: #1F2B43;
     margin-top: 1em;
     margin-right: 0.8em;
+}
+
+.footer-logos > a:focus {
+    outline: 0.1em dashed #FFF;
 }
 
 .oak-logo {
@@ -443,6 +531,9 @@ footer span {
     .featured-resources-collection {
         margin-top: 10em;
     }
+    .resources-content {
+        margin-left: 2em;
+    }
     footer {
         font-size: 1.3em;
     }
@@ -466,6 +557,9 @@ footer span {
     nav {
         padding: 2em;
         max-width: 70%;
+    }
+    .resource-section > button > h2 {
+        font-size: 1.4em;
     }
 }
 
@@ -505,6 +599,20 @@ footer span {
     .cta {
         padding: 2em 3em;
         max-width: 700px;
+    }
+
+    .resource-section {
+        padding-top: 1em;
+        padding-bottom: 1em;
+    }
+
+    .resources-buttons {
+        padding-top: 0.5em;
+        padding-bottom: 1em;
+    }
+
+    .resources-content > p {
+        padding-bottom: 2em;
     }
 
     footer {
