@@ -36,6 +36,7 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "type", name: "type", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"
@@ -44,4 +45,6 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "type", name: "type", widget: "string"}
+      - {label: "weight", name: "type", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
