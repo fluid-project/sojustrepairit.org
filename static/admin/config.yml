@@ -18,6 +18,7 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "type", name: "type", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "about"
     label: "About"
@@ -26,6 +27,7 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "type", name: "type", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "partners"
     label: "Partners"
