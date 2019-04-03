@@ -33,4 +33,31 @@ Thanks to the support of the SJRK project, Motivando a la Gyal held a pre-launch
 
 Also, Juliana Soto, from Karisma, presented a series of “maps” that she develop after listening the whatsapp audio messages that the young women of Motivando a la Gyal sent to her, answering a list of questions. The maps are a way to known the expectations, the dreams and all the “behind the scenes” of the group in Medellín, in an anonymous format.
 
-![](/images/uploads/malg-map.jpg)
+![A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with "Motivando a la Gyal" in the center and coloured branches growing out of it. Text is hand-written in Spanish.](/images/uploads/malg-map.jpg "A \"mind map\" as a visualization of the expectations, dreams and \"behind the scenes\" experiences of the Motivando a la Gyal organisers.")
+
+## Project in Fresno: Opportunities for young coffee growers
+
+The goal of this initiative is to support students in the last grades of high school in rural areas of Fresno, Tolima, Colombia. For them, it is a time when questions about the future (i.e. staying in the country or the possibility of going to the cities) begin to intensify. With “Opportunities for young coffee growers” Karisma designed a series of workshops that involve creativity, the possibilities of local entrepreneurship, and digital tools, we are seeking to amplify these questions and find possible ways to solve them through collaborative dynamics, while stressing the local context.
+
+The project has 5 stages:
+
+1. Tuning our stories.
+2. Exploring opportunities in our territory.
+3. Visits to local entrepreneurs and creative workshops\*\*
+4. Developing projects
+5. Final thoughts and reflections
+
+In the spring of 2018 the students visited different places in town and close to town, including:
+
+* Finca El Cámbulo. Organic agriculture [[Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)]
+* Machine shop [[Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)]
+* Touristic tour [[Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)]
+* Beauty salon and barbershop [[Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)]
+
+Karisma designed a [guide to develop those visits](https://docs.google.com/document/d/1vGflyG6CjiCZdibAe5vvv_C0edTYDb0HmeKkKaIu23I/edit) (in Spanish).
+
+The goal of the workshops was to give a creative, artistic and communicative channel to the visits related to entrepreneurship activities. For example, the first workshop was a drawing workshop led by Colombian artist Angélica Ramírez. Please see Angélica’s [report about the experience](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view) (in Spanish) and the [presentation of the workshop](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view).
+
+In June 2018 Karisma finished the workshops in Fresno with Natalia Mesa Parodi, a writer who led a workshop about reading aloud and written creation activities. [[Spanish report, include images](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)].
+
+A key part of the project is the use of the Kimera Local Network (offline) and the Coffee Grower Network (online) to follow up the project.
