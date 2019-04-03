@@ -23,7 +23,7 @@ Through the SJRK project, the IDRC worked with TIG to support development of the
 TIG is working to align the Rising Youth Guide to Action with the inclusion goals of the SJRK project. Thus far, this has involved breaking the process of designing service projects and partnership building with other organizations into an easy to understand, youth friendly guide which enables young people to grow their agency and impact at the community level. Starting with a vision for their communities, youth are guided through a process to map their assets or gifts, and then to use a design canvass to build out their service projects. Connection to SDGs is still to be strengthened in this output, and there is an intention to branch the document into a stand-alone asset focused entirely on Sustainable Development Goals. 
 
 ### Inclusive Activity Animation Guide
-
+TBD
 
 ### Influence on other TIG projects
 
