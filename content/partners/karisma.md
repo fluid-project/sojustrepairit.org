@@ -75,4 +75,24 @@ As for the limited or null connectivity, internet access does not exist in pract
 Local network:
 
 http://fresnodigital.info/OJC_MIREYA/index.html 
-http://fresnodigital.info/OJC_MARIAS/index.html
+http://fresnodigital.info/OJC_MARIAS/index.html 
+
+## Collaborations: bringing together the rural and urban experiences
+
+In May 2018 Platohedro hosted a workshop in Medellín. The workshop gathered together students from Fresno with activists, artist, designers from Motivando a la Gyal, researchers from IDRC (OCAD University) and activists from Karisma Foundation. We also had the chance to prove the first version of the Storytelling Tool, developed by IDRC, and took notes on the reactions of the students. Please see this [blog post](https://karisma.org.co/el-planeta-es-la-escuela/) and [Tweet](https://twitter.com/Karisma/status/1000430535049654272) for more details.
+
+In Medellín we followed a very intense agenda. The following “[radio session](https://drive.google.com/file/d/1XDP35Ekj8sZq9AMQ_lz8TCbLNfKmnpNV/view)” was recorded at the end of the event to provide an opportunity to reflect and discuss the project of Motivando a la Gyal. 
+
+![A colourfully illustrated agenda list all the activities undertaken for the El Planeta es la Escuela (the Planet is the School) workshop.](/images/uploads/workshop-agenda.jpg "Workshop agenda for El Planeta es la Escuela (the Planet is the School) at Platohedro in Medellín, May 2018.")
+
+In October 2018, the Motivando a la Gyal group from Medellin visited the students in Fresno. The proposed theme was "the land and the sowing, from the city to the countryside”, and the goal was to create new networks of collaboration between the project participants, and to have the opportunity to exchange knowledge, experiences, stories and challenges from different perspectives. During this visit the Motivando a la Gyal group had a chance to see the new orchards that the students from Fresno started to grow after they had participated in the collaborative workshops in Medellín.
+
+The students from Fresno are running a new project: a Facebook newscast to share information from the school to the broader community of the town.  Some of them did an interview to the Motivando a la Gyal group during their visit. The video is available here:   https://www.youtube.com/watch?v=50P6HeOOOB0 
+
+Ongoing work includes:
+
+* Support the teachers of some public secondary education institutions in Fresno to use technology in learning processes and support their students in identifying their interests and motivations as they leave school and have to make decisions about their future.
+* Support local talent inviting people from the area to be the leaders of the workshops in order to develop an open curriculum with the communities, based on the experiences so far.
+* Create a narrative from the territory about Fresno, and then take advantage of those ideas in the workshops. 
+* Identify points in common between the two experiences (Colegios en Fresno y Platohedro) that allow them to share knowledge, initiatives and themes of interest.
+* To install the local network Kimera in new schools in Fresno (at least in 4) and support the process of appropriation of this technology.
