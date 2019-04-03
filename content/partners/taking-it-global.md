@@ -16,4 +16,4 @@ Working in collaboration with Indigenous peoples across Turtle Island, the TIG t
 
 Through the SJRK project, the IDRC worked with TIG to support development of the initial concept of this community storytelling initiative. The pilot project has since been successfully scaled into a full project called CanCode which will entail working with 80 Indigenous youth from 40 communities to create community videos. The next step of engagement  with SJRK will focus on ensuring transcription content is available in Indigenous languages, some of which are considered to  be endangered.
 
-1. ![](/images/uploads/land-acknowledge.png)
+![A photo showing a native woman standing in front of some trees, grass and a lake, with the CN tower and Toronto skyline in the distance. ](/images/uploads/land-acknowledge.png "Video still from Land Acknowledgement Poem by Lena Recollect")
