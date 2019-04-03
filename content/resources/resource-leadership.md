@@ -1,11 +1,13 @@
 ---
-title: "Youth Leadership Resources"
+title: Youth Leadership Resources
 type: resource
-weight: 3
 ---
 {{< resource title="Youth Leadership" >}}
 
 <p class="resource-intro">Engaging diverse youth in decision making results in stronger, forward looking societies. How do we best enable youth to assume positions of leadership in social justice movements?</p>
+
+### [UWEZO Youth Empowerment](https://uwezoyouth.org/)
+An organisation by and for youth with disabilities in Rwanda that provides support for youth including advocacy, reproductive health, inclusive education, adaptive technology and more.
 
 ### [ValueAble Leader Project](https://www.valueableleaderproject.com/)
 
