@@ -49,10 +49,10 @@ The project has 5 stages:
 
 In the spring of 2018 the students visited different places in town and close to town, including:
 
-* Finca El Cámbulo. Organic agriculture [[Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)]
-* Machine shop [[Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)]
-* Touristic tour [[Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)]
-* Beauty salon and barbershop [[Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)]
+* Finca El Cámbulo. Organic agriculture
+* Machine shop
+* Touristic tour
+* Beauty salon and barbershop
 
 Karisma designed a [guide to develop those visits](https://docs.google.com/document/d/1vGflyG6CjiCZdibAe5vvv_C0edTYDb0HmeKkKaIu23I/edit) (in Spanish).
 
