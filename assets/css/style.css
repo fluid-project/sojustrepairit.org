@@ -108,7 +108,7 @@ nav .current {
 .cta {
     background-color: #FFF;
     max-width: 487px;
-    margin-top: 2em;
+    margin-top: 0;
     text-align: center;
 }
 
