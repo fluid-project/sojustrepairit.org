@@ -49,7 +49,7 @@ The project has 5 stages:
 
 In the spring of 2018 the students visited different places in town and close to town, including:
 
-* Finca El Cámbulo. Organic agriculture
+* Finca El Cámbulo - an organic farm
 * Machine shop
 * Touristic tour
 * Beauty salon and barbershop
