@@ -24,6 +24,7 @@ TIG is working to align the Rising Youth Guide to Action with the inclusion goal
 
 ### Inclusive Activity Animation Guide
 
+
 ### Influence on other TIG projects
 
 Overall, involvement with the SJRK project has provided an ongoing focus on inclusion and accessibility across TIG projects. Learning from the inclusive design best practices being modeled by the IDRC, TIG staff involved in the project have acted as inclusive design mediators to ensure inclusion and accessibility are incorporated across other TIG projects and deliverables. Examples of this include: ensuring that the grant process for the Canada Service Core are aligned with accessibility options. Implementing a partnership with the CCSD - Canadian Center for Deaf Culture, Unlocking Culture, has also greatly benefitted from the learnings and conversations occurring within SJRK. Unlocking Culture seeks to provide digital platforms to enhance ASL and LSQ instruction facilitated by Deaf individuals across Canada. Participation in SJRK has greatly demystified the process of determining and implementing accessibility and inclusion initiatives across the project.
