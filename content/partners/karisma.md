@@ -61,3 +61,17 @@ The goal of the workshops was to give a creative, artistic and communicative cha
 In June 2018 Karisma finished the workshops in Fresno with Natalia Mesa Parodi, a writer who led a workshop about reading aloud and written creation activities. [[Spanish report, include images](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)].
 
 A key part of the project is the use of the Kimera Local Network (offline) and the Coffee Grower Network (online) to follow up the project.
+
+More about the local network:
+
+During the project, the KIMERA LOCAL NETWORK has been adapted and improved, using it in each of the venues of the Real Campestre School. The local network has been used to disseminate and to give participants access to information about local ventures and activities.
+
+Additionally, it has allowed the documentation of the progress of the project and also, facilitated collaborative dynamics among the participants, including the diffusion and sharing of the storytelling videos, and the outcomes of the creative workshops.
+
+As for the limited or null connectivity, internet access does not exist in practice at the schools. It is expected that this digital tool can be adjusted to the requirements of the central server in Canada and allows the integration of the local results with those of the central project in Canada and will share the contents and results of the central project in the different venues in Colombia.
+
+![](/images/uploads/kimera-network.png)
+
+Local network:
+http://fresnodigital.info/OJC_MIREYA/index.html 
+http://fresnodigital.info/OJC_MARIAS/index.html
