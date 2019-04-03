@@ -58,7 +58,7 @@ Karisma designed a [guide to develop those visits](https://docs.google.com/docum
 
 The goal of the workshops was to give a creative, artistic and communicative channel to the visits related to entrepreneurship activities. For example, the first workshop was a drawing workshop led by Colombian artist Angélica Ramírez. Please see Angélica’s [report about the experience](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view) (in Spanish) and the [presentation of the workshop](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view).
 
-In June 2018 Karisma finished the workshops in Fresno with Natalia Mesa Parodi, a writer who led a workshop about reading aloud and written creation activities. [[Spanish report, include images](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)].
+In June 2018 Karisma finished the workshops in Fresno with Natalia Mesa Parodi, a writer who led a workshop about reading aloud and written creation activities. [[Spanish report, including images](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)].
 
 A key part of the project is the use of the Kimera Local Network (offline) and the Coffee Grower Network (online) to follow up the project.
 
