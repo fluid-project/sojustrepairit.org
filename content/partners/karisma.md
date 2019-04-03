@@ -75,6 +75,7 @@ As for the limited or null connectivity, internet access does not exist in pract
 Local network:
 
 http://fresnodigital.info/OJC_MIREYA/index.html 
+
 http://fresnodigital.info/OJC_MARIAS/index.html 
 
 ## Collaborations: bringing together the rural and urban experiences
