@@ -18,7 +18,7 @@ Through the Social Justice Repair Kit project, the Inclusive Design Research Cen
 
 In engaging youth with learning differences in environmental protection, the Guardians are protecting vulnerable youth from predatory recruitment into violent gangs and paving a way back to engagement in productive learning.
 
-![An image showing several youth in a single file line walking in ankle-deep water in what appears to be a lake or inlet.](/images/uploads/guardians-in-the-water.png "The Environmental Guardians at work.")
+![An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet.](/images/uploads/guardians-in-the-water.png "The Environmental Guardians at work.")
 
 ### Cuentalo
 
