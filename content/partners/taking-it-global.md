@@ -32,3 +32,5 @@ Overall, involvement with the SJRK project has provided an ongoing focus on incl
 
 * Proposed Mash-up to leverage SJRK storytelling tool across TIG initiatives [Decarbonize/Decolonize ](http://decarbonize.me/)and CanCode - Create to Learn.
 * Collaboration through Canada Service Core project to pilot implementation of Guide to Action.
+
+![A video still showing young people gathered in a room, with their right arms outstretched and palms up, with drones hovering above their hands.](/images/uploads/drones.png "Video still from Create to Learn overview.")
