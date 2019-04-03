@@ -15,7 +15,6 @@ The Karisma Foundation in Colombia has been working together with the Social Jus
 Following the objectives of the "Social Justice Repair Kit", this project is generating experiences that strengthen the relationship between youth groups and the territory to which they belong, through two strategies:
 
 1. Exploring opportunities to create or innovate in the territory.
-
 2. Gathering personal and collective stories to share experiences as young people, told from their own point of view.
 
 For the Colombian writer William Ospina, it is urgent that educational processes have a purpose that is not reduced to individual success and profitability, but rather one that engenders a deep sense of dignity and community. This is possible when the education system makes space for thought, creativity, communication, socialization and happiness. If the "Planet is the school" our task is to learn, innovate and narrate the territory.
@@ -33,3 +32,5 @@ The project is being developed with two groups, the young women of the "Motivand
 Thanks to the support of the SJRK project, Motivando a la Gyal held a pre-launch event in August 2018, improving their social media platforms with self-developing content (illustrations, videos, audios) and also they had support for the logistic of the festival in September. [Read more in [Motivando a la Gyal report - Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)]
 
 Also, Juliana Soto, from Karisma, presented a series of “maps” that she develop after listening the whatsapp audio messages that the young women of Motivando a la Gyal sent to her, answering a list of questions. The maps are a way to known the expectations, the dreams and all the “behind the scenes” of the group in Medellín, in an anonymous format.
+
+![](/images/uploads/malg-map.jpg)
