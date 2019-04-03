@@ -56,6 +56,8 @@ In the spring of 2018 the students visited different places in town and close to
 
 Karisma designed a [guide to develop those visits](https://docs.google.com/document/d/1vGflyG6CjiCZdibAe5vvv_C0edTYDb0HmeKkKaIu23I/edit) (in Spanish).
 
+![A photo showing students standing on and amongst structures on a farm with lush rolling green hills in the background.](/images/uploads/finca.png "Student visit to the Finca El Cámbulo in Fresno, Colombia.")
+
 The goal of the workshops was to give a creative, artistic and communicative channel to the visits related to entrepreneurship activities. For example, the first workshop was a drawing workshop led by Colombian artist Angélica Ramírez. Please see Angélica’s [report about the experience](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view) (in Spanish) and the [presentation of the workshop](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view).
 
 In June 2018 Karisma finished the workshops in Fresno with Natalia Mesa Parodi, a writer who led a workshop about reading aloud and written creation activities. [[Spanish report, including images](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)].
