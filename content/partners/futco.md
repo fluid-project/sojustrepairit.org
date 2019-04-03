@@ -18,6 +18,8 @@ Through the Social Justice Repair Kit project, the Inclusive Design Research Cen
 
 In engaging youth with learning differences in environmental protection, the Guardians are protecting vulnerable youth from predatory recruitment into violent gangs and paving a way back to engagement in productive learning.
 
+![An image showing several youth in a single file line walking in ankle-deep water in what appears to be a lake or inlet.](/images/uploads/guardians-in-the-water.png "The Environmental Guardians at work.")
+
 ### Cuentalo
 
 Through the Social Justice Repair Kit project, FUTCO has developed a story gathering and story sharing platform. This platform provides an opportunity for participants in the city of Cartagena and surrounding areas to share stories about their lives, which gives them a chance to reflect on their strengths and needs and to find commonalities with others. Through this process systemic issues are revealed, both to the participants (informing their analysis and understanding of their experience), as well as to government and policy makers.
