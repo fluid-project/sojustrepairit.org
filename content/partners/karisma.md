@@ -70,8 +70,9 @@ Additionally, it has allowed the documentation of the progress of the project an
 
 As for the limited or null connectivity, internet access does not exist in practice at the schools. It is expected that this digital tool can be adjusted to the requirements of the central server in Canada and allows the integration of the local results with those of the central project in Canada and will share the contents and results of the central project in the different venues in Colombia.
 
-![](/images/uploads/kimera-network.png)
+![A screenshot of a webpage titled "Red Educativa Realense - Real Campestre La Sagrada Familia", with text in Spanish. ](/images/uploads/kimera-network.png "A screenshot of the Kimera local network site.")
 
 Local network:
+
 http://fresnodigital.info/OJC_MIREYA/index.html 
 http://fresnodigital.info/OJC_MARIAS/index.html
