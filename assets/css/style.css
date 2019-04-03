@@ -23,6 +23,12 @@ a {
     text-decoration: none;
 }
 
+img {
+    width: 100%;
+    height: auto;
+    margin: 1em 0;
+}
+
 *:focus {
     outline: 0.1em dashed #1F2B43;
 }
@@ -241,6 +247,7 @@ nav .current {
     letter-spacing: 0.02em;
     text-transform: uppercase;
 }
+
 /* Partners end */
 
 /* Resources */
