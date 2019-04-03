@@ -74,9 +74,9 @@ As for the limited or null connectivity, internet access does not exist in pract
 
 Local network:
 
-`http://fresnodigital.info/OJC_MIREYA/index.html `
+http://fresnodigital.info/OJC_MIREYA/index.html 
 
-`http://fresnodigital.info/OJC_MARIAS/index.html `
+http://fresnodigital.info/OJC_MARIAS/index.html 
 
 ## Collaborations: bringing together the rural and urban experiences
 
@@ -88,7 +88,7 @@ In Medellín we followed a very intense agenda. The following “[radio session]
 
 In October 2018, the Motivando a la Gyal group from Medellin visited the students in Fresno. The proposed theme was "the land and the sowing, from the city to the countryside”, and the goal was to create new networks of collaboration between the project participants, and to have the opportunity to exchange knowledge, experiences, stories and challenges from different perspectives. During this visit the Motivando a la Gyal group had a chance to see the new orchards that the students from Fresno started to grow after they had participated in the collaborative workshops in Medellín.
 
-The students from Fresno are running a new project: a Facebook newscast to share information from the school to the broader community of the town.  Some of them did an interview to the Motivando a la Gyal group during their visit. The video is available here:  ` https://www.youtube.com/watch?v=50P6HeOOOB0` 
+The students from Fresno are running a new project: a Facebook newscast to share information from the school to the broader community of the town.  Some of them did an interview to the Motivando a la Gyal group during their visit. The video is available here:   https://www.youtube.com/watch?v=50P6HeOOOB0 
 
 Ongoing work includes:
 
