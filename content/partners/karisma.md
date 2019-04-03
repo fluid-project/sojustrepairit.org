@@ -84,7 +84,7 @@ In May 2018 Platohedro hosted a workshop in Medellín. The workshop gathered tog
 
 In Medellín we followed a very intense agenda. The following “[radio session](https://drive.google.com/file/d/1XDP35Ekj8sZq9AMQ_lz8TCbLNfKmnpNV/view)” was recorded at the end of the event to provide an opportunity to reflect and discuss the project of Motivando a la Gyal. 
 
-![A colourfully illustrated agenda list all the activities undertaken for the El Planeta es la Escuela (the Planet is the School) workshop.](/images/uploads/workshop-agenda.jpg "Workshop agenda for El Planeta es la Escuela (the Planet is the School) at Platohedro in Medellín, May 2018.")
+![A colourfully illustrated agenda listing all the activities undertaken for the El Planeta es la Escuela (the Planet is the School) workshop.](/images/uploads/workshop-agenda.jpg "Workshop agenda for El Planeta es la Escuela (the Planet is the School) at Platohedro in Medellín, May 2018.")
 
 In October 2018, the Motivando a la Gyal group from Medellin visited the students in Fresno. The proposed theme was "the land and the sowing, from the city to the countryside”, and the goal was to create new networks of collaboration between the project participants, and to have the opportunity to exchange knowledge, experiences, stories and challenges from different perspectives. During this visit the Motivando a la Gyal group had a chance to see the new orchards that the students from Fresno started to grow after they had participated in the collaborative workshops in Medellín.
 
