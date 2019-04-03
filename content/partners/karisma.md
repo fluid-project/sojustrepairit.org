@@ -2,7 +2,7 @@
 title: Karisma
 type: partner
 ---
-## [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
+# [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
 
 ## About
 
