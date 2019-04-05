@@ -2,6 +2,10 @@
 title: Karisma
 type: partner
 ---
+# 
+
+![]()
+
 # [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
 
 ## About
@@ -21,7 +25,8 @@ For the Colombian writer William Ospina, it is urgent that educational processes
 
 The project is being developed with two groups, the young women of the "Motivando a la Gyal Festival" of Platohedro (Medellín) and the students of the 9, 10 and 11th grades of the Colegio Real Campestre (Mireya and Las Marías, Fresno), with the addition of more schools in the region as the project develops.
 
-![A photo showing a large group of people posing in front of the colourful façade of a building which is covered in painted murals.](/images/uploads/platohedro-group-may-2018.png "Members of Platohedro, students and teachers from Fresno, and visitors from the Inclusive Design Research Centre gathered at Platohedro in Medellín, Colombian for a series of workshops in May 2018.")
+{{< figure src="/images/uploads/platohedro-group-may-2018.png" alt="A photo showing a large group of people posing in front of the colourful façade of a building which is covered in painted murals." title="Members of Platohedro, students and teachers from Fresno, and visitors from the Inclusive Design Research Centre gathered at Platohedro in Medellín, Colombian for a series of workshops in May 2018." >}}
+
 
 ### Project in Medellín:
 
