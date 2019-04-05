@@ -26,7 +26,17 @@ a {
 img {
     width: 100%;
     height: auto;
-    margin: 1em 0;
+}
+
+figure {
+    margin: 1.3em 0;
+}
+
+figcaption > p {
+    margin: .3em 0;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 0.85em;
 }
 
 *:focus {
@@ -544,7 +554,7 @@ footer span {
     footer {
         font-size: 1.3em;
     }
-    
+
     footer span {
         font-size: 1em;
     }
@@ -649,7 +659,7 @@ footer span {
     .idrc-logo {
         width: 150px;
         height: auto;
-    } 
+    }
 }
 
 @media screen and (min-width:800px) and (max-width:1000px){
@@ -685,7 +695,7 @@ footer span {
         display: -ms-flexbox;
         display: flex;
     }
-    
+
     .featured-resource {
         margin: 0 2% 3.750em 2%;
         width: 23%;
