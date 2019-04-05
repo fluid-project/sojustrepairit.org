@@ -1,0 +1,6 @@
+<figure>
+    <img src="{{ (.Get "src" | safeHTML) }}" alt="{{ (.Get "alt" | safeHTML) }}" />
+        <figcaption>
+            <p>{{ (.Get "caption" | safeHTML) }}</p>
+        </figcaption>
+</figure>
