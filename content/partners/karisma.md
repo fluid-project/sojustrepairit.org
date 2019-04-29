@@ -103,17 +103,21 @@ The students from Fresno are running a new project: a Facebook newscast to share
 ## Events
 
 * Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/channel/UCwZyE0E5fpLKd607MEJTHiA)  
+* Motivando a la Gyal Festival - September 2018 - [Blogpost](http://platohedro.org/motivando-a-la-gyal-2/)
+* Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
+* Wikipedia workshops in Fresno - August 2018 - [Blogpost](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
 * Student Workshops - Summer 2018
   * Writing Workshop - [report in Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)
   * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
   * Photography Workshop - report not available
+
+* El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
 * Student Entrepreneurial Visits - Spring 2018 
   * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
   * Machine shop - [Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)
   * Touristic tour - [Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)
   * Beauty salon and barbershop - [Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)
 
-* El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
-* Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
-* Motivando a la Gyal Festival - September 2018 - [Blogpost](http://platohedro.org/motivando-a-la-gyal-2/)
-* Wikipedia workshops in Fresno - August 2018 - [Blogpost](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
+
+
+
