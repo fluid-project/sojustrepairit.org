@@ -23,7 +23,6 @@ The project is being developed with two groups, the young women of the "Motivand
 
 {{< figure src="/images/uploads/platohedro-group-may-2018.png" alt="A photo showing a large group of people posing in front of the colourful façade of a building which is covered in painted murals." caption="Members of Platohedro, students and teachers from Fresno, and visitors from the Inclusive Design Research Centre gathered at Platohedro in Medellín, Colombian for a series of workshops in May 2018." >}}
 
-
 ### Project in Medellín:
 
 "Motivating the Gyal*" is a festival that brings together young women from the city of Medellín to work around topics such as collaborative technologies, feminism, local food growing, social cartography, and more. Its second iteration took place in September 2018 with the support of the SJRK project.
@@ -34,7 +33,7 @@ Thanks to the support of the SJRK project, Motivando a la Gyal held a pre-launch
 
 Juliana Soto, from Karisma, presented a series of “maps” that she developed after listening to the whatsapp audio messages that the young women of Motivando a la Gyal sent to her, answering a list of questions. The maps are a way to understand the expectations, the dreams and all the “behind the scenes” experiences of the group in Medellín, in an anonymous format.
 
-{{< figure src="/images/uploads/malg-map.jpg" alt="A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with \"Motivando a la Gyal\" in the center and coloured branches growing out of it. Text is hand-written in Spanish." caption="A \"mind map\" as a visualization of the expectations, dreams and \"behind the scenes\" experiences of the Motivando a la Gyal organisers." >}}
+{{< figure src="/images/uploads/malg-map.jpg" alt="A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with "Motivando a la Gyal" in the center and coloured branches growing out of it. Text is hand-written in Spanish." caption="A "mind map" as a visualization of the expectations, dreams and "behind the scenes" experiences of the Motivando a la Gyal organisers." >}}
 
 ### Project in Fresno: Opportunities for young coffee growers
 
@@ -73,7 +72,7 @@ Additionally, it has allowed the documentation of the progress of the project an
 
 As for the limited or null connectivity, internet access does not exist in practice at the schools. It is expected that this digital tool can be adjusted to the requirements of the central server in Canada and allows the integration of the local results with those of the central project in Canada and will share the contents and results of the central project in the different venues in Colombia.
 
-{{< figure src="/images/uploads/kimera-network.png" alt="A screenshot of a webpage titled \"Red Educativa Realense - Real Campestre La Sagrada Familia\", with text in Spanish." caption="A screenshot of the Kimera local network site." >}}
+{{< figure src="/images/uploads/kimera-network.png" alt="A screenshot of a webpage titled "Red Educativa Realense - Real Campestre La Sagrada Familia", with text in Spanish." caption="A screenshot of the Kimera local network site." >}}
 
 Local network:
 
@@ -102,6 +101,19 @@ The students from Fresno are running a new project: a Facebook newscast to share
 * To install the local network Kimera in new schools in Fresno (at least in 4) and support the process of appropriation of this technology.
 
 ## Events
-* [El Planeta es la Escuela - Workshops May 2018](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
-* [Motivando a la Gyal Pre-launch Event August 2018](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
-* [Motivando a la Gyal Festival September 2018](http://platohedro.org/motivando-a-la-gyal-2/)
+
+* Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/channel/UCwZyE0E5fpLKd607MEJTHiA)  
+* Student Workshops - Summer 2018
+  * Writing Workshop - [report in Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)
+  * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
+  * Photography Workshop
+* Student Entrepreneurial Visits - Spring 2018 
+  * Finca El Cámbulo. Organic agriculture [Images
+  * Machine shop \[Images]
+  * Touristic tour \[Images]
+  * Beauty salon and barbershop \[Images]
+
+* El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
+* Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
+* Motivando a la Gyal Festival - September 2018 - [Blogpost](http://platohedro.org/motivando-a-la-gyal-2/)
+* Wikipedia workshops in Fresno - August 2018 - [Blogpost](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
