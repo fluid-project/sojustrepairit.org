@@ -103,4 +103,4 @@ The students from Fresno are running a new project: a Facebook newscast to share
 
 ## Events
 * [El Planeta es la Escuela - Workshops May 2018](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
-* [Motivando a la Gyal Pre-launch Event](motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
+* [Motivando a la Gyal Pre-launch Event](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
