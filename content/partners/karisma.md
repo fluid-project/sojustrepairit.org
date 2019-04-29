@@ -106,7 +106,7 @@ The students from Fresno are running a new project: a Facebook newscast to share
 * Student Workshops - Summer 2018
   * Writing Workshop - [report in Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)
   * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
-  * Photography Workshop
+  * Photography Workshop - report not available
 * Student Entrepreneurial Visits - Spring 2018 
   * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
   * Machine shop - [Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)
