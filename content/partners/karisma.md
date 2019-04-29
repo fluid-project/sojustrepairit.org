@@ -108,10 +108,10 @@ The students from Fresno are running a new project: a Facebook newscast to share
   * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
   * Photography Workshop
 * Student Entrepreneurial Visits - Spring 2018 
-  * Finca El Cámbulo. Organic agriculture [Images
-  * Machine shop \[Images]
-  * Touristic tour \[Images]
-  * Beauty salon and barbershop \[Images]
+  * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
+  * Machine shop - [Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)
+  * Touristic tour - [Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)
+  * Beauty salon and barbershop - [Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)
 
 * El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
 * Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
