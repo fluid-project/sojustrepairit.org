@@ -100,3 +100,6 @@ The students from Fresno are running a new project: a Facebook newscast to share
 * Create a narrative from the territory about Fresno, and then take advantage of those ideas in the workshops.
 * Identify points in common between the two experiences (Colegios en Fresno y Platohedro) that allow them to share knowledge, initiatives and themes of interest.
 * To install the local network Kimera in new schools in Fresno (at least in 4) and support the process of appropriation of this technology.
+
+## Events
+* [El Planeta es la Escuela - Workshops May 2018](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
