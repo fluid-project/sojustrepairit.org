@@ -33,7 +33,7 @@ Thanks to the support of the SJRK project, Motivando a la Gyal held a pre-launch
 
 Juliana Soto, from Karisma, presented a series of “maps” that she developed after listening to the whatsapp audio messages that the young women of Motivando a la Gyal sent to her, answering a list of questions. The maps are a way to understand the expectations, the dreams and all the “behind the scenes” experiences of the group in Medellín, in an anonymous format.
 
-{{< figure src="/images/uploads/malg-map.jpg" alt="A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with "Motivando a la Gyal" in the center and coloured branches growing out of it. Text is hand-written in Spanish." caption="A "mind map" as a visualization of the expectations, dreams and "behind the scenes" experiences of the Motivando a la Gyal organisers." >}}
+{{< figure src="/images/uploads/malg-map.jpg" alt="A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with 'Motivando a la Gyal' in the center and coloured branches growing out of it. Text is hand-written in Spanish." caption="A 'mind map' as a visualization of the expectations, dreams and 'behind the scenes' experiences of the Motivando a la Gyal organisers." >}}
 
 ### Project in Fresno: Opportunities for young coffee growers
 
@@ -72,7 +72,7 @@ Additionally, it has allowed the documentation of the progress of the project an
 
 As for the limited or null connectivity, internet access does not exist in practice at the schools. It is expected that this digital tool can be adjusted to the requirements of the central server in Canada and allows the integration of the local results with those of the central project in Canada and will share the contents and results of the central project in the different venues in Colombia.
 
-{{< figure src="/images/uploads/kimera-network.png" alt="A screenshot of a webpage titled "Red Educativa Realense - Real Campestre La Sagrada Familia", with text in Spanish." caption="A screenshot of the Kimera local network site." >}}
+{{< figure src="/images/uploads/kimera-network.png" alt="A screenshot of a webpage titled 'Red Educativa Realense - Real Campestre La Sagrada Familia', with text in Spanish." caption="A screenshot of the Kimera local network site." >}}
 
 Local network:
 
