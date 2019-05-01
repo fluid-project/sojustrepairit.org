@@ -4,12 +4,12 @@
 
 <section class="container text-container">
     {{ .Content }}
-</section>
 
-{{ range where .Site.Pages "Type" "=" "partner" }} 
-<section class="partner-section container text-container">
-    {{ .Content }} 
+ {{ range where .Site.Pages "Type" "=" "partner" }}
+     <h2>
+         <a href="{{.Permalink}}">{{.Title}}</a>
+     </h2>
+ {{ end }}
 </section>
-{{ end }}
 
 {{ end }}
