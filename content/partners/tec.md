@@ -1,5 +1,5 @@
 ---
-title: "TEC"
+title: Tecnológico de Monterrey
 type: partner
 ---
 ## [Tecnol&oacute;gico de Monterrey](http://tec.mx/en)
