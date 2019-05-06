@@ -48,7 +48,7 @@ Future Pathways Summit - these events will gather Indigenous students to evaluat
 
 Whose.Land event - community engagement @MARS, Toronto, May 6th, 2019
 
-Create to Learn 
+Create to Learn (CTL)
 
 * CTL 1: Toronto, Ontario, March 23-25th 2018 - 24 participants/13 communities
 * CTL 2: Toronto, Ontario, August 27-31 2018 - 21 participants/13 communities
