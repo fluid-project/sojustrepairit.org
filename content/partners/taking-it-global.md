@@ -57,7 +57,8 @@ Create to Learn (CTL)
 * CTL 4: London, Ontario, February 3-9 2019 - 38 participants/24 communities
   * In partnership with the Chiefs of Ontario (Stories From Our Roots Gathering 2019)
   * In partnership with Imaginative (Providing Indigenous Media mentors)
-* CTL 5: Bolton, ON, February 24- March 3 2019 - 6 participants/5 communitiesIn partnership with the Student Commission of Canada (CanadaWeWant Conference 2019)
+* CTL 5: Bolton, ON, February 24- March 3 2019 - 6 participants/5 communities
+  * In partnership with the Student Commission of Canada (CanadaWeWant Conference 2019)
   * In partnership with Imaginative (Providing Indigenous Media mentors)
 * CTL 6: Ottawa, ON, March 22-25 2018 - 13 participants/8 communities
   * In partnership with Nunavut Sivuniksavut
