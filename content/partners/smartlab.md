@@ -3,17 +3,8 @@ title: SMARTlab
 type: partner
 ---
 # [Aniyamuzaala James Rwampigi/SMARTlab](http://smartlab-ie.com/)
-# [UWEZO Youth Empowerment Rwanda](https://uwezoyouth.org/)
 
-## About
-
-James is a Ugandan PhD student at SMARTlab - Inclusive Design Research Centre, University College Dublin (UCD), Ireland, where he works under the supervision of Professor Lizbeth Goodman. He is also a humanitarian action professional and knowledge investigator on topics related to Assistive Technology, Disability Rights, Age, Diversity, and Inclusion. James is based in Vienna, Austria and Kampala,Uganda.
-
-The SMARTlab UCD runs practice-based graduate programs and a research centre for designers, engineers, artists and technologists working across disciplines. It supports a suite of community engagement and creative industry projects around e-inclusion and design for ability, (amongst other topics). It houses a knowledge transfer centre, sensory studio and makerspace/VR lab where local communities can join forces with UCD academics, artists, technologists and game designers to make and test games and interactive tools.
-
-UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.
-
-## SJRK Work
+## SJRK Project Contributions
 
 ### Matching the mismatch, Social Justice and Young people with learning differences in Rwanda.
 
