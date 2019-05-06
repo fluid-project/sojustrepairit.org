@@ -4,11 +4,7 @@ type: partner
 ---
 # [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
 
-## About
-
-Karisma is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.
-
-## SJRK Work
+## SJRK Project Contributions
 
 The Karisma Foundation in Colombia has been working together with the Social Justice Repair Kit on a project named El Planeta es la Escuela (The Planet is the School). The motto of this project is to “learn, innovate and narrate the territory”, and includes the participation of youth groups in the rural area of Fresno (Tolima) as well as in the city of Medellin (Antioquia).
 
@@ -110,14 +106,9 @@ The students from Fresno are running a new project: a Facebook newscast to share
   * Writing Workshop - [report in Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)
   * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
   * Photography Workshop - report not available
-
 * El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
 * Student Entrepreneurial Visits - Spring 2018 
   * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
   * Machine shop - [Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)
   * Touristic tour - [Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)
   * Beauty salon and barbershop - [Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)
-
-
-
-
