@@ -3,6 +3,7 @@ title: SMARTlab
 type: partner
 ---
 # [Aniyamuzaala James Rwampigi/SMARTlab](http://smartlab-ie.com/)
+# [UWEZO Youth Empowerment](https://uwezoyouth.org/)
 
 ## SJRK Project Contributions
 
