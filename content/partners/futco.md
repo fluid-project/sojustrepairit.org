@@ -1,12 +1,11 @@
 ---
-title: Futco
-type: partner
+title: FUTCO
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
-## About
-
 FUTCO is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.
+
+<!--more-->
 
 ## SJRK Work
 

@@ -1,12 +1,11 @@
 ---
 title: Karisma
-type: partner
 ---
 # [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
 
-## About
-
 Karisma is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.
+
+<!--more-->
 
 ## SJRK Work
 
@@ -112,12 +111,8 @@ The students from Fresno are running a new project: a Facebook newscast to share
   * Photography Workshop - report not available
 
 * El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
-* Student Entrepreneurial Visits - Spring 2018 
+* Student Entrepreneurial Visits - Spring 2018
   * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
   * Machine shop - [Images](https://drive.google.com/drive/folders/1zJK-yWQOlfLqq8k9S0Csh7rINsR-abue)
   * Touristic tour - [Images](https://drive.google.com/drive/folders/18QIBUHBLSvjaBVPP5BPu336-FT_DEyVk)
   * Beauty salon and barbershop - [Images](https://drive.google.com/drive/folders/1thyfcLU22hCBfQ7w9xYD9khe6xKCbzXm)
-
-
-
-
