@@ -102,7 +102,7 @@ The students from Fresno are running a new project: a Facebook newscast to share
 
 ## Events
 
-* Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/channel/UCwZyE0E5fpLKd607MEJTHiA)  
+* Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/watch?v=50P6HeOOOB0&feature=youtu.be)  
 * Motivando a la Gyal Festival - September 2018 - [Blogpost](http://platohedro.org/motivando-a-la-gyal-2/)
 * Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
 * Wikipedia workshops in Fresno - August 2018 - [Blogpost](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
