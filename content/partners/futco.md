@@ -4,7 +4,7 @@ type: partner
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
-## SJRK Work
+## SJRK Project Contributions
 
 ### Environmental Guardians
 
