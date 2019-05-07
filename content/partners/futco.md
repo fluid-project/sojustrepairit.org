@@ -1,15 +1,12 @@
 ---
 title: FUTCO
+projectUrl: "http://tecnologicocomfenalco.edu.co/"
+summary: "Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO) is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.   [Learn about FUTCO's project contributions.](futco)
+"
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
-FUTCO is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.
-
-<!--more-->
-
-## SJRK Project Contributions
-
-### Environmental Guardians
+## Environmental Guardians
 
 In Colombia, which has experienced decades of civil conflict, violent gangs prey on and recruit vulnerable youth.  At the same time, in a country with a richness of threatened and critical biospheres, Colombian public infrastructure for environmental protection is virtually non-existent. El Guardia Ambiental, also known as “The Guardians of Peace and the Environment,” are a burgeoning youth movement that engages youth in monitoring and protecting precarious natural ecosystems. The Guardians provide abundant opportunities for youth to develop and practice important portable skills and competencies.
 
@@ -19,7 +16,7 @@ In engaging youth with learning differences in environmental protection, the Gua
 
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
 
-### Cuentalo
+## Cuentalo
 
 Through the Social Justice Repair Kit project, FUTCO has developed a [story gathering and story sharing platform](http://cuentalo.org/). This platform provides an opportunity for participants in the city of Cartagena and surrounding areas to share stories about their lives, which gives them a chance to reflect on their strengths and needs and to find commonalities with others. Through this process systemic issues are revealed, both to the participants (informing their analysis and understanding of their experience), as well as to government and policy makers.
 
