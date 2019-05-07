@@ -7,6 +7,6 @@ Through educational experiences Tecnológico de Monterrey helps students become 
 
 <!--more-->
 
-## SJRK Work
+## SJRK Project Contributions
 
 Tecnológico Monterrey is working with youth organisations in Mexico to gather narratives around barriers to education and disengagement from formal education, with a focus on youth with learning differences.

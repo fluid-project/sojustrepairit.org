@@ -2,7 +2,7 @@
 title: SMARTlab and UWEZO
 ---
 # [Aniyamuzaala James Rwampigi/SMARTlab](http://smartlab-ie.com/)
-# [UWEZO Youth Empowerment Rwanda](https://uwezoyouth.org/)
+# [UWEZO Youth Empowerment](https://uwezoyouth.org/)
 
 James is a Ugandan PhD student at SMARTlab - Inclusive Design Research Centre, University College Dublin (UCD), Ireland, where he works under the supervision of Professor Lizbeth Goodman. He is also a humanitarian action professional and knowledge investigator on topics related to Assistive Technology, Disability Rights, Age, Diversity, and Inclusion. James is based in Vienna, Austria and Kampala,Uganda.
 
@@ -12,7 +12,7 @@ UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabili
 
 <!--more-->
 
-## SJRK Work
+## SJRK Project Contributions
 
 ### Matching the mismatch, Social Justice and Young people with learning differences in Rwanda.
 

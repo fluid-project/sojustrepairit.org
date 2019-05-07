@@ -7,7 +7,7 @@ Karisma is a Colombian civil society organization founded in 2003 to ensure that
 
 <!--more-->
 
-## SJRK Work
+## SJRK Project Contributions
 
 The Karisma Foundation in Colombia has been working together with the Social Justice Repair Kit on a project named El Planeta es la Escuela (The Planet is the School). The motto of this project is to “learn, innovate and narrate the territory”, and includes the participation of youth groups in the rural area of Fresno (Tolima) as well as in the city of Medellin (Antioquia).
 
@@ -101,7 +101,7 @@ The students from Fresno are running a new project: a Facebook newscast to share
 
 ## Events
 
-* Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/channel/UCwZyE0E5fpLKd607MEJTHiA)  
+* Motivando a la Gyal Fresno farms visit - March 2019 - [Video (min 1:49-4:17)](https://www.youtube.com/watch?v=50P6HeOOOB0&feature=youtu.be)  
 * Motivando a la Gyal Festival - September 2018 - [Blogpost](http://platohedro.org/motivando-a-la-gyal-2/)
 * Motivando a la Gyal Pre-launch Event - August 2018 - [Blogpost](http://motivandoalagyal.n-esima.net/2018/07/07/prelanzamiento-del-festival-motivando-a-la-gyal-2-0/)
 * Wikipedia workshops in Fresno - August 2018 - [Blogpost](https://karisma.org.co/la-red-local-kimera-como-opcion-para-utilizar-wikipedia-offline-kiwix-en-zonas-sin-acceso-a-internet/)
@@ -109,7 +109,6 @@ The students from Fresno are running a new project: a Facebook newscast to share
   * Writing Workshop - [report in Spanish](https://drive.google.com/file/d/1ncmOntrI6daaIYIaiKgeBAJEvC9eNs-U/view)
   * Drawing Workshop - [report in Spanish](https://drive.google.com/file/d/0BxjSZthgKovfSFhaX3dGSFlNNzh2czVPdXo4OVplZ0JGcy1V/view), [presentation](https://drive.google.com/file/d/0BxjSZthgKovfVlZjSldFRWo0Q1NuUk8tOE1wMC1RS3hQOXpV/view)
   * Photography Workshop - report not available
-
 * El Planeta es la Escuela Workshops May 2018 - [Blogpost](https://karisma.org.co/tag/el-planeta-es-la-escuela/)
 * Student Entrepreneurial Visits - Spring 2018
   * Finca El Cámbulo organic farm - [Images](https://drive.google.com/drive/folders/1zzqWnmiXCPuY8ylwxoZpPeq-U138d1CS)
