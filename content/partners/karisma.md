@@ -1,13 +1,12 @@
 ---
 title: Karisma
+projectUrl: "https://karisma.org.co/"
+summary: "Fundaci&oacute;n Karisma (Karisma) is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.  [Learn about Karisma's project contributions.](karisma)"
 ---
+
 # [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)
 
-Karisma is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.
-
-<!--more-->
-
-## SJRK Project Contributions
+## The Planet is the School
 
 The Karisma Foundation in Colombia has been working together with the Social Justice Repair Kit on a project named El Planeta es la Escuela (The Planet is the School). The motto of this project is to “learn, innovate and narrate the territory”, and includes the participation of youth groups in the rural area of Fresno (Tolima) as well as in the city of Medellin (Antioquia).
 
@@ -22,7 +21,7 @@ The project is being developed with two groups, the young women of the "Motivand
 
 {{< figure src="/images/uploads/platohedro-group-may-2018.png" alt="A photo showing a large group of people posing in front of the colourful façade of a building which is covered in painted murals." caption="Members of Platohedro, students and teachers from Fresno, and visitors from the Inclusive Design Research Centre gathered at Platohedro in Medellín, Colombian for a series of workshops in May 2018." >}}
 
-### Project in Medellín:
+## Project in Medellín:
 
 "Motivating the Gyal*" is a festival that brings together young women from the city of Medellín to work around topics such as collaborative technologies, feminism, local food growing, social cartography, and more. Its second iteration took place in September 2018 with the support of the SJRK project.
 
@@ -34,7 +33,7 @@ Juliana Soto, from Karisma, presented a series of “maps” that she developed 
 
 {{< figure src="/images/uploads/malg-map.jpg" alt="A photo of someone holding a drawing up to the camera, which shows a colourful mapping of ideas with 'Motivando a la Gyal' in the center and coloured branches growing out of it. Text is hand-written in Spanish." caption="A 'mind map' as a visualization of the expectations, dreams and 'behind the scenes' experiences of the Motivando a la Gyal organisers." >}}
 
-### Project in Fresno: Opportunities for young coffee growers
+## Project in Fresno: Opportunities for young coffee growers
 
 The goal of this initiative is to support students in the last grades of high school in rural areas of Fresno, Tolima, Colombia. For them, it is a time when questions about the future (i.e. staying in the country or the possibility of going to the cities) begin to intensify. With “Opportunities for young coffee growers” Karisma designed a series of workshops that involve creativity, the possibilities of local entrepreneurship, and digital tools, we are seeking to amplify these questions and find possible ways to solve them through collaborative dynamics, while stressing the local context.
 
@@ -91,7 +90,7 @@ In October 2018, the Motivando a la Gyal group from Medellin visited the student
 
 The students from Fresno are running a new project: a Facebook newscast to share information from the school to the broader community of the town.  Some of them did an interview to the Motivando a la Gyal group during their visit. The video is available here:   https://www.youtube.com/watch?v=50P6HeOOOB0
 
-### Ongoing work
+## Ongoing work
 
 * Support the teachers of some public secondary education institutions in Fresno to use technology in learning processes and support their students in identifying their interests and motivations as they leave school and have to make decisions about their future.
 * Support local talent inviting people from the area to be the leaders of the workshops in order to develop an open curriculum with the communities, based on the experiences so far.
