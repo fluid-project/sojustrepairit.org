@@ -2,36 +2,26 @@
 
 {{ define "main" }}
 
-<section class="container text-container">
+  <section class="container text-container">
     {{ .Content }}
+  </section>
+  <section class="container text-container">
 
-    <h2><a href="https://tecnologicocomfenalco.edu.co/">Fundación Universitaria Tecnológico Comfenalco (FUTCO)</a></h2>
-    FUTCO is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.
-    <a href="/partners/futco">Learn about FUTCO's project contributions.</a>
-
-    <h2><a href="https://karisma.org.co/">Fundación Karisma (Karisma)</a></h2>
-    Karisma is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.
-    <a href="/partners/karisma">Learn about Karisma's project contributions.</a>
-
-    <h2><a href="http://smartlab-ie.com/">Aniyamuzaala James Rwampigi/SMARTlab</a></h2>
-    James is a Ugandan PhD student at SMARTlab - Inclusive Design Research Centre, University College Dublin (UCD), Ireland, where he works under the supervision of Professor Lizbeth Goodman. He is also a humanitarian action professional and knowledge investigator on topics related to Assistive Technology, Disability Rights, Age, Diversity, and Inclusion. James is based in Vienna, Austria and Kampala,Uganda.
-
-    The SMARTlab UCD runs practice-based graduate programs and a research centre for designers, engineers, artists and technologists working across disciplines. It supports a suite of community engagement and creative industry projects around e-inclusion and design for ability, (amongst other topics). It houses a knowledge transfer centre, sensory studio and makerspace/VR lab where local communities can join forces with UCD academics, artists, technologists and game designers to make and test games and interactive tools.
-    <a href="/partners/smartlab">Learn about SMARTlab's project contributions.</a>
-
-    <h2><a href="https://uwezoyouth.org/">UWEZO Youth Empowerment Rwanda</a></h2>
-    UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.
-    <a href="/partners/smartlab">Learn about UWEZO's project contributions.</a>
-
-    <h2><a href="https://www.tigweb.org/">Taking IT Global</a></h2>
-    TakingITGlobal (TIG) empowers youth to understand and act on the world’s greatest challenges. Their free action guides, summer camps, and educator training help to engage students in deep learning through real-world problem solving. Through Connected North, TIG delivers culturally-relevant content to Canada’s most remote communities, supporting Indigenous youth leadership and cultural exchange.
-    <a href="/partners/taking-it-global">Learn about TakingITGlobal's project contributions.</a>
-
-    <h2><a href="https://tec.mx/en">Tecnológico de Monterrey</a></h2>
-    Through educational experiences Tecnológico de Monterrey helps students become agents of change. Their social development network of students and volunteers works year-round to provide training and guidance, and promotes an entrepreneurial spirit among marginalized communities, boosting innovation through productive projects. Tecnológico de Monterrey tackles the education gap in Mexico through Prepanet, a socially responsible online platform for anyone who wishes to finish their high school studies regardless of their schedule, age, or economic status.
-    <a href="/partners/tec">Learn about Tecnológico de Monterrey's project contributions.</a>
-
-
-</section>
+  {{ range .Pages }}
+    <div>
+      <h2> <a href="{{.Params.projecturl}}">{{.Title}}</a> </h2>
+      {{.Params.Summary}}
+      <!-- TODO: It would be better to have this string in the content instead of the template. -->
+       <a href="{{.RelPermalink}}">Learn about {{.Title}}'s project contributions.</a>
+    </div>
+  {{ end }}
+  <div>
+      <!-- TODO: This should be pulled out into its own partner content file. -->
+    <h2> <a href="https://uwezoyouth.org/">UWEZO Youth Empowerment</a> </h2>
+UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy
+and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.
+    <a href="smartlab">Learn about UWEZO's project contributions.</a>
+  </div>
+  </section>
 
 {{ end }}
