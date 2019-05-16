@@ -1,7 +1,7 @@
 ---
 title: Karisma
 projectUrl: "https://karisma.org.co/"
-summary: "Fundaci&oacute;n Karisma (Karisma) is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners.  [Learn about Karisma's project contributions.](karisma)"
+summary: "Fundación Karisma (Karisma) is a Colombian civil society organization founded in 2003 to ensure that the benefits of technology reach those most in need, and that technological developments promote human rights. It approaches activism from both legal and technological angles, working in coalition with local, regional and international partners."
 ---
 
 # [Fundaci&oacute;n Karisma (Karisma)](https://karisma.org.co/)

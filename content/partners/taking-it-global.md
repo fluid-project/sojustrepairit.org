@@ -1,7 +1,7 @@
 ---
 title: TakingITGlobal
 projecturl: "https://www.tigweb.org/"
-summary: "TakingITGlobal (TIG) empowers youth to understand and act on the world's greatest challenges. Their free action guides, summer camps, and educator training help to engage students in deep learning through real-world problem solving. Through Connected North, TIG delivers culturally-relevant content to Canada's most remote communities, supporting Indigenous youth leadership and cultural exchange. [Learn about TakingITGlobal's project contributions.](taking-it-global)"
+summary: "TakingITGlobal (TIG) empowers youth to understand and act on the world's greatest challenges. Their free action guides, summer camps, and educator training help to engage students in deep learning through real-world problem solving. Through Connected North, TIG delivers culturally-relevant content to Canada's most remote communities, supporting Indigenous youth leadership and cultural exchange."
 ---
 # [TakingITGlobal](https://www.tigweb.org/)
 
