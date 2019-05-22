@@ -39,6 +39,10 @@ figcaption > p {
     font-size: 0.85em;
 }
 
+main.container {
+    padding-top: 0;
+}
+
 *:focus {
     outline: 0.1em dashed #1F2B43;
 }
@@ -118,7 +122,6 @@ nav .current {
 .cta {
     background-color: #FFF;
     max-width: 487px;
-    margin-top: 2em;
     text-align: center;
 }
 
@@ -234,10 +237,6 @@ nav .current {
 
 .text-container a:hover {
     background-color: #C9EB96;
-}
-
-.text-container h1, .text-container h3 {
-    margin-top: 3em;
 }
 
 /* Partners */
@@ -537,9 +536,6 @@ footer span {
     }
     .cta h1 {
         font-size: 2.1em;
-    }
-    .cta {
-        margin-top: 5em;
     }
     .button {
         font-size: 1.2em;
