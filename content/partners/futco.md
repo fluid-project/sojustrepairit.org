@@ -1,6 +1,8 @@
 ---
 title: FUTCO
-type: text
+projectUrl: "http://tecnologicocomfenalco.edu.co/"
+summary: "Fundación Universitaria Tecnológico Comfenalco (FUTCO) is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.
+"
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
@@ -12,7 +14,7 @@ The general objective of the SJRK project is to promote and support the work of 
 
 ## Speaking about the value of diversity
 
-The first challenge, "Speaking about the value of diversity", has to do with the fact that narrating life experiences, social facts, politics, or events that mark the life of a person, community or nation, appeals to the use of individual and collective memory as a primary source to make history. This storytelling promotes participation and reveals diversity in society in such a way that we can recognize the ability of all of us to contribute to making society better. 
+The first challenge, "Speaking about the value of diversity", has to do with the fact that narrating life experiences, social facts, politics, or events that mark the life of a person, community or nation, appeals to the use of individual and collective memory as a primary source to make history. This storytelling promotes participation and reveals diversity in society in such a way that we can recognize the ability of all of us to contribute to making society better.
 
 This challenge was addressed in the platform http://cuentalo.org/, where the youth and youth groups that are participating in the project, as well as those who wish to participate, have the opportunity to tell their stories. The platform cuentalo.org captures the diversity of the city of Cartagena and challenges us to recognize it as a social value.
 
