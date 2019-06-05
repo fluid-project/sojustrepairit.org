@@ -24,4 +24,10 @@ The second challenge "Making visible the environmental data of the city of Carta
 
 This platform makes environmental data available to all citizens, using EPA and CARDIQUE, in a very simple and easy way to understand even for citizens who don’t possess technical knowledge. The expected impact of this initiative is that we all recognize the great environmental problem that the city of Cartagena faces and, above all, that through their interaction with the guard, citizens can support environmental care.
 
+![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot1.png "Data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
+
+
+
+![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot2.png "Data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
+
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
