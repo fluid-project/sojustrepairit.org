@@ -32,9 +32,9 @@ The second challenge "Making visible the environmental data of the city of Carta
 
 This platform makes environmental data available to all citizens, using EPA and CARDIQUE, in a very simple and easy way to understand even for citizens who don’t possess technical knowledge. The expected impact of this initiative is that we all recognize the great environmental problem that the city of Cartagena faces and, above all, that through their interaction with the guard, citizens can support environmental care.
 
-![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot1.png "Data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
+{{< figure src="/images/uploads/futco-data-viz-screenshot1.png" alt="Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" caption="Data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" >}}
 
-![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot2.png "Data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
+{{< figure src="/images/uploads/futco-data-viz-screenshot2.png" alt="Screenshot of data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" caption="Data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" >}}
 
 Read more about the Environmental Guardians in the Oak Foundation Annual General Report (p54) https://www.oakfnd.org/assets/oak-foundation-annual-report-2018-1.3.19.pdf.
 
