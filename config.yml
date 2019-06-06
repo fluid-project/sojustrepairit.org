@@ -1,3 +1,9 @@
 # baseURL: "https://sojustrepairit.org/"
 languageCode: "en-us"
 title: "Social Justice Repair Kit"
+collections:
+    name: 'partners'
+    fields:
+    - { label: 'title', name: 'title', widget: 'text' }
+    - { label: 'projectUrl', name: 'projectUrl', widget: 'text' }
+    - { label: 'summary', name: 'Summary', widget: 'text' }
