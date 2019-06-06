@@ -10,8 +10,6 @@ summary: >-
   populations, providing solutions for access to high quality education, high
   quality health care and several diverse social welfare programs.
 ---
-
-
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
 The Social Justice Repair Kit (SJRK) project in the city of Cartagena is coordinated by the Comfenalco University Technology Foundation (FUTCO); the District Secretary of Education actively participates through the Inclusive School project and various Cartagena youth groups of different kinds, including La Guardia Ambiental de Colombia (Environmental Guardians), Boys Ragga, Rizos Cartagena or Save Varadero.
@@ -26,7 +24,9 @@ The first challenge, "Speaking about the value of diversity", has to do with the
 
 This challenge was addressed in the platform http://cuentalo.org/, where the youth and youth groups that are participating in the project, as well as those who wish to participate, have the opportunity to tell their stories. The platform cuentalo.org captures the diversity of the city of Cartagena and challenges us to recognize it as a social value.
 
-![Screenshot  of the Cuentalo Page (http://cuentalo.org/)](/images/uploads/futco-cuentalo-search-bar.png "Cuentalo page")
+{{< figure src="/images/uploads/futco-cuentalo-search-bar.png" alt="Screenshot  of the Cuentalo Page (http://cuentalo.org/" caption="Cuentalo webpage" >}}
+
+{{< figure src="/images/uploads/futco-image-gaiteritos.png" alt="Photograph of Gaiteritos performing on flutes and drums" caption="Gaiteritos" >}}
 
 ## Making visible the environmental data of the city of Cartagena
 
