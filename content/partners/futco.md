@@ -36,7 +36,9 @@ This platform makes environmental data available to all citizens, using EPA and 
 
 {{< figure src="/images/uploads/futco-data-viz-screenshot2.png" alt="Screenshot of data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" caption="Data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap" >}}
 
+
 Read more about the Environmental Guardians in the Oak Foundation Annual General Report (p54) https://www.oakfnd.org/assets/oak-foundation-annual-report-2018-1.3.19.pdf.
+
 
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
 
