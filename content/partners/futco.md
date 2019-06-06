@@ -10,6 +10,8 @@ summary: >-
   populations, providing solutions for access to high quality education, high
   quality health care and several diverse social welfare programs.
 ---
+
+
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
 The Social Justice Repair Kit (SJRK) project in the city of Cartagena is coordinated by the Comfenalco University Technology Foundation (FUTCO); the District Secretary of Education actively participates through the Inclusive School project and various Cartagena youth groups of different kinds, including La Guardia Ambiental de Colombia (Environmental Guardians), Boys Ragga, Rizos Cartagena or Save Varadero.
@@ -54,6 +56,10 @@ A youth event called the First Event of Young People for Inclusion, Social Justi
 
 On Saturday, April 18 we carried out a training session for the teachers of the public educational institutions in the city of Cartagena de Indias.
 
+![](/images/uploads/futco-event-2-image-1.png)
+
+![](/images/uploads/futco-event-2-image-2.png)
+
 ### The INTERNATIONAL FORUM (ETEP-D): Education and technology in and for diversity
 
 The INTERNATIONAL FORUM (ETEP-D): Education and technology in and for diversity provides a space for local and international political dialogue on the advances in inclusion processes mediated by information technologies, as well as for the socialization of results of various research, development and innovation projects in the field of construction of an educational system in and for diversity.
@@ -65,3 +71,7 @@ The forum was carried out from 26 to 27 April, 2018, in the Universidad Pontific
  Jutta Treviranus of the Inclusive Design Research Centre, and Stephen Downes were invited speakers, and some of the work developed through the SJRK project was presented.
 
 The Forum also included a co-creation session involving students, teachers and staff, during which solutions to real problems in the educational system were co-designed.
+
+![](/images/uploads/futco-event-3-image-1.png)
+
+![](/images/uploads/futco-event-3-image-2.png)
