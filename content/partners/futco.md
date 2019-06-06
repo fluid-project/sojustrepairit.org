@@ -56,9 +56,9 @@ A youth event called the First Event of Young People for Inclusion, Social Justi
 
 On Saturday, April 18 we carried out a training session for the teachers of the public educational institutions in the city of Cartagena de Indias.
 
-{{< figure src="/images/uploads/futco-event-2-image-1.png" alt="Photograph showing 2 participants holding up a poster while a third participant speaks into a microphone" caption="Workshop participants presenting a poster" >}}
+{{< figure src="/images/uploads/futco-event-2-image-1.png" alt="Photograph showing Jutta standing together with some of the teachers and smiling" caption="Jutta and teachers at the training session" >}}
 
-{{< figure src="/images/uploads/futco-event-2-image-2.png" alt="Photograph showing several particpants sitting together around a table and having a discussion" caption="Participants at the workshop" >}}
+{{< figure src="/images/uploads/futco-event-2-image-2.png" alt="Group photograph showing all the participants at the training session" caption="Group photograph" >}}
 
 ### The INTERNATIONAL FORUM (ETEP-D): Education and technology in and for diversity
 
@@ -72,6 +72,6 @@ The forum was carried out from 26 to 27 April, 2018, in the Universidad Pontific
 
 The Forum also included a co-creation session involving students, teachers and staff, during which solutions to real problems in the educational system were co-designed.
 
-![](/images/uploads/futco-event-3-image-1.png)
+{{< figure src="/images/uploads/futco-event-3-image-1.png" alt="Photograph showing 2 participants holding up a poster while a third participant speaks into a microphone" caption="Workshop participants presenting a poster" >}}
 
-![](/images/uploads/futco-event-3-image-2.png)
+{{< figure src="/images/uploads/futco-event-3-image-2.png" alt="Photograph showing several particpants sitting together around a table and having a discussion" caption="Participants at the workshop" >}}
