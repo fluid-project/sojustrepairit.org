@@ -42,6 +42,7 @@ Read more about the Environmental Guardians in the Oak Foundation Annual General
 
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
 
+
 ## Events
 
 ### First Event of young people for inclusion, social justice and the environment
