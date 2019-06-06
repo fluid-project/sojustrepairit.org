@@ -1,8 +1,14 @@
 ---
 title: FUTCO
-projectUrl: "http://tecnologicocomfenalco.edu.co/"
-summary: "Fundación Universitaria Tecnológico Comfenalco (FUTCO) is a higher educational institution founded in 1984, whose mission is training people within an innovative research and entrepreneurial culture. The university aims to positively impact the social environment based on the development of applied research and development projects. FUTCO aims to support vulnerable populations, providing solutions for access to high quality education, high quality health care and several diverse social welfare programs.
-"
+projectUrl: 'http://tecnologicocomfenalco.edu.co/'
+summary: >-
+  Fundación Universitaria Tecnológico Comfenalco (FUTCO) is a higher educational
+  institution founded in 1984, whose mission is training people within an
+  innovative research and entrepreneurial culture. The university aims to
+  positively impact the social environment based on the development of applied
+  research and development projects. FUTCO aims to support vulnerable
+  populations, providing solutions for access to high quality education, high
+  quality health care and several diverse social welfare programs.
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
@@ -28,8 +34,8 @@ This platform makes environmental data available to all citizens, using EPA and 
 
 ![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot1.png "Data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
 
-
-
 ![Screenshot of data selection of the water sampling in the Cienaga de la Virgen system using OpenStreetMap (http://guardiaambiental.org)](/images/uploads/futco-data-viz-screenshot2.png "Data visualization of the water sampling in the Cienaga de la Virgen system using OpenStreetMap")
+
+Read more about the Environmental Guardians in the Oak Foundation Annual General Report (p54) https://www.oakfnd.org/assets/oak-foundation-annual-report-2018-1.3.19.pdf.
 
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
