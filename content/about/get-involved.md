@@ -10,4 +10,4 @@ This project is being created through iterative cycles of co-design with youth a
 
 If you are interested in being involved, please get in touch! You can subscribe to our [mailing list](https://lists.idrc.ocadu.ca/mailman/listinfo/sojustrepairit) or collaborate with us on the [Fluid Project Wiki](https://wiki.fluidproject.org/display/fluid/Social+Justice+Repair+Kit).
 
-![](/images/uploads/fucto-image-palenque-children.png)
+{{< figure src="/images/uploads/fucto-image-palenque-children.png" alt="Photograph showing several children in uniform, teachers and visitors posing in a classroom, laughing and smiling" caption="Visit to a classroom in Palenque, Colombia, as part of the SJRK project" >}}
