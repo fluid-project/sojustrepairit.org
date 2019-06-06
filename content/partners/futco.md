@@ -46,7 +46,7 @@ Read more about the Environmental Guardians in the Oak Foundation Annual General
 
 A youth event called the First Event of Young People for Inclusion, Social Justice and the Environment was organized in 2018 and was attended by 500 young activists from various youth groups in the city.
 
-![Screenshot of event invitation showing the title, location, date and time of the event as well as the event sponsors ](/images/uploads/futco-event-1.png "Event invitation")
+{{< figure src="/images/uploads/futco-event-1.png" alt="Screenshot of event invitation showing the title, location, date and time of the event as well as the event sponsors" caption="Event invitation" >}}
 
 ### Training about inclusion with Teachers from Secretary of Education in Cartagena de Indias
 
