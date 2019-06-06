@@ -2,6 +2,8 @@
 title: Get Involved
 type: get-involved
 ---
+![](/images/uploads/fucto-image-palenque-children.png)
+
 ## Get Involved
 
 {{< heading-rule >}}
