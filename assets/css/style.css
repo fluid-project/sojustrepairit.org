@@ -42,7 +42,9 @@ figcaption > p {
 main.container {
     padding-top: 0;
 }
-
+section.container.text-container {
+    padding-top: 0;
+}
 *:focus {
     outline: 0.1em dashed #1F2B43;
 }
