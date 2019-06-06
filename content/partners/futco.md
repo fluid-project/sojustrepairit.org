@@ -26,8 +26,6 @@ This challenge was addressed in the platform http://cuentalo.org/, where the you
 
 {{< figure src="/images/uploads/futco-cuentalo-search-bar.png" alt="Screenshot  of the Cuentalo Page (http://cuentalo.org/" caption="Cuentalo webpage" >}}
 
-{{< figure src="/images/uploads/futco-image-gaiteritos.png" alt="Photograph of Gaiteritos performing on flutes and drums" caption="Gaiteritos" >}}
-
 ## Making visible the environmental data of the city of Cartagena
 
 The second challenge "Making visible the environmental data of the city of Cartagena" seeks to create citizen awareness about the importance of caring for the environment, supported by data representing the environmental reality of the city. This challenge was addressed through the environmental mapping platform created by the Colombian Environmental Guard: http://guardiaambiental.org/mapas
@@ -75,3 +73,7 @@ The Forum also included a co-creation session involving students, teachers and s
 {{< figure src="/images/uploads/futco-event-3-image-1.png" alt="Photograph showing 2 participants holding up a poster while a third participant speaks into a microphone" caption="Workshop participants presenting a poster" >}}
 
 {{< figure src="/images/uploads/futco-event-3-image-2.png" alt="Photograph showing several particpants sitting together around a table and having a discussion" caption="Participants at the workshop" >}}
+
+### Ongoing SJRK Work
+
+{{< figure src="/images/uploads/futco-image-gaiteritos.png" alt="Photograph of Gaiteritos performing on flutes and drums" caption="Gaiteritos" >}}
