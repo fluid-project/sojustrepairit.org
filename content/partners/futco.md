@@ -48,6 +48,8 @@ A youth event called the First Event of Young People for Inclusion, Social Justi
 
 {{< figure src="/images/uploads/futco-event-1.png" alt="Screenshot of event invitation showing the title, location, date and time of the event as well as the event sponsors" caption="Event invitation" >}}
 
+{{< figure src="/images/uploads/futco-event-1-image-2.png" alt="Photograph showing musicians performing with saxophones, drums and singing" caption="Musical performance at the event >}}
+
 ### Training about inclusion with Teachers from Secretary of Education in Cartagena de Indias
 
 On Saturday, April 18 we carried out a training session for the teachers of the public educational institutions in the city of Cartagena de Indias.
