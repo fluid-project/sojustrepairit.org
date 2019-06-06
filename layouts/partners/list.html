@@ -11,8 +11,7 @@
     <div>
       <h2> <a href="{{.Params.projecturl}}">{{.Title}}</a> </h2>
       {{.Params.Summary}}
-      <!-- TODO: It would be better to have this string in the content instead of the template. -->
-       <a href="{{.RelPermalink}}">Learn about {{.Title}}'s project contributions.</a>
+       <a class="partner-link" href="{{.RelPermalink}}">{{replace .Parent.Params.aboutPartner "partnerName" .Title}}</a>
     </div>
   {{ end }}
   <div>
@@ -20,7 +19,7 @@
     <h2> <a href="https://uwezoyouth.org/">UWEZO Youth Empowerment</a> </h2>
 UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy
 and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.
-    <a href="smartlab">Learn about UWEZO's project contributions.</a>
+<a class="partner-link" href="smartlab">{{replace .Params.aboutPartner "partnerName" "UWEZO"}}</a>
   </div>
   </section>
 
