@@ -56,10 +56,6 @@ A youth event called the First Event of Young People for Inclusion, Social Justi
 
 On Saturday, April 18 we carried out a training session for the teachers of the public educational institutions in the city of Cartagena de Indias.
 
-![](/images/uploads/futco-event-2-image-1.png)
-
-![](/images/uploads/futco-event-2-image-2.png)
-
 {{< figure src="/images/uploads/futco-event-2-image-1.png" alt="Photograph showing 2 participants holding up a poster while a third participant speaks into a microphone" caption="Workshop participants presenting a poster" >}}
 
 {{< figure src="/images/uploads/futco-event-2-image-2.png" alt="Photograph showing several particpants sitting together around a table and having a discussion" caption="Participants at the workshop" >}}
