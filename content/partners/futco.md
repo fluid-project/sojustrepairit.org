@@ -76,6 +76,6 @@ The Forum also included a co-creation session involving students, teachers and s
 
 ### Ongoing SJRK Work
 
-{{< figure src="/images/uploads/futco-image-gaiteritos.png" alt="Photograph of Gaiteritos performing on flutes and drums" caption="Gaiteritos" >}}
+{{< figure src="/images/uploads/futco-image-gaiteritos.png" alt="Photograph of Gaiteritos performing on flutes and drums" caption="Gaiteritos in Palenque" >}}
 
 {{< figure src="/images/uploads/futco-image-jutta-en-palenque.png" alt="Photograph of Jutta interacting with students in a classroom in Palenque" caption="Jutta visits Palenque" >}}
