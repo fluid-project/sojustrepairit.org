@@ -39,3 +39,22 @@ This platform makes environmental data available to all citizens, using EPA and 
 Read more about the Environmental Guardians in the Oak Foundation Annual General Report (p54) https://www.oakfnd.org/assets/oak-foundation-annual-report-2018-1.3.19.pdf.
 
 {{< figure src="/images/uploads/guardians-in-the-water.png" alt="An image showing several youth in uniform in a single file line walking in ankle-deep water in what appears to be a lake or inlet." caption="The Environmental Guardians at work." >}}
+
+# Events
+## First Event of young people for inclusion, social justice and the environment
+
+A youth event called the First Event of Young People for Inclusion, Social Justice and the Environment was organized in 2018 and was attended by 500 young activists from various youth groups in the city.
+
+## Training about inclusion with Teachers from Secretary of Education in Cartagena de Indias
+
+On Saturday, April 18 we carried out a training session for the teachers of the public educational institutions in the city of Cartagena de Indias.
+
+## The INTERNATIONAL FORUM (ETEP-D): Education and technology in and for diversity 
+
+The INTERNATIONAL FORUM (ETEP-D): Education and technology in and for diversity provides a space for local and international political dialogue on the advances in inclusion processes mediated by information technologies, as well as for the socialization of results of various research, development and innovation projects in the field of construction of an educational system in and for diversity.
+
+ETEP-D VIII, Open Education for Peace is the space created to reflect on openness as a great opportunity to achieve true social justice that enables and provokes inclusion, building a stable and lasting Peace in Colombia and throughout the Ibero-American region.
+
+The forum was carried out from 26 to 27 April, 2018, in the Universidad Pontificia Bolivariana, Sede Medellín. Jutta Treviranus of the Inclusive Design Research Centre, and Stephen Downes were invited speakers, and some of the work developed through the SJRK project was presented.
+
+The Forum also included a co-creation session involving students, teachers and staff, during which solutions to real problems in the educational system were co-designed.
