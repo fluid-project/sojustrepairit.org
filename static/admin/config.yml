@@ -36,8 +36,8 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - { label: 'projectUrl', name: 'projectUrl', widget: 'text' }
-      - { label: 'summary', name: 'summary', widget: 'text' }
+      - {label: "projectUrl", name: "projectUrl", widget: "string"}
+      - {label: "summary", name: "summary", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"

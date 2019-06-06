@@ -258,6 +258,10 @@ nav .current {
     text-transform: uppercase;
 }
 
+.partner-link {
+    display: block;
+}
+
 /* Partners end */
 
 /* Resources */
