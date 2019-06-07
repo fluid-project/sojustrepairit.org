@@ -1,6 +1,8 @@
 ---
 title: Partners | SJRK
-aboutPartner: "Learn about partnerName's project contributions."
+projectUrl: '  '
+summary: '  '
+aboutPartner: Learn about partnerName's project contributions.
 ---
 # Partners
 

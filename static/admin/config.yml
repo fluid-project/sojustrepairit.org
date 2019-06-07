@@ -36,8 +36,9 @@ collections:
     identifier_field: title
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "projectUrl", name: "projectUrl", widget: "string"}
-      - {label: "summary", name: "summary", widget: "string"}
+      - {label: "projectUrl", name: "projectUrl", widget: "string", default: "http://sojustrepairit.org"}
+      - {label: "summary", name: "summary", widget: "string", default: "  "}
+      - {label: "aboutPartner", name: "aboutPartner", widget: "string", default: "  "}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"

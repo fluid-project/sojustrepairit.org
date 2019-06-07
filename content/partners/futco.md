@@ -9,6 +9,7 @@ summary: >-
   research and development projects. FUTCO aims to support vulnerable
   populations, providing solutions for access to high quality education, high
   quality health care and several diverse social welfare programs.
+aboutPartner: '  '
 ---
 # [Fundaci&oacute;n Universitaria Tecnol&oacute;gico Comfenalco (FUTCO)](http://tecnologicocomfenalco.edu.co/)
 
