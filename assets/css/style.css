@@ -240,6 +240,12 @@ nav .current {
     background-color: #C9EB96;
 }
 
+.two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+
 /* Partners */
 .partner-section > h2 {
     color: #1F2B43;

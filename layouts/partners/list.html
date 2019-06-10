@@ -22,8 +22,11 @@ and inclusive education, information on reproductive health, adaptive technology
 <a class="partner-link" href="smartlab">{{replace .Params.aboutPartner "partnerName" "UWEZO"}}</a>
   </div>
   </section>
-  <p>
-      <img src="{{.Params.imgURL}}"></img>
-  </p>
+  <section class="container text-container">
+      <figure>
+      <img src={{.Params.imgURL}} alt={{.Params.imgAlt}} />
+      <figcaption>{{.Params.imgCap}}</figcaption>
+  </figure>
+  </section>
 
 {{ end }}

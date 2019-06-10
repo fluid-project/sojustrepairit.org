@@ -40,6 +40,8 @@ collections:
       - {label: "summary", name: "summary", widget: "string", default: "  "}
       - {label: "aboutPartner", name: "aboutPartner", widget: "string", default: "  "}
       - {label: "imgURL", name: "imgURL", widget: "string"}
+      - {label: "imgAlt", name: "imgAlt", widget: "string"}
+      - {label: "imgCap", name: "imgCap", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"
@@ -51,4 +53,6 @@ collections:
       - {label: "type", name: "type", widget: "string"}
       - {label: "weight", name: "type", widget: "number"}
       - {label: "imgURL", name: "imgURL", widget: "string"}
+      - {label: "imgAlt", name: "imgAlt", widget: "string"}
+      - {label: "imgCap", name: "imgCap", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

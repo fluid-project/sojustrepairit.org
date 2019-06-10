@@ -19,9 +19,12 @@
 </section>
 {{ end }}
 
-<p>
-    <img src="{{.Params.imgURL}}"></img>
-</p>
+<section class="container text-container">
+    <figure>
+    <img src={{.Params.imgURL}} alt={{.Params.imgAlt}} />
+    <figcaption>{{.Params.imgCap}}</figcaption>
+</figure>
+</section>
 
 <script src="../js/resources.js"></script>
 

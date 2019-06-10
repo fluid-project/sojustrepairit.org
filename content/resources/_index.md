@@ -2,6 +2,8 @@
 title: Resources | SJRK
 type: 0
 imgURL: '/images/uploads/platohedro-group-may-2018.png'
+imgAlt: '  '
+imgCap: '  '
 ---
 # Resources
 

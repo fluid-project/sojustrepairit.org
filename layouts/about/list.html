@@ -3,13 +3,20 @@
 {{ define "main" }}
 
 <section class="container text-container">
+    <div class="two-col">
+    <div>
     {{ .Content }}
+    </div>
+    <div>
+        <img src="/images/uploads/platohedro-group-may-2018.png"></img>
+    </div>
+    </div>
 </section>
 
 <section class="container text-container">
-{{ range where .Site.Pages "Type" "=" "get-involved" }} 
+{{ range where .Site.Pages "Type" "=" "get-involved" }}
 
-    {{ .Content }} 
+    {{ .Content }}
 
 {{ end }}
 </section>
