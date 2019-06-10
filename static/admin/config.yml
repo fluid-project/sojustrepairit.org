@@ -39,6 +39,7 @@ collections:
       - {label: "projectUrl", name: "projectUrl", widget: "string", default: "http://sojustrepairit.org"}
       - {label: "summary", name: "summary", widget: "string", default: "  "}
       - {label: "aboutPartner", name: "aboutPartner", widget: "string", default: "  "}
+      - {label: "imgURL", name: "imgURL", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "resources"
     label: "Resources"
@@ -49,4 +50,5 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "type", name: "type", widget: "string"}
       - {label: "weight", name: "type", widget: "number"}
+      - {label: "imgURL", name: "imgURL", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

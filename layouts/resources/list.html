@@ -12,12 +12,16 @@
     <button class="resources-hideAll secondary-button button">Hide All</button>
 </section>
 
-{{ range where .Site.Pages.ByWeight "Type" "=" "resource" }} 
+{{ range where .Site.Pages.ByWeight "Type" "=" "resource" }}
 <section class="resource-section container text-container">
     {{ .Content }}
     </div>
 </section>
 {{ end }}
+
+<p>
+    <img src="{{.Params.imgURL}}"></img>
+</p>
 
 <script src="../js/resources.js"></script>
 
