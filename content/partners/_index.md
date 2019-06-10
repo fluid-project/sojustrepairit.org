@@ -3,7 +3,7 @@ title: Partners | SJRK
 projectUrl: '  '
 summary: '  '
 aboutPartner: Learn about partnerName's project contributions.
-imgURL: /images/uploads/drones.png
+imgURL: /images/uploads/pasted-image-0.png
 ---
 # Partners
 
