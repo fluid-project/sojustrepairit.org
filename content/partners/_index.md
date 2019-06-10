@@ -3,6 +3,7 @@ title: Partners | SJRK
 projectUrl: '  '
 summary: '  '
 aboutPartner: Learn about partnerName's project contributions.
+imgURL: '/images/uploads/platohedro-group-may-2018.png'
 ---
 # Partners
 
