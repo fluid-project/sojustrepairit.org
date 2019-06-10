@@ -4,8 +4,12 @@ projectUrl: '  '
 summary: '  '
 aboutPartner: Learn about partnerName's project contributions.
 imgURL: /images/uploads/pasted-image-0.png
-imgAlt: '  '
-imgCap: '  '
+imgAlt: >-
+  A photo of a group of young people taken from behind. They are sitting on
+  chairs and in wheelchairs while two people who are gesturing stand in front.
+imgCap: >-
+  A group of young people gathered for a workshop related to inclusion at UWEZO
+  in Rwanda.
 ---
 # Partners
 
