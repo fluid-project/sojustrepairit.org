@@ -33,9 +33,9 @@ figure {
 }
 
 figcaption > p {
-    margin: .3em 0;
+    margin: 0;
     font-style: italic;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 0.85em;
 }
 
@@ -260,6 +260,8 @@ nav .current {
 
 .partner-link {
     display: block;
+    padding-top: .8em;
+    padding-bottom: .25em;
 }
 
 /* Partners end */
