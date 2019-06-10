@@ -2,8 +2,10 @@
 title: Resources | SJRK
 type: 0
 imgURL: /images/uploads/drones.png
-imgAlt: '  '
-imgCap: '  '
+imgAlt: >-
+  A video still showing young people gathered in a room, with their right arms
+  outstretched and palms up, with drones hovering above their hands.
+imgCap: Video still from Create to Learn overview.
 ---
 # Resources
 
