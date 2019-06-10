@@ -5,7 +5,7 @@ imgURL: /images/uploads/drones.png
 imgAlt: >-
   A video still showing young people gathered in a room, with their right arms
   outstretched and palms up, with drones hovering above their hands.
-imgCap: Video still from Create to Learn overview.
+imgCap: Video still from TakingITGlobal's Create to Learn overview.
 ---
 # Resources
 
