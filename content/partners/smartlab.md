@@ -19,6 +19,7 @@ imgCap: '  '
 # [UWEZO Youth Empowerment](https://uwezoyouth.org/)
 
 # Aniyamuzaala James Rwampigi
+James is an Inclusive designer specializing in public policies, accessibility standards and assistive technology. He provides technical assistance and advice on the application of the Inclusive design principles in design of projects, programmes, research work and public policies.  He is supporting the  implementation of the youth with learning difference project in Rwanda in partnership with UWEZO youth empowerment. James is pursuing a PhD Inclusive Design and Creative  Technology Innovation  at  SMartLab, University College Dublin.  
 
 ## Matching the mismatch, Social Justice and Young people with learning differences in Rwanda.
 
