@@ -3,9 +3,9 @@ title: FUTCO
 projectUrl: 'http://tecnologicocomfenalco.edu.co/'
 summary: >-
   Fundación Universitaria Tecnológico Comfenalco (FUTCO) is a higher educational
-  institution in Cartagena, Colombia founded in 1984, whose mission is training
-  people within an innovative research and entrepreneurial culture. The
-  university aims to positively impact the social environment based on the
+  institution located in Cartagena, Colombia and founded in 1984, whose mission
+  is training people within an innovative research and entrepreneurial culture.
+  The university aims to positively impact the social environment based on the
   development of applied research and development projects. FUTCO aims to
   support vulnerable populations, providing solutions for access to high quality
   education, high quality health care and several diverse social welfare
