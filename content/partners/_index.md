@@ -1,7 +1,7 @@
 ---
 title: Partners | SJRK
-projectUrl: '  '
-summary: '  '
+projectUrl: 'https://uwezoyouth.org/'
+summary: 'UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.'
 aboutPartner: Learn about partnerName's project contributions.
 imgURL: /images/uploads/pasted-image-0.png
 imgAlt: >-

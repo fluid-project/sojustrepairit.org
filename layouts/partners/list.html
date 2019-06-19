@@ -16,10 +16,9 @@
   {{ end }}
   <div>
       <!-- TODO: This should be pulled out into its own partner content file. -->
-    <h2> <a href="https://uwezoyouth.org/">UWEZO Youth Empowerment</a> </h2>
-UWEZO Youth Empowerment Rwanda is an organisation by and for youth with disabilities, offering advocacy
-and inclusive education, information on reproductive health, adaptive technology and entrepreneurship.
-<a class="partner-link" href="smartlab">{{replace .Params.aboutPartner "partnerName" "UWEZO"}}</a>
+    <h2> <a href="{{.Params.projecturl}}">UWEZO Youth Empowerment</a> </h2>
+    {{.Params.Summary}}
+    <a class="partner-link" href="smartlab">{{replace .Params.aboutPartner "partnerName" "UWEZO"}}</a>
   </div>
   </section>
   <section class="container text-container">
