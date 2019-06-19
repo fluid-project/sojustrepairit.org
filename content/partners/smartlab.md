@@ -14,8 +14,11 @@ imgURL: '  '
 imgAlt: '  '
 imgCap: '  '
 ---
-# [Aniyamuzaala James Rwampigi/SMARTlab](http://smartlab-ie.com/)
+# [SMARTlab](http://smartlab-ie.com/)
+
 # [UWEZO Youth Empowerment](https://uwezoyouth.org/)
+
+# Aniyamuzaala James Rwampigi
 
 ## Matching the mismatch, Social Justice and Young people with learning differences in Rwanda.
 
