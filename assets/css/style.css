@@ -3,8 +3,7 @@
 body {
     color: #1F2B43;
     font-family: "Source Sans Pro", sans-serif;
-    background: #FFF url("../images/background.svg") 0 -130px no-repeat;
-    background-size: cover;
+    background: #FFF url("../images/background.png");
     margin: 0;
     padding: 0;
 }
