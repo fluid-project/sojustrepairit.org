@@ -1,7 +1,9 @@
 ---
-title: "Inclusive Design Guides"
+title: Inclusive Design Guides
 type: resource
-weight: 4
+imgURL: ' '
+imgAlt: ' '
+imgCap: ' '
 ---
 {{< resource title="Inclusive Design Guides" >}}
 
@@ -14,6 +16,10 @@ This ever-evolving guide can be applied to digital design, the design of service
 ### [The Inclusive Learning Design Handbook](https://handbook.floeproject.org/)
 
 The Floe Inclusive Learning Design Handbook is a free Open Educational Resource (OER) designed to assist teachers, content creators, web developers, and others in creating adaptable and personalizable educational resources that can meet the needs of learners with a diversity of learning styles.
+
+### [SDG Inclusive Design Toolkit](https://research.tigweb.org/cristian/sdgid/)
+
+The goal of this guide is to support youth (and you!) to create more inclusive projects with a greater impact across our communities and the world. Based on the UN Sustainable Development Goals. 
 
 ### [Growing Inclusion & Participation (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-3094/GrowingInclusionParticipation.pdf)
 
