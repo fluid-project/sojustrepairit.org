@@ -1,11 +1,17 @@
 ---
-title: "Learning Tools"
+title: Learning Tools
 type: resource
-weight: 8
+imgURL: '  '
+imgAlt: '  '
+imgCap: '  '
 ---
 {{< resource title="Learning Tools" >}}
 
 <p class="resource-intro">Many successful projects enable learning in various contexts. What tools have we found useful in making learning environments more inclusive?</p>
+
+### [Environmental Guardians (Colombia) - Online Courses](https://sjrk.edunext.io/)
+
+The Environmental Guardians, in Cartagena, Colombia, have developed a number of online courses related to youth and environmental protection and activism, including Environmental Management and Sustainable Development, Youth Public Policies, and Save the Virgin Marsh. Learners must create an account to access these courses. 
 
 ### [TIGed Learning Platform](https://www.tigweb.org/tiged/about.html)
 
