@@ -1,7 +1,7 @@
 ---
 title: "Youth Activism Resources"
 type: resource
-weight: 2
+weight: 1
 ---
 {{< resource title="Youth Activism" >}}
 

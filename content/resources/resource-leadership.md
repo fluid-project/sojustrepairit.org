@@ -1,6 +1,7 @@
 ---
 title: Youth Leadership Resources
 type: resource
+weight: 9
 ---
 {{< resource title="Youth Leadership" >}}
 

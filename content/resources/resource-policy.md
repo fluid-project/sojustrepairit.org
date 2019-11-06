@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Policy and Strategy Resources"
 type: resource
-weight: 10
+weight: 8
 ---
 {{< resource title="Inclusive Policy and Strategy" >}}
 

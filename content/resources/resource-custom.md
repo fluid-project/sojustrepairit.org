@@ -1,7 +1,7 @@
 ---
 title: "Content Customization Tools"
 type: resource
-weight: 9
+weight: 7
 ---
 {{< resource title="Content Customization Tools" >}}
 
