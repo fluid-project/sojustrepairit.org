@@ -1,9 +1,7 @@
 ---
 title: Inclusive Design Guides
 type: resource
-imgURL: ' '
-imgAlt: ' '
-imgCap: ' '
+weight: 2
 ---
 {{< resource title="Inclusive Design Guides" >}}
 
@@ -19,7 +17,7 @@ The Floe Inclusive Learning Design Handbook is a free Open Educational Resource 
 
 ### [SDG Inclusive Design Toolkit](https://research.tigweb.org/cristian/sdgid/)
 
-The goal of this guide is to support youth (and you!) to create more inclusive projects with a greater impact across our communities and the world. Based on the UN Sustainable Development Goals. 
+The goal of this guide is to support youth (and you!) to create more inclusive projects with a greater impact across our communities and the world. Based on the UN Sustainable Development Goals.
 
 ### [Growing Inclusion & Participation (SALTO Youth)](https://www.salto-youth.net/downloads/4-17-3094/GrowingInclusionParticipation.pdf)
 

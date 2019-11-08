@@ -1,7 +1,7 @@
 ---
 title: "Learning to Learn Resources"
 type: resource
-weight: 7
+weight: 5
 ---
 {{< resource title="Learning to Learn" >}}
 

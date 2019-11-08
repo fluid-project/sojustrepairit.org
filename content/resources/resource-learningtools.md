@@ -1,9 +1,7 @@
 ---
 title: Learning Tools
 type: resource
-imgURL: '  '
-imgAlt: '  '
-imgCap: '  '
+weight: 6
 ---
 {{< resource title="Learning Tools" >}}
 
@@ -11,7 +9,7 @@ imgCap: '  '
 
 ### [Environmental Guardians (Colombia) - Online Courses](https://sjrk.edunext.io/)
 
-The Environmental Guardians, in Cartagena, Colombia, have developed a number of online courses related to youth and environmental protection and activism, including Environmental Management and Sustainable Development, Youth Public Policies, and Save the Virgin Marsh. Learners must create an account to access these courses. 
+The Environmental Guardians, in Cartagena, Colombia, have developed a number of online courses related to youth and environmental protection and activism, including Environmental Management and Sustainable Development, Youth Public Policies, and Save the Virgin Marsh. Learners must create an account to access these courses.
 
 ### [TIGed Learning Platform](https://www.tigweb.org/tiged/about.html)
 
@@ -31,9 +29,8 @@ The Kimera Local Network is a wireless network being developed by Karisma Founda
 
 ### [OER2Go (World Possible)](https://worldpossible.org/oer2go)
 
-OER2Go is a collection of educational websites re-packaged for download and offline use. It allows teachers, schools, and other educational organizations to deploy OERs in areas where internet access is limited, expensive, or non-existent. 
+OER2Go is a collection of educational websites re-packaged for download and offline use. It allows teachers, schools, and other educational organizations to deploy OERs in areas where internet access is limited, expensive, or non-existent.
 
 ### [Rachel (World Possible)](https://worldpossible.org/rachel)
 
 Rachel is a portable plug-and-play server which stores educational websites and makes that content available over any local (offline) wireless connection. 
-

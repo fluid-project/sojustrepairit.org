@@ -1,7 +1,7 @@
 ---
 title: "Inclusive Design Practice Resources"
 type: resource
-weight: 5
+weight: 3
 ---
 {{< resource title="Inclusive Design Practice" >}}
 

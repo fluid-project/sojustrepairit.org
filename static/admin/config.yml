@@ -51,7 +51,7 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "type", name: "type", widget: "string"}
-      - {label: "weight", name: "type", widget: "number"}
+      - {label: "weight", name: "weight", widget: "number"}
       - {label: "imgURL", name: "imgURL", widget: "string"}
       - {label: "imgAlt", name: "imgAlt", widget: "string"}
       - {label: "imgCap", name: "imgCap", widget: "string"}

@@ -1,7 +1,7 @@
 ---
 title: "Storytelling Resources"
 type: resource
-weight: 6
+weight: 4
 ---
 {{< resource title="Storytelling" >}}
 
