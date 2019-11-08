@@ -15,6 +15,7 @@
             {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "about" "name" "About" "link" "/about/_index.md" )) " \n" | safeHTML -}}
             {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "resources" "name" "Resources" "link" "/resources/_index.md" )) " \n" | safeHTML -}}
             {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "partners" "name" "Partners" "link" "/partners/_index.md" )) " \n" | safeHTML -}}
+            {{- trim (partial "navbarEntry" (dict "Page" . "currentSection" $currentSection "entrySection" "" "name" "Stories" "link" "http://stories.sojustrepairit.org" "external" "true" )) " \n" | safeHTML -}}
         </ul>
     </nav>
 </header>
