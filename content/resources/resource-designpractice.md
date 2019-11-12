@@ -23,11 +23,11 @@ Oak Foundation’s Learning Differences Programme partnered with Open Source Lea
 
 This booklet is intended to guide youth workers and/or youth leaders on how to work with marginalized young people. It begins by looking at learning in the context of Youth in Action activities and goes on to explore how Youthpass can best be implemented.
 
-### [What is an inclusive culture - *Burton Blatt Institute at Syracuse University*](http://bbi.syr.edu/projects/Demand_Side_Models/docs/a_inclusive_culture.htm)
+### [What is an inclusive culture - Burton Blatt Institute at Syracuse University](http://bbi.syr.edu/projects/Demand_Side_Models/docs/a_inclusive_culture.htm)
 
 An inclusive culture involves the full and successful integration of diverse people into a workplace or industry. While an inclusive culture certainly encompasses a commitment to workplace diversity, (1) it is not limited simply to basic representation; it indicates a climate in which respect, equity, and positive recognition of differences are all cultivated, and the social and institutional response to disability poses no barrier to a positive employment experience.
 
-### [*Ten Ways to Implement an Inclusive Work Culture*](https://www.fastcompany.com/1692198/ten-ways-implement-inclusive-work-culture)
+### [Ten Ways to Implement an Inclusive Work Culture](https://www.fastcompany.com/1692198/ten-ways-implement-inclusive-work-culture)
 
 In order to reach the highest level of success, you need to be dynamic leader and create dynamic organizations where employees love to do their best work, and customers love to do business. Based on my work as an organizational development consultant, my observations, and interviews with executives and employees from large, small, and medium size organizations, I’ve developed the “Six I” process to create workplace cultures where people want to work and customers want to buy.
 

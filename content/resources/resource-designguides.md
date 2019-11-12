@@ -47,15 +47,15 @@ This booklet aims to increase the inclusion of young offenders, ex-offenders and
 
 This guide helps to create a framework for Inclusion & Diversity projects with young people.
 
-### [*Inclusive Workplace Toolkit from Colorado Inclusive Funders*](http://www.coloradoinclusivefunders.org/uploads/1/1/5/0/11506731/inclusive_workplace_toolkit.pdf)
+### [Inclusive Workplace Toolkit from Colorado Inclusive Funders](http://www.coloradoinclusivefunders.org/uploads/1/1/5/0/11506731/inclusive_workplace_toolkit.pdf)
 
 With a goal of promoting broader definitions of diversity and inclusion, we were inspired in 2006 to engage in a dialogue with existing and prospective grantees. We aimed to learn how other organizations are committed to furthering equality and inclusion in Colorado, as well as share our own thoughts about what that means.
 
-### [*Embracing diversity: toolkit for creating inclusive, learning-friendly environments by UNESCO*](http://unesdoc.unesco.org/images/0013/001375/137522e.pdf)
+### [Embracing diversity: toolkit for creating inclusive, learning-friendly environments by UNESCO](http://unesdoc.unesco.org/images/0013/001375/137522e.pdf)
 
 This Toolkit offers a holistic, practical perspective on how schools and classrooms can become more inclusive and learning-friendly. This Toolkit is meant to be user-friendly and a means of inspiration for teachers. I hope you will find the Booklets in this Toolkit useful in gaining support for inclusive, learning-friendly environments and in creating and managing them through the full participation of educators, students, parents, and community members.
 
-### [*AICPA recruitment and retention toolkit*](http://www.aicpa.org/Career/DiversityInitiatives/DownloadableDocuments/Recruitment-Retention-Toolkit.pdf )
+### [AICPA recruitment and retention toolkit](http://www.aicpa.org/Career/DiversityInitiatives/DownloadableDocuments/Recruitment-Retention-Toolkit.pdf )
 
 This toolkit was written to help leaders understand how recruiting and retaining a diverse workforce can help them better achieve their companies’ overall talent recruitment and retention goals. It is also meant to provide support on how to integrate diversity recruiting and retention techniques into broader day-to-day business and personal activities.
 
