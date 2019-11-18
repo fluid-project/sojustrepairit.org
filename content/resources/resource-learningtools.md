@@ -23,7 +23,7 @@ Code to Learn offers free professional learning for Canadians on coding with you
 
 Kiwix provides access to the entire contents of Wikipedia without an internet connection. It is a part of the Kimera Local Network, which was installed in several rural schools in Fresno, a small town in the mountains of Colombia. Kiwix is available to students and teachers who use the platform to access and upload information, thereby overcoming the connectivity barriers that arise in their context.
 
-### [Kimera Platform](http://kimera.com/data/redlocal/redlocal.html)
+### [Kimera Platform](http://kimera.com/)
 
 The Kimera Local Network is a wireless network being developed by Karisma Foundation in Colombia, to address local connectivity needs. People can access the local network through mobiles, tablets, computers and any other device with the option of wireless or wired access.
 
