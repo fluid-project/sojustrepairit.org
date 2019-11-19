@@ -2,6 +2,9 @@
 title: Youth Leadership Resources
 type: resource
 weight: 9
+imgURL: ' '
+imgAlt: ' '
+imgCap: ' '
 ---
 {{< resource title="Youth Leadership" >}}
 
@@ -17,6 +20,13 @@ The ValueAble Leader Project is an emerging digital toolkit designed to support 
 ### [Youth Guides to Action](https://www.tigweb.org/action-tools/guide/)
 
 TakingITGlobal's Action Guides are designed to help you turn your ideas and dreams into reality. The general guide and the issue-specific guides are workbooks for you to download, use and share.
+
+### [Rising Youth Take Action Guides](https://risingyouth.ca/)
+What's one thing you wish you could improve about your community? Download the #RisingYouth Take Action Guide which will help you develop and plan a project which you can then submit an application to launch!
+
+View the guide online by selecting a language:
+[English](https://risingyouth.ca/files/Rising-Youth_Take-Action-Guide.pdf)
+[Français](https://risingyouth.ca/files/Jeunes-en-action_Guide-a-laction.pdf)
 
 ### [The Youth Effect doc](https://www.scribd.com/document/44198893/The-Youth-Effect)
 
