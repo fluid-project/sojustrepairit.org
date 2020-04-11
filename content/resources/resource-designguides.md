@@ -5,7 +5,7 @@ weight: 2
 ---
 {{< resource title="Inclusive Design Guides" >}}
 
-<p class="resource-intro">Inclusive design recognizes diversity and uniqueness for broad beneficial impact. How can we apply Inclusive Design principals and strategies in our projects?</p>
+<p class="resource-intro">Inclusive design recognizes diversity and uniqueness for broad beneficial impact. How can we apply Inclusive Design principles and strategies in our projects?</p>
 
 ### [The Inclusive Design Guide](https://guide.inclusivedesign.ca/)
 
