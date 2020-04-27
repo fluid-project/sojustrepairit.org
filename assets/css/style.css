@@ -193,6 +193,7 @@ nav .current {
     padding: 0.5em;
     background: #FFF;
     border-radius: 6px;
+    line-height: 50px;
 }
 
 .featured-resource {
